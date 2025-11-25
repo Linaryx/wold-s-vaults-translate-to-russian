@@ -1,0 +1,12 @@
+{
+  "name": "Пиявка (префикс)",
+  "icon": "incorporeal:single_compressed_tiny_potato",
+  "category": "patchouli:magnet_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "грот:магнит",
+      "text": "Пиявка исцеляет вас, когда вы убиваете врага.$(br2)Этот магнитный префикс встречается только в качестве необычного модификатора."
+    }
+  ]
+}

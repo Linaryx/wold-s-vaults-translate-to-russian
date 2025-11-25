@@ -1,0 +1,4398 @@
+{
+  "series": {
+    "Deepcrag": {
+      "displayName": "Deepcrag",
+      "colour": 5786945,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "More ",
+              "color": "white"
+            },
+            {
+              "text": "ores",
+              "color": "$name"
+            },
+            {
+              "text": " and ",
+              "color": "white"
+            },
+            {
+              "text": "Хроматические пещеры",
+              "color": "$name"
+            },
+            {
+              "text": " generate\n",
+              "color": "white"
+            },
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Шахтеры Дипрота ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Orebound ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Belcher ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ✚",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░",
+              "color": "$darkgray"
+            }
+          ]
+        }
+      ]
+    },
+    "Saltshade": {
+      "displayName": "Saltshade",
+      "colour": 4765616,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "More ",
+              "color": "white"
+            },
+            {
+              "text": "Кучи монет",
+              "color": "$name"
+            },
+            {
+              "text": " и они больше\n",
+              "color": "white"
+            },
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Drowned ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Pirateon ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Crab ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🛡",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Sunken ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░",
+              "color": "$darkgray"
+            }
+          ]
+        }
+      ]
+    },
+    "Tropics": {
+      "displayName": "Tropics",
+      "colour": 3107328,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "More ",
+              "color": "white"
+            },
+            {
+              "text": "Кучи монет",
+              "color": "$name"
+            },
+            {
+              "text": " и они больше\n",
+              "color": "white"
+            },
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Drowned ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Tropiskellies ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Crab ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🛡",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Голова острова Пасхи ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░",
+              "color": "$darkgray"
+            }
+          ]
+        }
+      ]
+    },
+    "Bloodveil": {
+      "displayName": "Bloodveil",
+      "colour": 8267302,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Painite",
+              "color": "$name"
+            },
+            {
+              "text": " and ",
+              "color": "white"
+            },
+            {
+              "text": "Черный опал",
+              "color": "$name"
+            },
+            {
+              "text": " чаще всего",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            },
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Rocklings ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Кровавый бродяга ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Кровавая слизь ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Bloodfish ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Рок-Халк ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 5",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🛡",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░",
+              "color": "$darkgray"
+            }
+          ]
+        }
+      ]
+    },
+    "Snowfell": {
+      "displayName": "Snowfell",
+      "colour": 13232880,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Larimar",
+              "color": "$name"
+            },
+            {
+              "text": " чаще всего",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            },
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Frostwalkers ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Stray ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹 ❄",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Wolf ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Полярный медведь ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Shiver ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ❄",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░",
+              "color": "$darkgray"
+            }
+          ]
+        }
+      ]
+    },
+    "Glimmergrove": {
+      "displayName": "Glimmergrove",
+      "colour": 8762936,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Алмазные и Ларимаровые пещеры",
+              "color": "$name"
+            },
+            {
+              "text": " можно найти.",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            },
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░░",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Overgrown ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Spider ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Slime ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Stonewarden ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░",
+              "color": "$darkgray"
+            }
+          ]
+        }
+      ]
+    },
+    "Sporegrove": {
+      "displayName": "Sporegrove",
+      "colour": 10377914,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "None",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            },
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░░",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Funguy ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Levishroom ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Slime ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Deathcap ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░",
+              "color": "$darkgray"
+            }
+          ]
+        }
+      ]
+    },
+    "Nether": {
+      "displayName": "Nether",
+      "colour": 6946816,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Больше уникальных драгоценных камней",
+              "color": "$name"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            },
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Piglin ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Увядший скелет ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Blaze ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Слизь магмы ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Brute ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░",
+              "color": "$darkgray"
+            }
+          ]
+        }
+      ]
+    },
+    "Void": {
+      "displayName": "Void",
+      "colour": 4077133,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Больше самоцветов Эхо",
+              "color": "$name"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            },
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Глубокий зомби ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Глубокий скелет ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Enderman ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ↯",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Shulker ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 0",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "🏹 ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Deeplings ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░░",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Warden ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░",
+              "color": "$darkgray"
+            }
+          ]
+        }
+      ]
+    },
+    "Candoria": {
+      "displayName": "Candoria",
+      "colour": 15560362,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "None",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            },
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Yellow ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Blue ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Green ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Злой кролик ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Red ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 5",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░",
+              "color": "$darkgray"
+            }
+          ]
+        }
+      ]
+    },
+    "Sandsworn": {
+      "displayName": "Sandsworn",
+      "colour": 15192471,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Alexandrite",
+              "color": "$name"
+            },
+            {
+              "text": " чаще всего",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            },
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Husk ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Skeleton ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Creeper ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 0",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ✸",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Mummy ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░",
+              "color": "$darkgray"
+            }
+          ]
+        }
+      ]
+    },
+    "Gods": {
+      "displayName": "God",
+      "colour": 40595,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Алтари Бога",
+              "color": "$name"
+            },
+            {
+              "text": " всегда являются богом темы.",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            }
+          ]
+        }
+      ]
+    },
+    "Grimdark": {
+      "displayName": "Grimdark",
+      "colour": 14394,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Черный опал и паинит",
+              "color": "$name"
+            },
+            {
+              "text": " чаще всего",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            },
+            {
+              "text": "Специальные комнаты",
+              "color": "$name"
+            },
+            {
+              "text": " встречаются чаще",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            },
+            {
+              "text": "Специальные ресурсные комнаты",
+              "color": "$name"
+            },
+            {
+              "text": " можно найти",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            },
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Неистовые гоблины ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3 ",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Лич плоти ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Harpy ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ✸",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Костяной рыцарь ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░",
+              "color": "$darkgray"
+            }
+          ]
+        }
+      ]
+    },
+    "Chaos": {
+      "displayName": "Chaotic",
+      "colour": 8978547,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Предметы, сундуки и мобы ",
+              "color": "$name"
+            },
+            {
+              "text": " рандомизированы",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            }
+          ]
+        }
+      ]
+    },
+    "LostDepths": {
+      "displayName": "???",
+      "colour": 4077133,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Шанс найти редкий материал",
+              "color": "$name"
+            },
+            {
+              "text": " вместо руд хранилища",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            }
+          ]
+        }
+      ]
+    },
+    "Barnyard": {
+      "displayName": "Barnyard",
+      "colour": 8210205,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Вместо этого деревянные сундуки могут быть Живыми\n",
+              "color": "white"
+            }
+          ]
+        },
+        {
+          "description": [
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Агрессивный цыпленок ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Агрессивная свинья ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Джек О Веб ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Агрессивная овца ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Агрессивная корова ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 5",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🛡",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░",
+              "color": "$darkgray"
+            }
+          ]
+        }
+      ]
+    },
+    "Harvest": {
+      "displayName": "Harvest",
+      "colour": 8214301,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Будьте благодарны!\n",
+              "color": "white"
+            }
+          ]
+        },
+        {
+          "description": [
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Агрессивная Турция ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Джек О Веб ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Клюквенная слизь ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Зомби-селянин ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$оранж"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 5",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🛡",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░",
+              "color": "$darkgray"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "augments": {
+    "Deepcrag": [
+      "the_vault:classic_vault_cave",
+      "the_vault:classic_vault_cave_deepslate",
+      "the_vault:classic_vault_cave_geode",
+      "the_vault:classic_vault_cave_wasteland",
+      "the_vault:skaia_vault_prismatic_umbra"
+    ],
+    "Saltshade": [
+      "the_vault:classic_vault_beach",
+      "the_vault:classic_vault_flooded",
+      "the_vault:classic_vault_shipwreck",
+      "the_vault:classic_vault_haunted",
+      "the_vault:classic_vault_sea_floor",
+      "the_vault:classic_vault_season_summer"
+    ],
+    "Tropics": [
+      "the_vault:classic_vault_tropical"
+    ],
+    "Bloodveil": [
+      "the_vault:classic_vault_blood_ash",
+      "the_vault:classic_vault_blood_moon",
+      "the_vault:classic_vault_flesh",
+      "the_vault:classic_vault_blood"
+    ],
+    "Snowfell": [
+      "the_vault:classic_vault_aurora_cave",
+      "the_vault:classic_vault_ice_cave",
+      "the_vault:classic_vault_ice",
+      "the_vault:classic_vault_season_winter"
+    ],
+    "Glimmergrove": [
+      "the_vault:classic_vault_lush_cave",
+      "the_vault:classic_vault_living_cave",
+      "the_vault:classic_vault_season_spring",
+      "the_vault:skaia_vault_autumn_cherry_grove"
+    ],
+    "Sporegrove": [
+      "the_vault:classic_vault_mushroom",
+      "the_vault:classic_vault_fairy_ring",
+      "the_vault:classic_vault_poison",
+      "the_vault:classic_vault_season_fall"
+    ],
+    "Nether": [
+      "the_vault:classic_vault_nether_crimson",
+      "the_vault:classic_vault_nether_warped",
+      "the_vault:classic_vault_nether_blackstone",
+      "the_vault:classic_vault_nether_soul"
+    ],
+    "Void": [
+      "the_vault:classic_vault_void",
+      "the_vault:classic_vault_factory_void",
+      "the_vault:classic_vault_end_void"
+    ],
+    "Candoria": [
+      "the_vault:classic_vault_sweet",
+      "the_vault:classic_vault_easter_egg",
+      "the_vault:classic_vault_easter_pastel",
+      "the_vault:skaia_vault_prismatic_lumen"
+    ],
+    "Sandsworn": [
+      "the_vault:classic_vault_desert",
+      "the_vault:classic_vault_sandy_cave",
+      "the_vault:classic_vault_mesa",
+      "the_vault:classic_vault_deep_mesa"
+    ],
+    "Gods": [
+      "the_vault:classic_vault_tenos_normal",
+      "the_vault:classic_vault_idona_normal",
+      "the_vault:classic_vault_wendarr_normal",
+      "the_vault:classic_vault_velara_normal"
+    ],
+    "Grimdark": [
+      "the_vault:classic_vault_dark_cavern"
+    ],
+    "Chaos": [
+      "the_vault:classic_vault_chaos"
+    ],
+    "LostDepths": [
+      "the_vault:vault_lost_depths"
+    ],
+    "RawVault": [
+      "the_vault:raw_vault_cave",
+      "the_vault:raw_vault_cave_lvl10",
+      "the_vault:raw_vault_cave_lvl20",
+      "the_vault:raw_vault_cave_lvl30",
+      "the_vault:raw_vault_cave_granite",
+      "the_vault:raw_vault_cave_granite_lvl10",
+      "the_vault:raw_vault_cave_granite_lvl20",
+      "the_vault:raw_vault_cave_granite_lvl30",
+      "the_vault:raw_vault_cave_diorite",
+      "the_vault:raw_vault_cave_diorite_lvl10",
+      "the_vault:raw_vault_cave_diorite_lvl20",
+      "the_vault:raw_vault_cave_diorite_lvl30",
+      "the_vault:raw_vault_cave_andersite",
+      "the_vault:raw_vault_cave_andersite_lvl10",
+      "the_vault:raw_vault_cave_andersite_lvl20",
+      "the_vault:raw_vault_cave_andersite_lvl30"
+    ],
+    "Plastic": [
+      "the_vault:classic_vault_plastic"
+    ],
+    "Spooky": [
+      "the_vault:classic_vault_gloom"
+    ],
+    "Harvest": [
+      "the_vault:classic_vault_thanksgiving"
+    ],
+    "Barnyard": [
+      "the_vault:classic_vault_barnyard"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Блок \"Шанс\" (неявный)",
+  "icon": "immersiveengineering:shield",
+  "category": "patchouli:offhand_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "гробница: щит",
+      "text": "Находится в виде Offhand Implicit только на щитах хранилища.$(br2)Block Chance - это шанс, что вы сведете на нет одну единицу урона."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Регенерация маны (неявно)",
+  "icon": "botania:mana_bottle",
+  "category": "patchouli:weapon_implicits",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Реген маны увеличивает скорость восстановления маны."
+    }
+  ]
+}

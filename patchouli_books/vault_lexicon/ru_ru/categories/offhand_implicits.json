@@ -1,0 +1,6 @@
+{
+  "name": "Имплициты в руках",
+  "description": "Эти имплициты могут появляться на предметах Offhand Vault Gear (жезл, фокус, щит и т. д.).",
+  "sortnum": 7,
+  "icon": "the_vault:shield"
+}

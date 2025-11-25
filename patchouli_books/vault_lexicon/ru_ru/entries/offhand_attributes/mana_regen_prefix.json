@@ -1,0 +1,11 @@
+{
+  "name": "Регенерация маны (префикс)",
+  "icon": "botania:mana_bottle",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Реген маны увеличивает скорость регенерации маны.$(br2)Этот префикс Offhand встречается только как модификатор Unusual."
+    }
+  ]
+}

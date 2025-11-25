@@ -1,0 +1,12 @@
+{
+  "name": "Сила способностей (префикс)",
+  "icon": "occultism:spirit_fire",
+  "category": "patchouli:magnet_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "грот:магнит",
+      "text": "Сила способностей используется во многих умениях, таких как Fireball и Nova, для расчета урона.$(br2)Этот префикс Magnet встречается только в качестве модификатора Unusual."
+    }
+  ]
+}

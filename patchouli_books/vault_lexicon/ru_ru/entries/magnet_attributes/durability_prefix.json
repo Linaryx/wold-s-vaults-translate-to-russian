@@ -1,0 +1,12 @@
+{
+  "name": "Долговечность (префикс)",
+  "icon": "minecraft:shield",
+  "category": "patchouli:magnet_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "грот:магнит",
+      "text": "Префикс Durability добавляет дополнительную максимальную прочность к Vault Gear."
+    }
+  ]
+}

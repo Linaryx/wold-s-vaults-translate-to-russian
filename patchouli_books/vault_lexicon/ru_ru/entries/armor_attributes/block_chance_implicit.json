@@ -1,0 +1,11 @@
+{
+  "name": "Блок \"Шанс\" (неявный)",
+  "icon": "immersiveengineering:shield",
+  "category": "patchouli:armor_implicits",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Находится в качестве неявной брони только на нагрудных пластинах хранилища.$(br2)Шанс блокировки - это шанс, что вы сведете на нет одну единицу урона."
+    }
+  ]
+}

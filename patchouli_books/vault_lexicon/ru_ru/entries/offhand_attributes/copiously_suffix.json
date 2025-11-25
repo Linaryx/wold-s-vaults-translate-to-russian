@@ -1,0 +1,11 @@
+{
+  "name": "Копительно (суффикс)",
+  "icon": "the_vault:gem_echo",
+  "category": "patchouli:offhand_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Копилка - это шанс получить несколько драгоценных камней при добыче руды хранилища."
+    }
+  ]
+}

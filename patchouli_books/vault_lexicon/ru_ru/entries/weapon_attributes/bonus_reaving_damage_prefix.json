@@ -1,0 +1,11 @@
+{
+  "name": "Бонусный урон от ривинга (префикс)",
+  "icon": "minecraft:diamond_axe",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Reaving - это дополнительный % от максимального HP в качестве урона при ПЕРВОМ попадании по мобу."
+    }
+  ]
+}

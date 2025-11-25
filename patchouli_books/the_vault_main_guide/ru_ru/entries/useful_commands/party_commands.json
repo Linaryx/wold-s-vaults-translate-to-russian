@@ -1,0 +1,18 @@
+{
+  "sortnum": 3,
+  "name": "Команды партии",
+  "icon": "minecraft:player_head",
+  "category": "patchouli:useful_commands_category",
+  "read_by_default": "правда",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l:the_vault/cooperative_vaults#parties)$(t:Parties)Партии$() могут быть созданы и управляться для $(l)кооперативных$() хранилищ.$(br2)Существует также $(l)$(l:useful_commands/gamerule_commands) геймерское правило$(), чтобы определить, что игроки $(l)обязаны$() быть $(l)в партии$(), чтобы присоединиться к кооперативному хранилищу.$(br2)"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Команды партии",
+      "text": "$(li)$(c:/party create)$(t:Click to execute this command)$(l)/party create$()$(li2)Создает партию$()$(br)$(li) $(8) $(l) /party invite <player>$()$(li2)Приглашает игрока в партию$()$(br)$(li) $(8) $(l) /party remove <player>$()$(li2)Удаляет игрока из партии$()$(br)$(li) $(c:/party disband) $(t:Click to execute this command) $(l) /party disband$()$(li2)Распускает партию$()"
+    }
+  ]
+}

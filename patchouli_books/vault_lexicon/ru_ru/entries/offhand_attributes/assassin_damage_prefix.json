@@ -1,0 +1,12 @@
+{
+  "name": "Урон ассасина (префикс)",
+  "icon": "ae2:nether_quartz_cutting_knife",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:plushie",
+      "text": "Встречается только на плюшках Vault Plushies.$(br2)Враги, появляющиеся в хранилищах, делятся на разные категории.$(br2)Assassin Damage наносит бонусный урон врагам класса Assassin, к которым относятся большинство скелетов, слизней, криперов и т.д."
+    }
+  ]
+}

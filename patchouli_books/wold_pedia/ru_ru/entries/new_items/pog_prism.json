@@ -1,0 +1,17 @@
+{
+  "sortnum": 3,
+  "name": "Призма Пога",
+  "icon": "the_vault:pog_prism",
+  "category": "patchouli:new_items",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Призма Пога - это крафтовый ингредиент, который представляет собой нечто среднее между Погом и Эхо-Погом."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "woldsvaults:extraordinary_pog_prism",
+      "text": "Призма Пога позволяет использовать все драгоценные камни хранилища в игре!"
+    }
+  ]
+}

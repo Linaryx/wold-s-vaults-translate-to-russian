@@ -1,0 +1,11 @@
+{
+  "name": "Увеличение способностей (префикс)",
+  "icon": "ironchests:blank_chest_upgrade",
+  "category": "patchouli:armor_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "префиксом +Ability может быть любая способность, включая специализацию.$(br2)Чтобы использовать +Ability, вы должны иметь хотя бы одно очко в способности и ее специализации."
+    }
+  ]
+}

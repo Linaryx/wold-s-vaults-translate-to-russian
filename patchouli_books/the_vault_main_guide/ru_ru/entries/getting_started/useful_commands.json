@@ -1,0 +1,22 @@
+{
+  "sortnum": 7,
+  "name": "Полезные команды",
+  "icon": "supplementaries:hanging_sign_oak",
+  "category": "patchouli:getting_started_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Существует множество команд, которые могут $(l)изменить$() глобальный опыт игрока $(l)в Vault Hunters.$(br2)Эти команды могут быть выполнены $(l)непосредственно$() из $(l)этой книги$()."
+    },
+    {
+      "type": "patchouli:relations",
+      "title": "Главы",
+      "entries": [
+        "пачули:полезные_команды/трудные_команды",
+        "patchouli:useful_commands/gamerule_commands",
+        "patchouli:useful_commands/party_commands",
+        "пачули:полезные_команды/исследовательские_команды"
+      ]
+    }
+  ]
+}

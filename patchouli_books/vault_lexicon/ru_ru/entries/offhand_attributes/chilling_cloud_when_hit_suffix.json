@@ -1,0 +1,11 @@
+{
+  "name": "Охлаждающее облако при ударе (суффикс)",
+  "icon": "minecraft:snowball",
+  "category": "patchouli:offhand_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Суффиксы Cloud When Hit имеют шанс активироваться при попадании, покрывая область вокруг вас облаком.$(br2)Chilling Clouds накладывает на врагов Chilling, замедляя их."
+    }
+  ]
+}

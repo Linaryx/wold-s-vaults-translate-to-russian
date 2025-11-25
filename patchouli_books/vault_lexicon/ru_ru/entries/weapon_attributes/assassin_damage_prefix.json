@@ -1,0 +1,11 @@
+{
+  "name": "Урон ассасина (префикс)",
+  "icon": "ae2:nether_quartz_cutting_knife",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Враги, появляющиеся в хранилищах, делятся на разные категории.$(br2)Assassin Damage наносит бонусный урон врагам класса Assassin, к которым относятся большинство скелетов, слизней, криперов и т.д."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Шанс оглушающей атаки (суффикс)",
+  "icon": "fairylights:star_light",
+  "category": "patchouli:offhand_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:plushie",
+      "text": "Встречается как суффикс Offhand только у Vault Plushies.$(br2)Шанс оглушения при атаке имеет шанс активироваться при каждой атаке, оглушая противника и заставляя его перестать двигаться и атаковать."
+    }
+  ]
+}

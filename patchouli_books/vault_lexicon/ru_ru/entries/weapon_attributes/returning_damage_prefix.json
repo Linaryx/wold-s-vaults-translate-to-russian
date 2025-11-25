@@ -1,0 +1,12 @@
+{
+  "name": "Возвращение ущерба (префикс)",
+  "icon": "archers_paradox:slime_arrow",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:rang",
+      "text": "Встречается в качестве префикса оружия только у валтарангов.$(br2)Возвращающийся урон поражает врагов, если валтаранг летит обратно к вам и проходит сквозь врага."
+    }
+  ]
+}

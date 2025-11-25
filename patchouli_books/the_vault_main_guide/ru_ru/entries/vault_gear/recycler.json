@@ -1,0 +1,19 @@
+{
+  "sortnum": 5,
+  "name": "Переработка",
+  "icon": "the_vault:vault_recycler",
+  "category": "patchouli:vault_gear_category",
+  "read_by_default": "правда",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Vault Gear можно переработать в $(l)небольшое$() количество ресурсов.$(br2)За это можно получить $(l)Vault Scrap$(), $(l)Magnetite$(), $(l)Trinket Scrap$() или другие материалы, в зависимости от варианта переплавки.$(br2)$(l) Неопознанные$() Vault Gear также могут быть переработаны."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "the_vault:vault_recycler",
+      "title": "Переработчик хранилищ",
+      "text": "Это делается в Vault Recycler.$(br2)Чем больше $(l)прочность$() Vault Gear была снижена, тем $(l)меньше$() количество $(l)материалов$(), получаемых при переработке."
+    }
+  ]
+}

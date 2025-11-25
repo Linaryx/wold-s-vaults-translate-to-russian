@@ -1,0 +1,12 @@
+{
+  "name": "Редкость предмета (суффикс)",
+  "icon": "the_vault:vault_diamond",
+  "category": "patchouli:jewel_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:jewel",
+      "text": "Редкость предметов увеличивает шанс того, что каждый предмет в сундуке будет более редким."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Иммунитет к голоду (неявный)",
+  "icon": "minecraft:rotten_flesh",
+  "category": "patchouli:offhand_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:plushie",
+      "text": "Встречается в виде Offhand Implicit только на Vault Plushies.$(br2)Hunger Immunity прекращает действие эффектов от дебаффа Hunger, обычно используемого хасками."
+    }
+  ]
+}

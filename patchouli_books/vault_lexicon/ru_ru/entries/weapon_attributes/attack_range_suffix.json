@@ -1,0 +1,11 @@
+{
+  "name": "Дальность атаки (суффикс)",
+  "icon": "tropicraft:bamboo_spear",
+  "category": "patchouli:weapon_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Суффикс Attack Range добавляет дополнительную дальность к вашим атакам, позволяя поражать врагов с большего расстояния."
+    }
+  ]
+}

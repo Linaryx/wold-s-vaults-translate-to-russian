@@ -1,0 +1,12 @@
+{
+  "name": "Шанс шокирующего удара (суффикс)",
+  "icon": "thermal:lightning_charge",
+  "category": "patchouli:offhand_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:plushie",
+      "text": "Встречается как суффикс Offhand только у Vault Plushies.$(br2)Шанс шокирующего удара имеет шанс активироваться при каждой атаке, отбрасывая противника назад и на мгновение оглушая его."
+    }
+  ]
+}

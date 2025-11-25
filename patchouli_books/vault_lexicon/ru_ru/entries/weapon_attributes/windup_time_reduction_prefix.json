@@ -1,0 +1,12 @@
+{
+  "name": "Сокращение времени подзавода (префикс)",
+  "icon": "botania:cosmetic_clock_eye",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:trident",
+      "text": "Встречается в качестве префикса оружия только на трезубцах хранилища.$(br2)Уменьшает время, необходимое для подготовки трезубца к броску."
+    }
+  ]
+}

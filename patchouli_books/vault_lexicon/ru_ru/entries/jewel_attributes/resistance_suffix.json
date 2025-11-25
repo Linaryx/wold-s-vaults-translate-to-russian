@@ -1,0 +1,12 @@
+{
+  "name": "Сопротивление (суффикс)",
+  "icon": "minecraft:obsidian",
+  "category": "patchouli:jewel_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:jewel",
+      "text": "Сопротивление уменьшает количество получаемого урона (после расчета снижения брони)."
+    }
+  ]
+}

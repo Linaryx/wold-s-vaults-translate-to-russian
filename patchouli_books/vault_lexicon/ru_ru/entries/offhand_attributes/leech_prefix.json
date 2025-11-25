@@ -1,0 +1,11 @@
+{
+  "name": "Пиявка (префикс)",
+  "icon": "incorporeal:single_compressed_tiny_potato",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Пиявка исцеляет вас, когда вы убиваете врага.$(br2)Этот префикс Offhand встречается только в качестве модификатора Unusual."
+    }
+  ]
+}

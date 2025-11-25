@@ -1,0 +1,19 @@
+{
+  "sortnum": 5,
+  "name": "Исследования",
+  "icon": "the_vault:knowledge_star",
+  "category": "patchouli:skills_category",
+  "read_by_default": "правда",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Большинство модов в Vault Hunters $(l)заперты$() за $(l)Исследователями$().$(br2)Исследователи $(l)сгруппированы$(), что делает разблокировку исследования потенциально $(l)увеличивающей$() $(l)стоимость$() $(l)других$() Исследований в $(l)той же группе$().$(br2)Некоторые Исследования также открывают $(l:vault_gear/identification#model)$(t:Model) $(l) модель$() для $(l)Vault Gear$().$(br2)Исследованиями можно $(l:useful_commands/research_commands)$(l) делиться$() с другими игроками."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "the_vault:knowledge_star",
+      "title": "Звезды знаний",
+      "text": "Исследования можно открыть, потребляя $(l)Звезды знаний$().$(br2)После изучения исследование $(l)не$() может быть $(l)не изучено$()."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Сила способностей (Идона)",
+  "icon": "occultism:spirit_fire",
+  "category": "patchouli:vault_god_charm_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Встречается только на амулетах бога хранилища Идоны.$(br2)Сила способностей используется во многих умениях, таких как Fireball и Nova, для расчета урона."
+    }
+  ]
+}

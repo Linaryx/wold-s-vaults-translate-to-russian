@@ -1,0 +1,11 @@
+{
+  "name": "Шанс на удачу (суффикс)",
+  "icon": "botania:cosmetic_four_leaf_clover",
+  "category": "patchouli:weapon_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Lucky Hit Chance определяет шанс активации Lucky Hit при каждой атаке.$(br2)У вас должны быть очки, потраченные на эффекты Lucky Hit в Талантах."
+    }
+  ]
+}

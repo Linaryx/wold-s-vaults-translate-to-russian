@@ -1,0 +1,11 @@
+{
+  "name": "Область действия (суффикс)",
+  "icon": "controlengineering:empty_tape",
+  "category": "patchouli:weapon_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Область действия увеличивает область действия атак и эффектов, основанных на АоЕ, таких как эффекты облаков."
+    }
+  ]
+}

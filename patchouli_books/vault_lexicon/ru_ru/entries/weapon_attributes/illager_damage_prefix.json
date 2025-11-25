@@ -1,0 +1,11 @@
+{
+  "name": "Урон Иллагера (префикс)",
+  "icon": "minecraft:pillager_spawn_egg",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Враги, появляющиеся в хранилищах, делятся на разные категории.$(br2)Illager Damage наносит бонусный урон врагам класса Illager, к которым относятся мстители, вексы и т. д.$(br2)Этот префикс можно получить только с помощью модификатора Workbench."
+    }
+  ]
+}

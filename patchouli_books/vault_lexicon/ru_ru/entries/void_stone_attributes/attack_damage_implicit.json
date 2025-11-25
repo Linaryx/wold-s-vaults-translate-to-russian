@@ -1,0 +1,12 @@
+{
+  "name": "Урон от атаки (неявный)",
+  "icon": "minecraft:iron_sword",
+  "category": "patchouli:void_stone_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:void_stone",
+      "text": "Атакующий урон - это количество дополнительного базового урона, наносимого оружием за один взмах."
+    }
+  ]
+}

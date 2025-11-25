@@ -1,0 +1,12 @@
+{
+  "name": "Сопротивление ударам (суффикс)",
+  "icon": "minecraft:slime_ball",
+  "category": "patchouli:jewel_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:jewel",
+      "text": "Knockback Resist снижает количество ударов, отбрасывающих вас назад от вражеских атак."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "groups": [
+    {
+      "id": "@the_vault:horde",
+      "icon": "the_vault:gui/mob_groups/horde",
+      "color": "#FF0000",
+      "showHealthbar": true,
+      "displayName": "Орды",
+      "stackValue": 1
+    },
+    {
+      "id": "@the_vault:assassin",
+      "icon": "the_vault:gui/mob_groups/assassin",
+      "color": "#FF0000",
+      "showHealthbar": true,
+      "displayName": "Ассасины",
+      "stackValue": 3
+    },
+    {
+      "id": "@the_vault:tank",
+      "icon": "the_vault:gui/mob_groups/tank",
+      "color": "#FF0000",
+      "showHealthbar": true,
+      "displayName": "Танки",
+      "stackValue": 10
+    },
+    {
+      "id": "@the_vault:fighter",
+      "icon": "the_vault:gui/mob_groups/dweller",
+      "color": "#FF0000",
+      "showHealthbar": true,
+      "displayName": "Жильцы",
+      "stackValue": 1
+    },
+    {
+      "id": "@the_vault:dungeon",
+      "icon": "the_vault:gui/mob_groups/dungeon",
+      "color": "#FF0000",
+      "showHealthbar": true,
+      "displayName": "Мобы подземелья",
+      "stackValue": 10
+    },
+    {
+      "id": "@the_vault:guardians",
+      "icon": "the_vault:gui/mob_groups/guardians",
+      "color": "#FF0000",
+      "showHealthbar": true,
+      "displayName": "Хранители",
+      "stackValue": 7
+    },
+    {
+      "id": "@the_vault:illagers",
+      "icon": "the_vault:gui/mob_groups/illagers",
+      "color": "#FF0000",
+      "showHealthbar": true,
+      "displayName": "Illagers",
+      "stackValue": 1
+    },
+    {
+      "id": "@the_vault:mob_type/champion",
+      "icon": "the_vault:gui/mob_groups/champion",
+      "color": "#FF0000",
+      "showHealthbar": true,
+      "displayName": "Чемпионы",
+      "stackValue": 30
+    },
+    {
+      "id": "@the_vault:minions",
+      "icon": "the_vault:gui/mob_groups/minions",
+      "color": "#FF0000",
+      "showHealthbar": true,
+      "displayName": "Миньоны",
+      "stackValue": 1
+    },
+    {
+      "id": "@the_vault:elite",
+      "icon": "the_vault:gui/mob_groups/elites",
+      "color": "#FF0000",
+      "showHealthbar": false,
+      "displayName": "Элита",
+      "stackValue": 20
+    },
+    {
+      "id": "@the_vault:bosses",
+      "icon": "the_vault:gui/mob_groups/boss",
+      "color": "#FF0000",
+      "showHealthbar": false,
+      "displayName": "Боссы",
+      "stackValue": 30
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Повреждения обитателя (префикс)",
+  "icon": "create:goggles",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Враги, появляющиеся в хранилищах, делятся на разные категории.$(br2)Dweller Damage наносит бонусный урон врагам класса Dweller, к которым относятся бойцы хранилищ."
+    }
+  ]
+}

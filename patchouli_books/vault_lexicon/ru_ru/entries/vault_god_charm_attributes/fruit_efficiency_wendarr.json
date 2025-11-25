@@ -1,0 +1,12 @@
+{
+  "name": "Эффективность фруктов (Вендарр)",
+  "icon": "minecraft:iron_chestplate",
+  "category": "patchouli:vault_god_charm_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:vault_god_charm",
+      "text": "Встречается только на амулетах Бога Свода, связанных с Вендарром.$(br2)Эффективность фруктов увеличивает время, получаемое при потреблении фруктов Свода."
+    }
+  ]
+}

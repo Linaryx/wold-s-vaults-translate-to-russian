@@ -1,0 +1,11 @@
+{
+  "name": "Сердце Фраг Шанс (Префикс)",
+  "icon": "woldsvaults:heart_of_chaos",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Heart Frag Chance - это шанс выпадения сердца при убийстве моба, которое немного подлечит вас, когда вы его подберете."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "sortnum": 3,
+  "name": "Сосредоточение",
+  "icon": "woldsvaults:chiseling_focus",
+  "category": "patchouli:new_items",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Chiseling Focus - это новый предмет, который можно использовать для удаления ненужных модификаторов из инструмента хранилища. "
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Вы даже можете полностью убрать модификатор добычи из инструмента, например, убрать \"Жатву\" из серпа, чтобы превратить его в палку!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "woldsvaults:chiseling_focus_gilded",
+      "text": "Выше приведен лишь пример рецепта для Chiseling Focus, для каждого модификатора, который вы можете получить на Vault Tool, существуют свои рецепты."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Nether Damage (Prefix)",
+  "icon": "minecraft:netherrack",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Враги, появляющиеся в хранилищах, делятся на разные категории.$(br2)Nether Damage наносит бонусный урон врагам класса Nether, к которым относятся пиглины, кубы магмы и т. д.$(br2)Этот префикс можно получить только с помощью модификатора Workbench."
+    }
+  ]
+}

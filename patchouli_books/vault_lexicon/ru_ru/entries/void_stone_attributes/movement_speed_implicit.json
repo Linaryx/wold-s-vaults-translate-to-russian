@@ -1,0 +1,12 @@
+{
+  "name": "Скорость передвижения (неявная)",
+  "icon": "pneumaticcraft:pneumatic_boots",
+  "category": "patchouli:void_stone_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:void_stone",
+      "text": "Скорость передвижения увеличивает скорость вашего передвижения."
+    }
+  ]
+}

@@ -1,0 +1,9007 @@
+{
+  "values": {
+    "attack_damage": {
+      "type": "gear",
+      "name": {
+        "text": "Карта урона атаки"
+      },
+      "model": "the_vault:card/icon/attack_damage#inventory",
+      "groups": [
+        "Нападение",
+        "Стат"
+      ],
+      "attribute": "the_vault:attack_damage",
+      "pool": [
+        {
+          "min": 1,
+          "max": 1,
+          "step": 0.5,
+          "tier": 1
+        },
+        {
+          "min": 2,
+          "max": 2,
+          "step": 0.5,
+          "tier": 2
+        },
+        {
+          "min": 3,
+          "max": 3,
+          "step": 0.5,
+          "tier": 3
+        },
+        {
+          "min": 4,
+          "max": 4,
+          "step": 0.5,
+          "tier": 4
+        },
+        {
+          "min": 5,
+          "max": 5,
+          "step": 0.5,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_attack_damage": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка урона атаки Делюкс"
+      },
+      "model": "the_vault:card/icon/attack_damage#inventory",
+      "groups": [
+        "Нападение",
+        "Физическая",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:attack_damage",
+      "pool": [
+        {
+          "min": 10,
+          "max": 10,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "health": {
+      "type": "gear",
+      "name": {
+        "text": "Медицинская карта"
+      },
+      "model": "the_vault:card/icon/health#inventory",
+      "groups": [
+        "Защита",
+        "Физическая",
+        "Стат"
+      ],
+      "attribute": "the_vault:health",
+      "pool": [
+        {
+          "min": 1,
+          "max": 1,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 2,
+          "max": 2,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 3,
+          "max": 3,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 4,
+          "max": 4,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 5,
+          "max": 5,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_health": {
+      "type": "gear",
+      "name": {
+        "text": "Медицинская карта люкс"
+      },
+      "model": "the_vault:card/icon/health#inventory",
+      "groups": [
+        "Защита",
+        "Физическая",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:health",
+      "pool": [
+        {
+          "min": 10,
+          "max": 10,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "apflat": {
+      "type": "gear",
+      "name": {
+        "text": "Карта силы способностей"
+      },
+      "model": "the_vault:card/icon/ability_power#inventory",
+      "groups": [
+        "Нападение",
+        "Стат",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:ability_power",
+      "pool": [
+        {
+          "min": 1,
+          "max": 1,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 2,
+          "max": 2,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 3,
+          "max": 3,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 4,
+          "max": 4,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 5,
+          "max": 5,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_apflat": {
+      "type": "gear",
+      "name": {
+        "text": "Карта силы способностей Делюкс"
+      },
+      "model": "the_vault:card/icon/ability_power#inventory",
+      "groups": [
+        "Нападение",
+        "Стат",
+        "Волшебный",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:ability_power",
+      "pool": [
+        {
+          "min": 12.5,
+          "max": 12.5,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "attack_speed": {
+      "type": "gear",
+      "name": {
+        "text": "Карта скорости атаки"
+      },
+      "model": "the_vault:card/icon/attack_speed#inventory",
+      "groups": [
+        "Нападение",
+        "Стат"
+      ],
+      "attribute": "the_vault:attack_speed_percent",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_attack_speed": {
+      "type": "gear",
+      "name": {
+        "text": "Карта скорости атаки Делюкс"
+      },
+      "model": "the_vault:card/icon/attack_speed#inventory",
+      "groups": [
+        "Нападение",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:attack_speed_percent",
+      "pool": [
+        {
+          "min": 0.075,
+          "max": 0.075,
+          "step": 1,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "cooldown_reduction": {
+      "type": "gear",
+      "name": {
+        "text": "Карта уменьшения колдауна"
+      },
+      "model": "the_vault:card/icon/cooldown_reduction#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат"
+      ],
+      "attribute": "the_vault:cooldown_reduction",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_cooldown_reduction": {
+      "type": "gear",
+      "name": {
+        "text": "Делюкс карта уменьшения колдауна"
+      },
+      "model": "the_vault:card/icon/cooldown_reduction#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:cooldown_reduction",
+      "pool": [
+        {
+          "min": 0.04,
+          "max": 0.04,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "crit_hit_resistance": {
+      "type": "gear",
+      "name": {
+        "text": "Карта сопротивления крит-ударам"
+      },
+      "model": "the_vault:card/icon/crit_hit_resistance#inventory",
+      "groups": [
+        "Защита",
+        "Стат"
+      ],
+      "attribute": "the_vault:critical_hit_mitigation",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_crit_hit_resistance": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка сопротивления крит-удару делюкс"
+      },
+      "model": "the_vault:card/icon/crit_hit_resistance#inventory",
+      "groups": [
+        "Защита",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:critical_hit_mitigation",
+      "pool": [
+        {
+          "min": 0.05,
+          "max": 0.05,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "healing_effectiveness": {
+      "type": "gear",
+      "name": {
+        "text": "Карта эффективности исцеления"
+      },
+      "model": "the_vault:card/icon/healing_efficiency#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат",
+        "Эссенция",
+        "Защита"
+      ],
+      "attribute": "the_vault:healing_effectiveness",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_healing_effectiveness": {
+      "type": "gear",
+      "name": {
+        "text": "Карта эффективности исцеления класса люкс"
+      },
+      "model": "the_vault:card/icon/healing_efficiency#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат",
+        "Эссенция",
+        "Защита",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:healing_effectiveness",
+      "pool": [
+        {
+          "min": 0.035,
+          "max": 0.035,
+          "step": 1,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "item_quantity": {
+      "type": "gear",
+      "name": {
+        "text": "Артикул Количество Карточка"
+      },
+      "model": "the_vault:card/icon/item_quantity#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат"
+      ],
+      "attribute": "the_vault:item_quantity",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_item_quantity": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка количества предметов класса люкс"
+      },
+      "model": "the_vault:card/icon/item_quantity#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:item_quantity",
+      "pool": [
+        {
+          "min": 0.03,
+          "max": 0.03,
+          "step": 1,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "item_rarity": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка редкости предмета"
+      },
+      "model": "the_vault:card/icon/item_rarity#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат"
+      ],
+      "attribute": "the_vault:item_rarity",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_item_rarity": {
+      "type": "gear",
+      "name": {
+        "text": "Карта редкости предметов роскоши"
+      },
+      "model": "the_vault:card/icon/item_rarity#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:item_rarity",
+      "pool": [
+        {
+          "min": 0.05,
+          "max": 0.05,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "knockback_resistance": {
+      "type": "gear",
+      "name": {
+        "text": "Карта сопротивления нокдауну"
+      },
+      "model": "the_vault:card/icon/knockback_resistance#inventory",
+      "groups": [
+        "Защита",
+        "Стат",
+        "Физическая"
+      ],
+      "attribute": "the_vault:knockback_resistance",
+      "pool": [
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.03,
+          "max": 0.03,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.04,
+          "max": 0.04,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.05,
+          "max": 0.05,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_knockback_resistance": {
+      "type": "gear",
+      "name": {
+        "text": "Делюкс карта сопротивления ударам"
+      },
+      "model": "the_vault:card/icon/knockback_resistance#inventory",
+      "groups": [
+        "Защита",
+        "Стат",
+        "Deluxe",
+        "Физическая"
+      ],
+      "attribute": "the_vault:knockback_resistance",
+      "pool": [
+        {
+          "min": 0.075,
+          "max": 0.075,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "lucky_hit_chance": {
+      "type": "gear",
+      "name": {
+        "text": "Карта шансов на удачу"
+      },
+      "model": "the_vault:card/icon/lucky_hit#inventory",
+      "groups": [
+        "Защита",
+        "Нападение",
+        "Коммунальное хозяйство",
+        "Стат"
+      ],
+      "attribute": "the_vault:lucky_hit_chance",
+      "pool": [
+        {
+          "min": 0.0025,
+          "max": 0.0025,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.0075,
+          "max": 0.0075,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.0125,
+          "max": 0.0125,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_lucky_hit_chance": {
+      "type": "gear",
+      "name": {
+        "text": "Карта шансов Lucky Hit Deluxe"
+      },
+      "model": "the_vault:card/icon/lucky_hit#inventory",
+      "groups": [
+        "Защита",
+        "Нападение",
+        "Коммунальное хозяйство",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:lucky_hit_chance",
+      "pool": [
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "mana_flat": {
+      "type": "gear",
+      "name": {
+        "text": "Карта маны"
+      },
+      "model": "the_vault:card/icon/mana#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эссенция",
+        "Стат"
+      ],
+      "attribute": "the_vault:mana_additive",
+      "pool": [
+        {
+          "min": 2,
+          "max": 2,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 4,
+          "max": 4,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 6,
+          "max": 6,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 8,
+          "max": 8,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 10,
+          "max": 10,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_mana_flat": {
+      "type": "gear",
+      "name": {
+        "text": "Карта маны класса люкс"
+      },
+      "model": "the_vault:card/icon/mana#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эссенция",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:mana_additive",
+      "pool": [
+        {
+          "min": 15,
+          "max": 15,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "mana_regeneration": {
+      "type": "gear",
+      "name": {
+        "text": "Карта регенерации маны"
+      },
+      "model": "the_vault:card/icon/mana_regeneration#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эссенция",
+        "Стат"
+      ],
+      "attribute": "the_vault:mana_regen",
+      "pool": [
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 0.01,
+          "tier": 1
+        },
+        {
+          "min": 0.04,
+          "max": 0.04,
+          "step": 0.01,
+          "tier": 2
+        },
+        {
+          "min": 0.06,
+          "max": 0.06,
+          "step": 0.01,
+          "tier": 3
+        },
+        {
+          "min": 0.08,
+          "max": 0.08,
+          "step": 0.01,
+          "tier": 4
+        },
+        {
+          "min": 0.1,
+          "max": 0.1,
+          "step": 0.01,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_mana_regeneration": {
+      "type": "gear",
+      "name": {
+        "text": "Делюкс-карта регенерации маны"
+      },
+      "model": "the_vault:card/icon/mana_regeneration#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эссенция",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:mana_regen",
+      "pool": [
+        {
+          "min": 0.15,
+          "max": 0.15,
+          "step": 0.01,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "mining_speed_flat": {
+      "type": "gear",
+      "name": {
+        "text": "Карта скорости добычи"
+      },
+      "model": "the_vault:card/icon/mining_speed#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат"
+      ],
+      "attribute": "the_vault:mining_speed",
+      "pool": [
+        {
+          "min": 2,
+          "max": 2,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 4,
+          "max": 4,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 6,
+          "max": 6,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 8,
+          "max": 8,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 10,
+          "max": 10,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_mining_speed_flat": {
+      "type": "gear",
+      "name": {
+        "text": "Карта скорости добычи Deluxe"
+      },
+      "model": "the_vault:card/icon/mining_speed#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:mining_speed",
+      "pool": [
+        {
+          "min": 12.5,
+          "max": 12.5,
+          "step": 1,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "resistance": {
+      "type": "gear",
+      "name": {
+        "text": "Карта сопротивления"
+      },
+      "model": "the_vault:card/icon/resistance#inventory",
+      "groups": [
+        "Защита",
+        "Стат",
+        "Физическая"
+      ],
+      "attribute": "the_vault:resistance",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 0.001,
+          "tier": 1
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 0.001,
+          "tier": 2
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 0.001,
+          "tier": 3
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 0.001,
+          "tier": 4
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 0.001,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_resistance": {
+      "type": "gear",
+      "name": {
+        "text": "Карта сопротивления класса люкс"
+      },
+      "model": "the_vault:card/icon/resistance#inventory",
+      "groups": [
+        "Защита",
+        "Стат",
+        "Deluxe",
+        "Физическая"
+      ],
+      "attribute": "the_vault:resistance",
+      "pool": [
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "soul_chance": {
+      "type": "gear",
+      "name": {
+        "text": "Карта количества душ"
+      },
+      "model": "the_vault:card/icon/soul_chance#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Волшебный",
+        "Стат"
+      ],
+      "attribute": "the_vault:soul_chance",
+      "pool": [
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 0.001,
+          "tier": 1
+        },
+        {
+          "min": 0.04,
+          "max": 0.04,
+          "step": 0.001,
+          "tier": 2
+        },
+        {
+          "min": 0.06,
+          "max": 0.06,
+          "step": 0.001,
+          "tier": 3
+        },
+        {
+          "min": 0.08,
+          "max": 0.08,
+          "step": 0.001,
+          "tier": 4
+        },
+        {
+          "min": 0.1,
+          "max": 0.1,
+          "step": 0.001,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_soul_chance": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка \"Количество душ\" класса люкс"
+      },
+      "model": "the_vault:card/icon/soul_chance#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Волшебный",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:soul_chance",
+      "pool": [
+        {
+          "min": 0.2,
+          "max": 0.2,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "thorns_flat": {
+      "type": "gear",
+      "name": {
+        "text": "Карта терний"
+      },
+      "model": "the_vault:card/icon/thorns#inventory",
+      "groups": [
+        "Нападение",
+        "Защита",
+        "Стат"
+      ],
+      "attribute": "the_vault:thorns_damage_flat",
+      "pool": [
+        {
+          "min": 1,
+          "max": 1,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 2,
+          "max": 2,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 3,
+          "max": 3,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 4,
+          "max": 4,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 5,
+          "max": 5,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_thorns_flat": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка \"Тернии\" класса люкс"
+      },
+      "model": "the_vault:card/icon/thorns#inventory",
+      "groups": [
+        "Нападение",
+        "Защита",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:thorns_damage_flat",
+      "pool": [
+        {
+          "min": 10,
+          "max": 10,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "trap_disarm": {
+      "type": "gear",
+      "name": {
+        "text": "Карта обезвреживания ловушек"
+      },
+      "model": "the_vault:card/icon/trap_disarm#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат"
+      ],
+      "attribute": "the_vault:trap_disarming",
+      "pool": [
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.03,
+          "max": 0.03,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.04,
+          "max": 0.04,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.05,
+          "max": 0.05,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_trap_disarm": {
+      "type": "gear",
+      "name": {
+        "text": "Карта обезвреживания ловушек класса люкс"
+      },
+      "model": "the_vault:card/icon/trap_disarm#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:trap_disarming",
+      "pool": [
+        {
+          "min": 0.075,
+          "max": 0.075,
+          "step": 1,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "mana_additive_percentile": {
+      "type": "gear",
+      "name": {
+        "text": "Масштабная карта маны"
+      },
+      "model": "the_vault:card/icon/mana_percentile#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эссенция",
+        "Стат"
+      ],
+      "attribute": "the_vault:mana_additive_percentile",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_mana_additive_percentile": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка маны масштаба люкс"
+      },
+      "model": "the_vault:card/icon/mana_percentile#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эссенция",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:mana_additive_percentile",
+      "pool": [
+        {
+          "min": 0.05,
+          "max": 0.05,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "damage_increase": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка масштабирования урона атаки"
+      },
+      "model": "the_vault:card/icon/attack_damage_percentile#inventory",
+      "groups": [
+        "Нападение",
+        "Стат",
+        "Физическая"
+      ],
+      "attribute": "the_vault:damage_increase",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_damage_increase": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка урона атаки с масштабированием Делюкс"
+      },
+      "model": "the_vault:card/icon/attack_damage_percentile#inventory",
+      "groups": [
+        "Нападение",
+        "Стат",
+        "Deluxe",
+        "Физическая"
+      ],
+      "attribute": "the_vault:damage_increase",
+      "pool": [
+        {
+          "min": 0.05,
+          "max": 0.05,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "ability_power_percent": {
+      "type": "gear",
+      "name": {
+        "text": "Карта силы способности масштабирования"
+      },
+      "model": "the_vault:card/icon/ability_power_percentile#inventory",
+      "groups": [
+        "Нападение",
+        "Волшебный",
+        "Стат"
+      ],
+      "attribute": "the_vault:ability_power_percent",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_ability_power_percent": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка силы способности масштабирования Делюкс"
+      },
+      "model": "the_vault:card/icon/ability_power_percentile#inventory",
+      "groups": [
+        "Нападение",
+        "Волшебный",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:ability_power_percent",
+      "pool": [
+        {
+          "min": 0.03,
+          "max": 0.03,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "armor_percent": {
+      "type": "gear",
+      "name": {
+        "text": "Карта масштабирования доспехов"
+      },
+      "model": "the_vault:card/icon/armor#inventory",
+      "groups": [
+        "Защита",
+        "Стат"
+      ],
+      "attribute": "the_vault:armor_percentile",
+      "pool": [
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.03,
+          "max": 0.03,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.04,
+          "max": 0.04,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.05,
+          "max": 0.05,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_armor_percent": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Масштабная броня делюкс"
+      },
+      "model": "the_vault:card/icon/armor#inventory",
+      "groups": [
+        "Защита",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:armor_percentile",
+      "pool": [
+        {
+          "min": 0.075,
+          "max": 0.075,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "health_percentile": {
+      "type": "gear",
+      "name": {
+        "text": "Масштабная карта здоровья"
+      },
+      "model": "the_vault:card/icon/health#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Защита",
+        "Стат",
+        "Физическая"
+      ],
+      "attribute": "the_vault:health_percentile",
+      "pool": [
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.03,
+          "max": 0.03,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.04,
+          "max": 0.04,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.05,
+          "max": 0.05,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_health_percentile": {
+      "type": "gear",
+      "name": {
+        "text": "Карта здоровья \"Масштаб люкс"
+      },
+      "model": "the_vault:card/icon/health#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Защита",
+        "Стат",
+        "Deluxe",
+        "Физическая"
+      ],
+      "attribute": "the_vault:health_percentile",
+      "pool": [
+        {
+          "min": 0.075,
+          "max": 0.075,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "area_of_effect": {
+      "type": "gear",
+      "name": {
+        "text": "Карта зоны действия"
+      },
+      "model": "the_vault:card/icon/area_of_effect#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:area_of_effect",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_area_of_effect": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка зоны действия делюкса"
+      },
+      "model": "the_vault:card/icon/area_of_effect#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат",
+        "Deluxe",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:area_of_effect",
+      "pool": [
+        {
+          "min": 0.03,
+          "max": 0.03,
+          "step": 1,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "movement_speed": {
+      "type": "gear",
+      "name": {
+        "text": "Карта скорости движения"
+      },
+      "model": "the_vault:card/icon/movement_speed#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат",
+        "Физическая"
+      ],
+      "attribute": "the_vault:movement_speed",
+      "pool": [
+        {
+          "min": 0.0025,
+          "max": 0.0025,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.0075,
+          "max": 0.0075,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.0125,
+          "max": 0.0125,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_movement_speed": {
+      "type": "gear",
+      "name": {
+        "text": "Карта скорости передвижения Делюкс"
+      },
+      "model": "the_vault:card/icon/movement_speed#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат",
+        "Deluxe",
+        "Физическая"
+      ],
+      "attribute": "the_vault:movement_speed",
+      "pool": [
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "copiously": {
+      "type": "gear",
+      "name": {
+        "text": "Много карточек"
+      },
+      "model": "the_vault:card/icon/copiously#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат"
+      ],
+      "attribute": "the_vault:copiously",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "deluxe_copiously": {
+      "type": "gear",
+      "name": {
+        "text": "Открытка \"Копилка Делюкс"
+      },
+      "model": "the_vault:card/icon/copiously#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Стат",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:copiously",
+      "pool": [
+        {
+          "min": 0.035,
+          "max": 0.035,
+          "step": 1,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "amp_attack_damage": {
+      "type": "gear",
+      "name": {
+        "text": "Развивающаяся карта урона атаки"
+      },
+      "model": "the_vault:card/icon/attack_damage#inventory",
+      "groups": [
+        "Эволюция",
+        "Нападение",
+        "Физическая"
+      ],
+      "attribute": "the_vault:attack_damage",
+      "pool": [
+        {
+          "min": 1,
+          "max": 1,
+          "step": 0.5,
+          "tier": 1
+        },
+        {
+          "min": 1.5,
+          "max": 1.5,
+          "step": 0.5,
+          "tier": 2
+        },
+        {
+          "min": 2,
+          "max": 2,
+          "step": 0.5,
+          "tier": 3
+        },
+        {
+          "min": 2.5,
+          "max": 2.5,
+          "step": 0.5,
+          "tier": 4
+        },
+        {
+          "min": 3,
+          "max": 3,
+          "step": 0.5,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_health": {
+      "type": "gear",
+      "name": {
+        "text": "Медицинская карта"
+      },
+      "model": "the_vault:card/icon/health#inventory",
+      "groups": [
+        "Защита",
+        "Эволюция",
+        "Физическая"
+      ],
+      "attribute": "the_vault:health",
+      "pool": [
+        {
+          "min": 2,
+          "max": 2,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 3,
+          "max": 3,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 4,
+          "max": 4,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 5,
+          "max": 5,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 6,
+          "max": 6,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_apflat": {
+      "type": "gear",
+      "name": {
+        "text": "Карта силы развивающихся способностей"
+      },
+      "model": "the_vault:card/icon/ability_power#inventory",
+      "groups": [
+        "Эволюция",
+        "Нападение",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:ability_power",
+      "pool": [
+        {
+          "min": 1,
+          "max": 1,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 1.5,
+          "max": 1.5,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 2,
+          "max": 2,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 2.5,
+          "max": 2.5,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 3,
+          "max": 3,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_attack_speed": {
+      "type": "gear",
+      "name": {
+        "text": "Развивающаяся карта скорости атаки"
+      },
+      "model": "the_vault:card/icon/attack_speed#inventory",
+      "groups": [
+        "Эволюция",
+        "Нападение",
+        "Физическая"
+      ],
+      "attribute": "the_vault:attack_speed_percent",
+      "pool": [
+        {
+          "min": 0.004,
+          "max": 0.004,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.006,
+          "max": 0.006,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.008,
+          "max": 0.008,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.012,
+          "max": 0.012,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_cooldown_reduction": {
+      "type": "gear",
+      "name": {
+        "text": "Развивающаяся карта уменьшения колдауна"
+      },
+      "model": "the_vault:card/icon/cooldown_reduction#inventory",
+      "groups": [
+        "Эволюция",
+        "Коммунальное хозяйство",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:cooldown_reduction",
+      "pool": [
+        {
+          "min": 0.002,
+          "max": 0.002,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.004,
+          "max": 0.004,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.006,
+          "max": 0.006,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.008,
+          "max": 0.008,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_crit_hit_resistance": {
+      "type": "gear",
+      "name": {
+        "text": "Эволюционная карта сопротивления крит-ударам"
+      },
+      "model": "the_vault:card/icon/crit_hit_resistance#inventory",
+      "groups": [
+        "Эволюция",
+        "Защита"
+      ],
+      "attribute": "the_vault:critical_hit_mitigation",
+      "pool": [
+        {
+          "min": 0.002,
+          "max": 0.002,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.004,
+          "max": 0.004,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.006,
+          "max": 0.006,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.008,
+          "max": 0.008,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_healing_effectiveness": {
+      "type": "gear",
+      "name": {
+        "text": "Развивающаяся карта эффективности исцеления"
+      },
+      "model": "the_vault:card/icon/healing_efficiency#inventory",
+      "groups": [
+        "Эволюция",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:healing_effectiveness",
+      "pool": [
+        {
+          "min": 0.002,
+          "max": 0.002,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.004,
+          "max": 0.004,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.006,
+          "max": 0.006,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.008,
+          "max": 0.008,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_item_quantity": {
+      "type": "gear",
+      "name": {
+        "text": "Развивающаяся карточка количества предметов"
+      },
+      "model": "the_vault:card/icon/item_quantity#inventory",
+      "groups": [
+        "Эволюция",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:item_quantity",
+      "pool": [
+        {
+          "min": 0.002,
+          "max": 0.002,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.004,
+          "max": 0.004,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.006,
+          "max": 0.006,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.008,
+          "max": 0.008,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_item_rarity": {
+      "type": "gear",
+      "name": {
+        "text": "Карта редкости эволюционирующего предмета"
+      },
+      "model": "the_vault:card/icon/item_rarity#inventory",
+      "groups": [
+        "Эволюция",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:item_rarity",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_knockback_resistance": {
+      "type": "gear",
+      "name": {
+        "text": "Развивающаяся карта сопротивления отдаче"
+      },
+      "model": "the_vault:card/icon/knockback_resistance#inventory",
+      "groups": [
+        "Защита",
+        "Эволюция",
+        "Физическая"
+      ],
+      "attribute": "the_vault:knockback_resistance",
+      "pool": [
+        {
+          "min": 0.0025,
+          "max": 0.0025,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.0075,
+          "max": 0.0075,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.0125,
+          "max": 0.0125,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_lucky_hit_chance": {
+      "type": "gear",
+      "name": {
+        "text": "Развивающаяся карта шансов на удачу"
+      },
+      "model": "the_vault:card/icon/lucky_hit#inventory",
+      "groups": [
+        "Защита",
+        "Эволюция"
+      ],
+      "attribute": "the_vault:lucky_hit_chance",
+      "pool": [
+        {
+          "min": 0.002,
+          "max": 0.002,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.007,
+          "max": 0.007,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.009,
+          "max": 0.009,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_mana_flat": {
+      "type": "gear",
+      "name": {
+        "text": "Эволюционирующая карта маны"
+      },
+      "model": "the_vault:card/icon/mana#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эволюция"
+      ],
+      "attribute": "the_vault:mana_additive",
+      "pool": [
+        {
+          "min": 2,
+          "max": 2,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 4,
+          "max": 4,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 6,
+          "max": 6,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 8,
+          "max": 8,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 10,
+          "max": 10,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_mana_regeneration": {
+      "type": "gear",
+      "name": {
+        "text": "Эволюционирующая карта регенерации маны"
+      },
+      "model": "the_vault:card/icon/mana_regeneration#inventory",
+      "groups": [
+        "Эссенция",
+        "Эволюция"
+      ],
+      "attribute": "the_vault:mana_regen",
+      "pool": [
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 0.01,
+          "tier": 1
+        },
+        {
+          "min": 0.035,
+          "max": 0.035,
+          "step": 0.01,
+          "tier": 2
+        },
+        {
+          "min": 0.05,
+          "max": 0.05,
+          "step": 0.01,
+          "tier": 3
+        },
+        {
+          "min": 0.065,
+          "max": 0.065,
+          "step": 0.01,
+          "tier": 4
+        },
+        {
+          "min": 0.08,
+          "max": 0.08,
+          "step": 0.01,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_mining_speed_flat": {
+      "type": "gear",
+      "name": {
+        "text": "Развивающаяся карта скорости добычи"
+      },
+      "model": "the_vault:card/icon/mining_speed#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эволюция"
+      ],
+      "attribute": "the_vault:mining_speed",
+      "pool": [
+        {
+          "min": 1.5,
+          "max": 1.5,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 3,
+          "max": 3,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 4.5,
+          "max": 4.5,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 6,
+          "max": 4,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 7.5,
+          "max": 7.5,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_resistance": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Эволюционное сопротивление"
+      },
+      "model": "the_vault:card/icon/resistance#inventory",
+      "groups": [
+        "Защита",
+        "Эволюция"
+      ],
+      "attribute": "the_vault:resistance",
+      "pool": [
+        {
+          "min": 0.0025,
+          "max": 0.0025,
+          "step": 0.001,
+          "tier": 1
+        },
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 0.001,
+          "tier": 2
+        },
+        {
+          "min": 0.0075,
+          "max": 0.0075,
+          "step": 0.001,
+          "tier": 3
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 0.001,
+          "tier": 4
+        },
+        {
+          "min": 0.0125,
+          "max": 0.0125,
+          "step": 0.001,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_soul_chance": {
+      "type": "gear",
+      "name": {
+        "text": "Эволюционирующая душа Количество карт"
+      },
+      "model": "the_vault:card/icon/soul_chance#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эволюция",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:soul_chance",
+      "pool": [
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 0.001,
+          "tier": 1
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 0.001,
+          "tier": 2
+        },
+        {
+          "min": 0.035,
+          "max": 0.035,
+          "step": 0.001,
+          "tier": 3
+        },
+        {
+          "min": 0.045,
+          "max": 0.045,
+          "step": 0.001,
+          "tier": 4
+        },
+        {
+          "min": 0.055,
+          "max": 0.055,
+          "step": 0.001,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_thorns_flat": {
+      "type": "gear",
+      "name": {
+        "text": "Карта Evolving Thorns"
+      },
+      "model": "the_vault:card/icon/thorns#inventory",
+      "groups": [
+        "Нападение",
+        "Эволюция"
+      ],
+      "attribute": "the_vault:thorns_damage_flat",
+      "pool": [
+        {
+          "min": 0.5,
+          "max": 0.5,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 1,
+          "max": 1,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 1.25,
+          "max": 1.25,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 1.75,
+          "max": 1.75,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 2.5,
+          "max": 2.5,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_trap_disarm": {
+      "type": "gear",
+      "name": {
+        "text": "Эволюционная карта обезвреживания ловушек"
+      },
+      "model": "the_vault:card/icon/trap_disarm#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эволюция"
+      ],
+      "attribute": "the_vault:trap_disarming",
+      "pool": [
+        {
+          "min": 0.003,
+          "max": 0.003,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.006,
+          "max": 0.006,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.008,
+          "max": 0.008,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.0125,
+          "max": 0.0125,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_mana_additive_percentile": {
+      "type": "gear",
+      "name": {
+        "text": "Развивающаяся масштабируемая карта маны"
+      },
+      "model": "the_vault:card/icon/mana_percentile#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эволюция",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:mana_additive_percentile",
+      "pool": [
+        {
+          "min": 0.003,
+          "max": 0.003,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.007,
+          "max": 0.007,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_damage_increase": {
+      "type": "gear",
+      "name": {
+        "text": "Развивающаяся карта масштабирования урона атаки"
+      },
+      "model": "the_vault:card/icon/attack_damage_percentile#inventory",
+      "groups": [
+        "Нападение",
+        "Эволюция",
+        "Физическая"
+      ],
+      "attribute": "the_vault:damage_increase",
+      "pool": [
+        {
+          "min": 0.003,
+          "max": 0.003,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.007,
+          "max": 0.007,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_ability_power_percent": {
+      "type": "gear",
+      "name": {
+        "text": "Карта силы развивающейся способности масштабирования"
+      },
+      "model": "the_vault:card/icon/ability_power_percentile#inventory",
+      "groups": [
+        "Нападение",
+        "Эволюция",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:ability_power_percent",
+      "pool": [
+        {
+          "min": 0.003,
+          "max": 0.003,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.007,
+          "max": 0.007,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.0125,
+          "max": 0.0125,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_armor_percent": {
+      "type": "gear",
+      "name": {
+        "text": "Развивающаяся карта масштабируемой брони"
+      },
+      "model": "the_vault:card/icon/armor#inventory",
+      "groups": [
+        "Защита",
+        "Эволюция"
+      ],
+      "attribute": "the_vault:armor_percentile",
+      "pool": [
+        {
+          "min": 0.004,
+          "max": 0.004,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.0075,
+          "max": 0.0075,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.0125,
+          "max": 0.0125,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_health_percentile": {
+      "type": "gear",
+      "name": {
+        "text": "Развивающаяся карта здоровья с масштабированием"
+      },
+      "model": "the_vault:card/icon/health#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эволюция",
+        "Физическая"
+      ],
+      "attribute": "the_vault:health_percentile",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.0075,
+          "max": 0.0075,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.0125,
+          "max": 0.0125,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.0125,
+          "max": 0.0125,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_area_of_effect": {
+      "type": "gear",
+      "name": {
+        "text": "Развивающаяся карта зоны действия"
+      },
+      "model": "the_vault:card/icon/area_of_effect#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эволюция",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:area_of_effect",
+      "pool": [
+        {
+          "min": 0.002,
+          "max": 0.002,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.004,
+          "max": 0.004,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.006,
+          "max": 0.006,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.008,
+          "max": 0.008,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_movement_speed": {
+      "type": "gear",
+      "name": {
+        "text": "Карта скорости эволюционного движения"
+      },
+      "model": "the_vault:card/icon/movement_speed#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эволюция",
+        "Физическая"
+      ],
+      "attribute": "the_vault:movement_speed",
+      "pool": [
+        {
+          "min": 0.002,
+          "max": 0.002,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.004,
+          "max": 0.004,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.006,
+          "max": 0.006,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.008,
+          "max": 0.008,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_copiously": {
+      "type": "gear",
+      "name": {
+        "text": "Карта Evolving Copiously"
+      },
+      "model": "the_vault:card/icon/copiously#inventory",
+      "groups": [
+        "Коммунальное хозяйство",
+        "Эволюция"
+      ],
+      "attribute": "the_vault:copiously",
+      "pool": [
+        {
+          "min": 0.0025,
+          "max": 0.0025,
+          "step": 1,
+          "tier": 1
+        },
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1,
+          "tier": 2
+        },
+        {
+          "min": 0.0075,
+          "max": 0.0075,
+          "step": 1,
+          "tier": 3
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1,
+          "tier": 4
+        },
+        {
+          "min": 0.0125,
+          "max": 0.0125,
+          "step": 1,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "intelligence": {
+      "type": "gear",
+      "name": {
+        "text": "Интеллект-карта"
+      },
+      "model": "the_vault:skills/intelligence#inventory",
+      "groups": [
+        "Knack",
+        "Нападение",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Разведка",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_intelligence": {
+      "type": "gear",
+      "name": {
+        "text": "Интеллект-карта класса люкс"
+      },
+      "model": "the_vault:skills/intelligence#inventory",
+      "groups": [
+        "Knack",
+        "Нападение",
+        "Deluxe",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Разведка",
+          "levelChange": 2
+        }
+      ],
+      "maxTier": 1
+    },
+    "haste": {
+      "type": "gear",
+      "name": {
+        "text": "Карта ускорения"
+      },
+      "model": "the_vault:skills/haste#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство",
+        "Deluxe",
+        "Физическая"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Haste",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "strength": {
+      "type": "gear",
+      "name": {
+        "text": "Карта силы"
+      },
+      "model": "the_vault:skills/strength#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство",
+        "Физическая"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Прочность",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_strength": {
+      "type": "gear",
+      "name": {
+        "text": "Карта силы класса люкс"
+      },
+      "model": "the_vault:skills/strength#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство",
+        "Deluxe",
+        "Физическая"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Прочность",
+          "levelChange": 2
+        }
+      ],
+      "maxTier": 1
+    },
+    "speed_talent": {
+      "type": "gear",
+      "name": {
+        "text": "Карта скорости"
+      },
+      "model": "the_vault:skills/speed#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство",
+        "Deluxe",
+        "Физическая"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Скорость",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "purist": {
+      "type": "gear",
+      "name": {
+        "text": "Пуристская карта"
+      },
+      "model": "the_vault:skills/purist#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Пурист",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_purist": {
+      "type": "gear",
+      "name": {
+        "text": "Пуристская карта"
+      },
+      "model": "the_vault:skills/purist#inventory",
+      "groups": [
+        "Knack",
+        "Нападение",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Пурист",
+          "levelChange": 2
+        }
+      ],
+      "maxTier": 1
+    },
+    "stone_skin": {
+      "type": "gear",
+      "name": {
+        "text": "Карта каменной кожи"
+      },
+      "model": "the_vault:skills/stone_skin#inventory",
+      "groups": [
+        "Knack",
+        "Защита",
+        "Физическая"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Stoneskin",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "dungeon_mastery": {
+      "type": "gear",
+      "name": {
+        "text": "Карта мастерства подземелья"
+      },
+      "model": "the_vault:skills/dungeon_mastery#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Nether_Mastery",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "horde_mastery": {
+      "type": "gear",
+      "name": {
+        "text": "Карта мастерства Орды"
+      },
+      "model": "the_vault:skills/horde_mastery#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Undead_Mastery",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "assassin_mastery": {
+      "type": "gear",
+      "name": {
+        "text": "Карта мастерства ассасина"
+      },
+      "model": "the_vault:skills/assassin_mastery#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Arthropod_Mastery",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "dweller_mastery": {
+      "type": "gear",
+      "name": {
+        "text": "Карта мастерства обитателя"
+      },
+      "model": "the_vault:skills/champion_mastery#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Illager_Mastery",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "champion_mastery": {
+      "type": "gear",
+      "name": {
+        "text": "Карта мастерства чемпиона"
+      },
+      "model": "the_vault:skills/champion_mastery#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Champion_Mastery",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "tank_mastery": {
+      "type": "gear",
+      "name": {
+        "text": "Карта танкового мастерства"
+      },
+      "model": "the_vault:skills/illager_mastery#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Tank_Mastery",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "last_stand": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Последний бой"
+      },
+      "model": "the_vault:skills/last_stand#inventory",
+      "groups": [
+        "Knack",
+        "Защита"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Last_Stand",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_last_stand": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Последний бой"
+      },
+      "model": "the_vault:skills/last_stand#inventory",
+      "groups": [
+        "Knack",
+        "Защита",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Last_Stand",
+          "levelChange": 2
+        }
+      ],
+      "maxTier": 1
+    },
+    "berserking": {
+      "type": "gear",
+      "name": {
+        "text": "Карта берсеркинга"
+      },
+      "model": "the_vault:skills/berserking#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Берсеркинг",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_berserking": {
+      "type": "gear",
+      "name": {
+        "text": "Карта берсеркинга"
+      },
+      "model": "the_vault:skills/berserking#inventory",
+      "groups": [
+        "Knack",
+        "Нападение",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Берсеркинг",
+          "levelChange": 2
+        }
+      ],
+      "maxTier": 1
+    },
+    "sorcery": {
+      "type": "gear",
+      "name": {
+        "text": "Колдовская карта"
+      },
+      "model": "the_vault:skills/sorcery#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Колдовство",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_sorcery": {
+      "type": "gear",
+      "name": {
+        "text": "Колдовская карта класса люкс"
+      },
+      "model": "the_vault:skills/sorcery#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство",
+        "Deluxe",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Колдовство",
+          "levelChange": 2
+        }
+      ],
+      "maxTier": 1
+    },
+    "prime_amplification": {
+      "type": "gear",
+      "name": {
+        "text": "Prime Amplification Card"
+      },
+      "model": "the_vault:skills/prime_amplification#inventory",
+      "groups": [
+        "Knack",
+        "Нападение",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Прайм_увеличение",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "bountiful_harvest": {
+      "type": "gear",
+      "name": {
+        "text": "Открытка \"Обильный урожай"
+      },
+      "model": "the_vault:skills/bountiful_harvest#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Обильный_урожай",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_bountiful_harvest": {
+      "type": "gear",
+      "name": {
+        "text": "Открытка \"Обильный урожай"
+      },
+      "model": "the_vault:skills/bountiful_harvest#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Обильный_урожай",
+          "levelChange": 2
+        }
+      ],
+      "maxTier": 1
+    },
+    "lightning_damage": {
+      "type": "gear",
+      "name": {
+        "text": "Карта урона от молнии"
+      },
+      "model": "the_vault:skills/lightning_damage#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Lightning_Damage",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "lightning_stun": {
+      "type": "gear",
+      "name": {
+        "text": "Карта оглушения молнией"
+      },
+      "model": "the_vault:skills/lightning_stun#inventory",
+      "groups": [
+        "Knack",
+        "Защита"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Lightning_Stun",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "treasure_seeker": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Искатель сокровищ"
+      },
+      "model": "the_vault:skills/treasure_seeker#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Treasure_Seeker",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_treasure_seeker": {
+      "type": "gear",
+      "name": {
+        "text": "Карта искателя сокровищ класса люкс"
+      },
+      "model": "the_vault:skills/treasure_seeker#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Treasure_Seeker",
+          "levelChange": 2
+        }
+      ],
+      "maxTier": 1
+    },
+    "witchery": {
+      "type": "gear",
+      "name": {
+        "text": "Колдовская карта"
+      },
+      "model": "the_vault:skills/witchery#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Колдовство",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "methodical": {
+      "type": "gear",
+      "name": {
+        "text": "Методическая открытка"
+      },
+      "model": "the_vault:skills/methodical#inventory",
+      "groups": [
+        "Knack",
+        "Защита"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Методические",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "depleted": {
+      "type": "gear",
+      "name": {
+        "text": "Исчерпанная карта"
+      },
+      "model": "the_vault:skills/depleted#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Обедненный",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "lucky_hit_fatal": {
+      "type": "gear",
+      "name": {
+        "text": "Карта смертельного удара"
+      },
+      "model": "the_vault:skills/fatal_strike#inventory",
+      "groups": [
+        "Knack",
+        "Нападение",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Fatal_Strike",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "lucky_hit_mana": {
+      "type": "gear",
+      "name": {
+        "text": "Карта кражи маны"
+      },
+      "model": "the_vault:skills/mana_steal#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Mana_Steal",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "life_leech": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Пиявка жизни"
+      },
+      "model": "the_vault:skills/life_steal#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Life_Steal",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "cleave_talent": {
+      "type": "gear",
+      "name": {
+        "text": "Карта Cleave"
+      },
+      "model": "the_vault:skills/cleave#inventory",
+      "groups": [
+        "Knack",
+        "Нападение",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Cleave",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "prudent": {
+      "type": "gear",
+      "name": {
+        "text": "Карта Prudent"
+      },
+      "model": "the_vault:skills/potion_amount#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Благоразумный",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "alchemist": {
+      "type": "gear",
+      "name": {
+        "text": "Карта Prudent"
+      },
+      "model": "the_vault:skills/potion_time#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Алхимик",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "frozen_impact": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка \"Замороженное воздействие"
+      },
+      "model": "the_vault:skills/blizzard#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Blizzard",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "frostbite": {
+      "type": "gear",
+      "name": {
+        "text": "Карта обморожения"
+      },
+      "model": "the_vault:skills/frostbite#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Frostbite",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "daze": {
+      "type": "gear",
+      "name": {
+        "text": "Карта Daze"
+      },
+      "model": "the_vault:skills/daze#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Daze",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_daze": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Делюкс Дазе"
+      },
+      "model": "the_vault:skills/daze#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Daze",
+          "levelChange": 2
+        }
+      ],
+      "maxTier": 1
+    },
+    "nucleus": {
+      "type": "gear",
+      "name": {
+        "text": "Карта Nucleus"
+      },
+      "model": "the_vault:skills/nucleus#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Ядро",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_nucleus": {
+      "type": "gear",
+      "name": {
+        "text": "Карта Nucleus"
+      },
+      "model": "the_vault:skills/nucleus#inventory",
+      "groups": [
+        "Knack",
+        "Нападение",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Ядро",
+          "levelChange": 2
+        }
+      ],
+      "maxTier": 1
+    },
+    "blight": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка \"Ослепление"
+      },
+      "model": "the_vault:skills/blight#inventory",
+      "groups": [
+        "Knack",
+        "Защита"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Блайт",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "hunters_instinct": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Инстинкт охотника"
+      },
+      "model": "the_vault:skills/hunters_instinct#inventory",
+      "groups": [
+        "Knack",
+        "Защита"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Охотники_Инстинкт",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_hunters_instinct": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Инстинкт охотника\" класса люкс"
+      },
+      "model": "the_vault:skills/hunters_instinct#inventory",
+      "groups": [
+        "Knack",
+        "Защита",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Охотники_Инстинкт",
+          "levelChange": 2
+        }
+      ],
+      "maxTier": 1
+    },
+    "arcana": {
+      "type": "gear",
+      "name": {
+        "text": "Карта аркана"
+      },
+      "model": "the_vault:skills/arcana#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Arcana",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "blazing": {
+      "type": "gear",
+      "name": {
+        "text": "Пылающая карта"
+      },
+      "model": "the_vault:skills/blazing#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Пылающий",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "lucky_momentum": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Счастливый момент"
+      },
+      "model": "the_vault:skills/luck_momentum#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Lucky_Momentum",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "frenzy": {
+      "type": "gear",
+      "name": {
+        "text": "Ажиотажная карточка"
+      },
+      "model": "the_vault:skills/frenzy#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Frenzy",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "toxic_reaction": {
+      "type": "gear",
+      "name": {
+        "text": "Карта токсических реакций"
+      },
+      "model": "the_vault:skills/toxic_reaction#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Токсичная_реакция",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "javelin_throw_power": {
+      "type": "gear",
+      "name": {
+        "text": "Силовая карта метания копья"
+      },
+      "model": "the_vault:skills/javelin_throw_power#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Сила метания копья",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_javelin_throw_power": {
+      "type": "gear",
+      "name": {
+        "text": "Силовая карта \"Метание копья\" класса люкс"
+      },
+      "model": "the_vault:skills/javelin_throw_power#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Сила метания копья",
+          "levelChange": 2
+        }
+      ],
+      "maxTier": 1
+    },
+    "javelin_damage": {
+      "type": "gear",
+      "name": {
+        "text": "Карта урона от копья"
+      },
+      "model": "the_vault:skills/javelin_damage#inventory",
+      "groups": [
+        "Knack",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Урон от копья",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_javelin_damage": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка урона копья Делюкс"
+      },
+      "model": "the_vault:skills/javelin_damage#inventory",
+      "groups": [
+        "Knack",
+        "Нападение",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Урон от копья",
+          "levelChange": 2
+        }
+      ],
+      "maxTier": 1
+    },
+    "javelin_frugal": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Эфирное копье"
+      },
+      "model": "the_vault:skills/javelin_ethereal#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Javelin_Frugal",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_javelin_frugal": {
+      "type": "gear",
+      "name": {
+        "text": "Делюкс карта \"Эфирное копье"
+      },
+      "model": "the_vault:skills/javelin_ethereal#inventory",
+      "groups": [
+        "Knack",
+        "Коммунальное хозяйство",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:added_talent_level",
+      "pool": [
+        {
+          "tier": 1,
+          "talentKey": "Javelin_Frugal",
+          "levelChange": 2
+        }
+      ],
+      "maxTier": 1
+    },
+    "heal": {
+      "type": "gear",
+      "name": {
+        "text": "Карта исцеления"
+      },
+      "model": "the_vault:card/icon/heal#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Исцеление",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "heal_group": {
+      "type": "gear",
+      "name": {
+        "text": "Карта группового исцеления"
+      },
+      "model": "the_vault:card/icon/heal_group#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Исцеление_группы",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "cleanse": {
+      "type": "gear",
+      "name": {
+        "text": "Карта очищения"
+      },
+      "model": "the_vault:card/icon/cleanse#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Исцеление_очищение",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "dash": {
+      "type": "gear",
+      "name": {
+        "text": "Тире-карточка"
+      },
+      "model": "the_vault:card/icon/dash#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Тире",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "ghost_walk": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Прогулка с призраками"
+      },
+      "model": "the_vault:skills/ghost_walk#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Ghost_Walk",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "ghost_walk_spirit": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Прогулка в духе"
+      },
+      "model": "the_vault:skills/ghost_walk_spirit_walk#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Ghost_Walk_Spirit",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "dash_damage": {
+      "type": "gear",
+      "name": {
+        "text": "Пулевая карта"
+      },
+      "model": "the_vault:card/icon/dash_damage#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Dash_Damage",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "dash_warp": {
+      "type": "gear",
+      "name": {
+        "text": "Карта искривления"
+      },
+      "model": "the_vault:card/icon/dash_warp#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Dash_Warp",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "nova": {
+      "type": "gear",
+      "name": {
+        "text": "Нова Кард"
+      },
+      "model": "the_vault:card/icon/nova#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Nova",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "nova_dot": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Яд Нова"
+      },
+      "model": "the_vault:card/icon/nova_dot#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Nova_Dot",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "nova_slow": {
+      "type": "gear",
+      "name": {
+        "text": "Открытка Frost Nova"
+      },
+      "model": "the_vault:card/icon/nova_speed#inventory",
+      "groups": [
+        "Arcane",
+        "Защита"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Nova_Slow",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "mega_jump": {
+      "type": "gear",
+      "name": {
+        "text": "Мега прыжковая карта"
+      },
+      "model": "the_vault:card/icon/mega_jump#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Mega_Jump",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "mega_jump_break_down": {
+      "type": "gear",
+      "name": {
+        "text": "Карта Mega Dig"
+      },
+      "model": "the_vault:card/icon/mega_jump_break_down#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Mega_Jump_Break_Down",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "rampage": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Рэмпейдж"
+      },
+      "model": "the_vault:card/icon/rampage#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение",
+        "Физическая"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Rampage",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "rampage_leech": {
+      "type": "gear",
+      "name": {
+        "text": "Вампирическая карта"
+      },
+      "model": "the_vault:card/icon/rampage_leech#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Rampage_Leech",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "rampage_chain": {
+      "type": "gear",
+      "name": {
+        "text": "Карта Rampage Chaining"
+      },
+      "model": "the_vault:card/icon/rampage_chain#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение",
+        "Физическая"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Rampage_Chain",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "smite": {
+      "type": "gear",
+      "name": {
+        "text": "Smite"
+      },
+      "model": "the_vault:card/icon/smite#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Smite",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "smite_archon": {
+      "type": "gear",
+      "name": {
+        "text": "Карта архонта"
+      },
+      "model": "the_vault:card/icon/smite_archon#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Smite_Archon",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "empower": {
+      "type": "gear",
+      "name": {
+        "text": "Карта возможностей"
+      },
+      "model": "the_vault:card/icon/empower#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Расширение возможностей",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "empower_ice": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Ледяная броня"
+      },
+      "model": "the_vault:card/icon/empower_ice_armour#inventory",
+      "groups": [
+        "Arcane",
+        "Защита"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Empower_Ice_Armor",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "empower_entropy": {
+      "type": "gear",
+      "name": {
+        "text": "Карта энтропийного связывания"
+      },
+      "model": "the_vault:card/icon/empower_entropy#inventory",
+      "groups": [
+        "Arcane",
+        "Защита"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Усиление_слабости_ауры",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "hunter": {
+      "type": "gear",
+      "name": {
+        "text": "Карта охотника"
+      },
+      "model": "the_vault:card/icon/hunter#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Хантер",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "mana_shield_implode": {
+      "type": "gear",
+      "name": {
+        "text": "Имплозивная карта"
+      },
+      "model": "the_vault:card/icon/mana_shield_implode#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Mana_Shield_Implode",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "expunge": {
+      "type": "gear",
+      "name": {
+        "text": "Диффузная карта"
+      },
+      "model": "the_vault:card/icon/expunge#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Удалить",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "retribution": {
+      "type": "gear",
+      "name": {
+        "text": "Карта возмездия"
+      },
+      "model": "the_vault:card/icon/retribution#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Возмездие",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "taunt": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка насмешки"
+      },
+      "model": "the_vault:card/icon/taunt#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Насмешка",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "taunt_repel": {
+      "type": "gear",
+      "name": {
+        "text": "Карта страха"
+      },
+      "model": "the_vault:card/icon/taunt_repel#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Нападение_отвращение",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "taunt_charm": {
+      "type": "gear",
+      "name": {
+        "text": "Очаровательная карточка"
+      },
+      "model": "the_vault:card/icon/taunt_charm#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Приманка_Очарование",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "stonefall": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Стоунфолл"
+      },
+      "model": "the_vault:card/icon/stonefall#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Стоунфолл",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "stonefall_snow": {
+      "type": "gear",
+      "name": {
+        "text": "Посадочная карта героя"
+      },
+      "model": "the_vault:card/icon/stonefall_snow#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Stonefall_Snow",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "stonefall_cold": {
+      "type": "gear",
+      "name": {
+        "text": "Карта Coldsnap"
+      },
+      "model": "the_vault:card/icon/stonefall_cold#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Stonefall_Cold",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "totem": {
+      "type": "gear",
+      "name": {
+        "text": "Карта тотема регенерации"
+      },
+      "model": "the_vault:card/icon/totem#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Тотем",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "totem_player_damage": {
+      "type": "gear",
+      "name": {
+        "text": "Карта тотема гнева"
+      },
+      "model": "the_vault:card/icon/totem_player_damage#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Totem_Player_Damage",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "totem_mana_regen": {
+      "type": "gear",
+      "name": {
+        "text": "Карта тотема духа"
+      },
+      "model": "the_vault:card/icon/totem_mana_regen#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Тотем_Маны_Регена",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "totem_mob_damage": {
+      "type": "gear",
+      "name": {
+        "text": "Карта тотема ненависти"
+      },
+      "model": "the_vault:card/icon/totem_mob_damage#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Totem_Mob_Damage",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "javelin": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка с копьем"
+      },
+      "model": "the_vault:card/icon/javelin#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Javelin",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "javelin_piercing": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Пронзающее копье"
+      },
+      "model": "the_vault:card/icon/javelin_piercing#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Javelin_Piercing",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "javelin_scatter": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Разбросанные копья"
+      },
+      "model": "the_vault:card/icon/javelin_scatter#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Javelin_Scatter",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "javelin_sight": {
+      "type": "gear",
+      "name": {
+        "text": "Прицельная карта \"Копье"
+      },
+      "model": "the_vault:card/icon/javelin_sight#inventory",
+      "groups": [
+        "Arcane",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Javelin_Sight",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "fireball": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Огненный шар"
+      },
+      "model": "the_vault:card/icon/fireball#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Fireball",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "fireball_volley": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Огненный залп"
+      },
+      "model": "the_vault:card/icon/fireball_volley#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Fireball_Volley",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "fireball_fireshot": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Огненный выстрел"
+      },
+      "model": "the_vault:card/icon/fireball_fireshot#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Fireball_Fireshot",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "blizzard": {
+      "type": "gear",
+      "name": {
+        "text": "Карта Blizzard"
+      },
+      "model": "the_vault:card/icon/blizzard#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Storm_Arrow_Blizzard",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "thunderstorm": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Стрела бури"
+      },
+      "model": "the_vault:card/icon/thunderstorm#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Storm_Arrow",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "battle_cry": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Боевой клич"
+      },
+      "model": "the_vault:card/icon/battle_cry#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Battle_Cry",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "battle_cry_spectral_strike": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Спектральный крик"
+      },
+      "model": "the_vault:card/icon/battle_cry_spectral_strike#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Battle_Cry_Spectral_Strike",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "battle_cry_lucky_strike": {
+      "type": "gear",
+      "name": {
+        "text": "Открытка \"Счастливый плач"
+      },
+      "model": "the_vault:card/icon/battle_cry_lucky_strike#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Battle_Cry_Lucky_Strike",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "ice_bolt": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Ледяной болт"
+      },
+      "model": "the_vault:card/icon/ice_bolt#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Ice_Bolt",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "ice_blast": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Ледниковый взрыв"
+      },
+      "model": "the_vault:card/icon/ice_blast#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Ледяной_болт_взрыв",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "shell": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка-ракушка"
+      },
+      "model": "the_vault:card/icon/shell#inventory",
+      "groups": [
+        "Arcane",
+        "Защита"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Ракушка",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "shell_porcupine": {
+      "type": "gear",
+      "name": {
+        "text": "Открытка с дикобразом"
+      },
+      "model": "the_vault:card/icon/shell_porcupine#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Панцирь_дикобраза",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "shell_quill": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка с пером"
+      },
+      "model": "the_vault:card/icon/shell_quill#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Shell_Quill",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "life_tap": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка с изображением жизни"
+      },
+      "model": "the_vault:card/icon/life_tap#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Implode_Life_Tap",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "arcane": {
+      "type": "gear",
+      "name": {
+        "text": "Аркановая карта"
+      },
+      "model": "the_vault:card/icon/arcane#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Arcane",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "arcane_rail": {
+      "type": "gear",
+      "name": {
+        "text": "Аркановая железнодорожная карта"
+      },
+      "model": "the_vault:card/icon/arcane_rail#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Arcane_Rail",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "earthquake": {
+      "type": "gear",
+      "name": {
+        "text": "Карта землетрясений"
+      },
+      "model": "the_vault:card/icon/earthquake#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Землетрясение",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "landmine": {
+      "type": "gear",
+      "name": {
+        "text": "Карта мины"
+      },
+      "model": "the_vault:card/icon/landmine#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Землетрясение_Ландмин",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "chain_lightning": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Удар молнии"
+      },
+      "model": "the_vault:card/icon/chain_lightning#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Цепная_молния",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "ball_lightning": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Шаровая молния"
+      },
+      "model": "the_vault:card/icon/ball_lightning#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Цепь_молний",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "chaos_cube": {
+      "type": "gear",
+      "name": {
+        "text": "Карта куба хаоса"
+      },
+      "model": "the_vault:card/icon/chaos_cube#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Граната",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "toxic_grenade": {
+      "type": "gear",
+      "name": {
+        "text": "Карта токсичных флаконов"
+      },
+      "model": "the_vault:card/icon/toxic_grenade#inventory",
+      "groups": [
+        "Arcane",
+        "Нападение"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Toxic_Grenade",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "mana_barrier": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Барьер маны"
+      },
+      "model": "the_vault:card/icon/mana_barrier#inventory",
+      "groups": [
+        "Arcane",
+        "Защита"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Mana_Barrier",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "temporal_charm": {
+      "type": "gear",
+      "name": {
+        "text": "Очаровательная открытка"
+      },
+      "model": "the_vault:card/icon/kill_charm#inventory",
+      "groups": [
+        "Временные",
+        "Защита",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:kill_charm",
+          "count": 1,
+          "time": {
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_temporal_charm": {
+      "type": "gear",
+      "name": {
+        "text": "Очаровательная открытка класса люкс"
+      },
+      "model": "the_vault:card/icon/kill_charm#inventory",
+      "groups": [
+        "Временные",
+        "Защита",
+        "Волшебный",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:kill_charm",
+          "count": 1,
+          "time": {
+            "min": 300,
+            "max": 800,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "temporal_coin": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Взрыв монеты"
+      },
+      "model": "the_vault:card/icon/kill_coin#inventory",
+      "groups": [
+        "Временные",
+        "Нападение",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:bronze_nuke",
+          "count": 1,
+          "time": {
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_temporal_coin": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Взрыв монеты\" класса люкс"
+      },
+      "model": "the_vault:card/icon/kill_coin#inventory",
+      "groups": [
+        "Временные",
+        "Нападение",
+        "Коммунальное хозяйство",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:bronze_nuke",
+          "count": 1,
+          "time": {
+            "min": 300,
+            "max": 800,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "temporal_hunter": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка Хантерино"
+      },
+      "model": "the_vault:card/icon/kill_hunter#inventory",
+      "groups": [
+        "Временные",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:kill_hunter",
+          "count": 1,
+          "time": {
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_temporal_hunter": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка Делюкс Хантерино"
+      },
+      "model": "the_vault:card/icon/kill_hunter#inventory",
+      "groups": [
+        "Временные",
+        "Коммунальное хозяйство",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:kill_hunter",
+          "count": 1,
+          "time": {
+            "min": 300,
+            "max": 800,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "temporal_nuke": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Взрыв смерти"
+      },
+      "model": "the_vault:card/icon/kill_nuke#inventory",
+      "groups": [
+        "Временные",
+        "Нападение",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:kill_nuke",
+          "count": 1,
+          "time": {
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_temporal_nuke": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка \"Взрыв смерти\" класса люкс"
+      },
+      "model": "the_vault:card/icon/kill_nuke#inventory",
+      "groups": [
+        "Временные",
+        "Нападение",
+        "Волшебный",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:kill_nuke",
+          "count": 1,
+          "time": {
+            "min": 300,
+            "max": 800,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "temporal_totem": {
+      "type": "gear",
+      "name": {
+        "text": "Тотемическая карта"
+      },
+      "model": "the_vault:card/icon/kill_totem#inventory",
+      "groups": [
+        "Временные",
+        "Нападение",
+        "Волшебный"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:kill_totem",
+          "count": 1,
+          "time": {
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_temporal_totem": {
+      "type": "gear",
+      "name": {
+        "text": "Тотемическая карта Делюкс"
+      },
+      "model": "the_vault:card/icon/kill_totem#inventory",
+      "groups": [
+        "Временные",
+        "Нападение",
+        "Волшебный",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:kill_totem",
+          "count": 1,
+          "time": {
+            "min": 300,
+            "max": 800,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "temporal_lootgoblin": {
+      "type": "gear",
+      "name": {
+        "text": "Карта награбленного гоблина"
+      },
+      "model": "the_vault:card/icon/loot_goblin#inventory",
+      "groups": [
+        "Временные",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:loot_goblin",
+          "count": 1,
+          "time": {
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_temporal_lootgoblin": {
+      "type": "gear",
+      "name": {
+        "text": "Карта гоблина с лутом класса люкс"
+      },
+      "model": "the_vault:card/icon/loot_goblin#inventory",
+      "groups": [
+        "Временные",
+        "Коммунальное хозяйство",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:loot_goblin",
+          "count": 1,
+          "time": {
+            "min": 300,
+            "max": 800,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "temporal_door": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка охотника за дверьми"
+      },
+      "model": "the_vault:card/icon/door_hunter#inventory",
+      "groups": [
+        "Временные",
+        "Коммунальное хозяйство"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:door_hunter",
+          "count": 1,
+          "time": {
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_temporal_door": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка охотника за дверьми класса люкс"
+      },
+      "model": "the_vault:card/icon/door_hunter#inventory",
+      "groups": [
+        "Временные",
+        "Коммунальное хозяйство",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:door_hunter",
+          "count": 1,
+          "time": {
+            "min": 300,
+            "max": 800,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "temporal_overpower": {
+      "type": "gear",
+      "name": {
+        "text": "Карта \"Преодоление"
+      },
+      "model": "the_vault:card/icon/overpower#inventory",
+      "groups": [
+        "Временные",
+        "Нападение"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:overpower",
+          "count": 1,
+          "time": {
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_temporal_overpower": {
+      "type": "gear",
+      "name": {
+        "text": "Карточка Превосходства Делюкс"
+      },
+      "model": "the_vault:card/icon/overpower#inventory",
+      "groups": [
+        "Временные",
+        "Нападение",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:random_vault_modifier",
+      "pool": [
+        {
+          "tier": 1,
+          "modifier": "the_vault:overpower",
+          "count": 1,
+          "time": {
+            "min": 300,
+            "max": 800,
+            "step": 20
+          }
+        }
+      ],
+      "maxTier": 1
+    },
+    "resource_blackopal": {
+      "type": "task_loot",
+      "name": {
+        "text": "Ресурсная карта \"Черный опал"
+      },
+      "model": "the_vault:gem_black_opal#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_black_opal"
+          }
+        }
+      ],
+      "task": "@default",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+${count} Черный опал "
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_larimar": {
+      "type": "task_loot",
+      "name": {
+        "text": "Ларимаровая карта"
+      },
+      "model": "the_vault:gem_larimar#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_larimar"
+          }
+        }
+      ],
+      "task": "@easy",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Ларимар ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_benitoite": {
+      "type": "task_loot",
+      "name": {
+        "text": "Бенитоитовая карта"
+      },
+      "model": "the_vault:gem_benitoite#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_benitoite"
+          }
+        }
+      ],
+      "task": "@easy",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Бенитоит ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_alexandrite": {
+      "type": "task_loot",
+      "name": {
+        "text": "Александритовая карта"
+      },
+      "model": "the_vault:gem_alexandrite#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_alexandrite"
+          }
+        }
+      ],
+      "task": "@easy",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Александрит ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_black_opal": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карта \"Черный опал"
+      },
+      "model": "the_vault:gem_black_opal#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_black_opal"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Черный опал ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_echo": {
+      "type": "task_loot",
+      "name": {
+        "text": "Эхо-карта"
+      },
+      "model": "the_vault:gem_echo#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_echo"
+          }
+        }
+      ],
+      "task": "@extreme",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Эхо Самоцвета ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_painite": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карта Painite"
+      },
+      "model": "the_vault:gem_painite#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_painite"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Паинит ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_iskallium": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карта Волдиум"
+      },
+      "model": "the_vault:gem_iskallium#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_iskallium"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Woldium ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_gorginite": {
+      "type": "task_loot",
+      "name": {
+        "text": "Горгинитовая карта"
+      },
+      "model": "the_vault:gem_gorginite#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_gorginite"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Горгинит ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_sparkletine": {
+      "type": "task_loot",
+      "name": {
+        "text": "Открытка Sparkletine"
+      },
+      "model": "the_vault:gem_sparkletine#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_sparkletine"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Sparkletine ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_ashium": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карта Ashium"
+      },
+      "model": "the_vault:gem_ashium#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_ashium"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Ашиум ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_bomignite": {
+      "type": "task_loot",
+      "name": {
+        "text": "Боминьевая карта"
+      },
+      "model": "the_vault:gem_bomignite#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_bomignite"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Боминьит ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_tubium": {
+      "type": "task_loot",
+      "name": {
+        "text": "Тубиумная карта"
+      },
+      "model": "the_vault:gem_tubium#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_tubium"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Tubium ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_upaline": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карта Upaline"
+      },
+      "model": "the_vault:gem_upaline#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_upaline"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Upaline ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_petzanite": {
+      "type": "task_loot",
+      "name": {
+        "text": "Петезанитовая карта"
+      },
+      "model": "the_vault:gem_petzanite#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_petzanite"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Петезанит ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_xeenium": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карта Xeenium"
+      },
+      "model": "the_vault:gem_xenium#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_xenium"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Xeenium ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_bronze": {
+      "type": "task_loot",
+      "name": {
+        "text": "Бронзовая карта хранилища"
+      },
+      "model": "the_vault:vault_bronze#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:vault_bronze"
+          }
+        }
+      ],
+      "task": "@easy",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 2,
+            "max": 6
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Бронзовый свод ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_silver": {
+      "type": "task_loot",
+      "name": {
+        "text": "Серебряная карта Vault"
+      },
+      "model": "the_vault:vault_silver#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:vault_silver"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Серебряный свод ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gold": {
+      "type": "task_loot",
+      "name": {
+        "text": "Золотая карта Vault"
+      },
+      "model": "the_vault:vault_gold#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:vault_silver"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Золотое хранилище ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_focus_waning": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карточка с ослабевающим фокусом"
+      },
+      "model": "the_vault:waning_focus#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:waning_focus"
+          }
+        }
+      ],
+      "task": "@extreme",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Ухудшение внимания ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_focus_waxing": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карточка с фокусом депиляции"
+      },
+      "model": "the_vault:waxing_focus#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:waxing_focus"
+          }
+        }
+      ],
+      "task": "@extreme",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Депиляция воском ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_focus_fundamental": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карта фундаментального фокуса"
+      },
+      "model": "the_vault:fundamental_focus#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:fundamental_focus"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Фундаментальный фокус ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_focus_chaotic": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карта хаотического фокуса"
+      },
+      "model": "the_vault:chaotic_focus#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:chaotic_focus"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Хаотический фокус ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_vault_diamond": {
+      "type": "task_loot",
+      "name": {
+        "text": "Бриллиантовая карта хранилища"
+      },
+      "model": "the_vault:vault_diamond#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:vault_diamond"
+          }
+        }
+      ],
+      "task": "@easy",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Vault Diamond ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_mod_box": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карта Mod Box"
+      },
+      "model": "the_vault:mod_box#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:mod_box"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Мод-бокс ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_box": {
+      "type": "task_loot",
+      "name": {
+        "text": "Открытка с драгоценными камнями"
+      },
+      "model": "the_vault:gem_box#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_box"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Шкатулка с драгоценными камнями ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_supply_box": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карточка ящика с припасами"
+      },
+      "model": "the_vault:supply_box#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:supply_box"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Коробка поставки ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_soul_ichor": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карта Soul Ichor"
+      },
+      "model": "woldsvaults:soul_ichor#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "woldsvaults:soul_ichor"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Ихор души ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_chromatic_iron": {
+      "type": "task_loot",
+      "name": {
+        "text": "Сырая хроматическая железная карта"
+      },
+      "model": "the_vault:raw_chromatic_iron#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:raw_chromatic_iron"
+          }
+        }
+      ],
+      "task": "@easy",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Необработанное хроматическое железо ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_carbon": {
+      "type": "task_loot",
+      "name": {
+        "text": "Углеродная карта"
+      },
+      "model": "the_vault:carbon#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:carbon"
+          }
+        }
+      ],
+      "task": "@easy",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Углерод ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_mystery_egg": {
+      "type": "task_loot",
+      "name": {
+        "text": "Открытка с загадочным яйцом"
+      },
+      "model": "the_vault:mystery_egg#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:mystery_egg"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Таинственное яйцо ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_plating": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карта покрытия свода"
+      },
+      "model": "the_vault:vault_plating#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:vault_plating"
+          }
+        }
+      ],
+      "task": "@easy",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 3,
+            "max": 8
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Покрытие свода ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_catalyst_fragment": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карта фрагментов Catalyst"
+      },
+      "model": "the_vault:vault_catalyst_fragment#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:vault_catalyst_fragment"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Фрагмент катализатора ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_grapes": {
+      "type": "task_loot",
+      "name": {
+        "text": "Открытка \"Сочный виноград"
+      },
+      "model": "the_vault:grapes#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:grapes"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 2
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Сочный виноград ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_lemon": {
+      "type": "task_loot",
+      "name": {
+        "text": "Открытка с горьким лимоном"
+      },
+      "model": "the_vault:bitter_lemon#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:bitter_lemon"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Горький лимон ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_mango": {
+      "type": "task_loot",
+      "name": {
+        "text": "Открытка со спелым манго"
+      },
+      "model": "the_vault:mango#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:mango"
+          }
+        }
+      ],
+      "task": "@extreme",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Спелый манго ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_orange": {
+      "type": "task_loot",
+      "name": {
+        "text": "Кисло-апельсиновая карта"
+      },
+      "model": "the_vault:sour_orange#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:sour_orange"
+          }
+        }
+      ],
+      "task": "@extreme",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Кислый апельсин ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_inscription_piece": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карточка с надписью"
+      },
+      "model": "the_vault:inscription_piece#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:inscription_piece"
+          }
+        }
+      ],
+      "task": "@extreme",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Кусочек с надписью ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_augment_piece": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карта частей дополнения"
+      },
+      "model": "woldsvaults:augment_piece#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "woldsvaults:augment_piece"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Кусок дополнения ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_chromatic_iron_ingot": {
+      "type": "task_loot",
+      "name": {
+        "text": "Хроматическая карта железных самородков"
+      },
+      "model": "the_vault:chromatic_iron_ingot#inventory",
+      "groups": [
+        "Ресурс"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:chromatic_iron_ingot"
+          }
+        }
+      ],
+      "task": "@easy",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 4
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Хроматический железный слиток ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_faceted_focus": {
+      "type": "task_loot",
+      "name": {
+        "text": "Карта \"Грани фокуса"
+      },
+      "model": "the_vault:faceted_focus#inventory",
+      "groups": [
+        "Ресурс",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:faceted_focus"
+          }
+        }
+      ],
+      "task": "@extreme",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Грани фокуса ",
+          "color": "yellow"
+        },
+        {
+          "text": "${задача}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "wild_base": {
+      "type": "dummy",
+      "name": {
+        "text": "Дикая карта"
+      },
+      "colors": [
+        "ЗЕЛЕНЫЙ",
+        "СИНИЙ",
+        "ЖЕЛТЫЙ",
+        "КРАСНЫЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    },
+    "wild_red": {
+      "type": "dummy",
+      "name": {
+        "text": "Красная дикая карта"
+      },
+      "colors": [
+        "КРАСНЫЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    },
+    "wild_yellow": {
+      "type": "dummy",
+      "name": {
+        "text": "Желтая дикая карта"
+      },
+      "colors": [
+        "ЖЕЛТЫЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    },
+    "wild_green": {
+      "type": "dummy",
+      "name": {
+        "text": "Зеленая дикая карта"
+      },
+      "colors": [
+        "ЗЕЛЕНЫЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    },
+    "wild_blue": {
+      "type": "dummy",
+      "name": {
+        "text": "Синяя дикая карта"
+      },
+      "colors": [
+        "СИНИЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    },
+    "wild_blue_red": {
+      "type": "dummy",
+      "name": {
+        "text": "Blue/Red Wild Card"
+      },
+      "colors": [
+        "СИНИЙ",
+        "КРАСНЫЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    },
+    "wild_blue_green": {
+      "type": "dummy",
+      "name": {
+        "text": "Blue/Green Wild Card"
+      },
+      "colors": [
+        "СИНИЙ",
+        "ЗЕЛЕНЫЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    },
+    "wild_blue_yellow": {
+      "type": "dummy",
+      "name": {
+        "text": "Blue/Yellow Wild Card"
+      },
+      "colors": [
+        "СИНИЙ",
+        "ЖЕЛТЫЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    },
+    "wild_blue_yellow_red": {
+      "type": "dummy",
+      "name": {
+        "text": "Blue/Yellow/Red Wild Card"
+      },
+      "colors": [
+        "СИНИЙ",
+        "ЖЕЛТЫЙ",
+        "КРАСНЫЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    },
+    "wild_blue_yellow_green": {
+      "type": "dummy",
+      "name": {
+        "text": "Blue/Yellow/Green Wild Card"
+      },
+      "colors": [
+        "СИНИЙ",
+        "ЖЕЛТЫЙ",
+        "ЗЕЛЕНЫЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    },
+    "wild_red_yellow_green": {
+      "type": "dummy",
+      "name": {
+        "text": "Red/Yellow/Green Wild Card"
+      },
+      "colors": [
+        "КРАСНЫЙ",
+        "ЖЕЛТЫЙ",
+        "ЗЕЛЕНЫЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    },
+    "wild_blue_green_red": {
+      "type": "dummy",
+      "name": {
+        "text": "Red/Blue/Green Wild Card"
+      },
+      "colors": [
+        "КРАСНЫЙ",
+        "СИНИЙ",
+        "ЗЕЛЕНЫЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    },
+    "wild_green_yellow": {
+      "type": "dummy",
+      "name": {
+        "text": "Green/Yellow Wild Card"
+      },
+      "colors": [
+        "ЖЕЛТЫЙ",
+        "ЗЕЛЕНЫЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    },
+    "wild_green_red": {
+      "type": "dummy",
+      "name": {
+        "text": "Синяя дикая карта"
+      },
+      "colors": [
+        "КРАСНЫЙ",
+        "ЗЕЛЕНЫЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    },
+    "wild_red_yellow": {
+      "type": "dummy",
+      "name": {
+        "text": "Red/Yellow Wild Card"
+      },
+      "colors": [
+        "КРАСНЫЙ",
+        "ЖЕЛТЫЙ"
+      ],
+      "groups": [
+        "Wild",
+        "Стат",
+        "Arcane",
+        "Ресурс",
+        "Эволюция",
+        "Knack",
+        "Физическая",
+        "Волшебный",
+        "Защита",
+        "Коммунальное хозяйство"
+      ],
+      "maxTier": 1
+    }
+  },
+  "pools": {
+    "default": [
+      {
+        "value": "attack_damage",
+        "weight": 1
+      },
+      {
+        "value": "health_percentile",
+        "weight": 1
+      },
+      {
+        "value": "apflat",
+        "weight": 1
+      },
+      {
+        "value": "attack_speed",
+        "weight": 1
+      },
+      {
+        "value": "cooldown_reduction",
+        "weight": 1
+      },
+      {
+        "value": "crit_hit_resistance",
+        "weight": 1
+      },
+      {
+        "value": "healing_effectiveness",
+        "weight": 1
+      },
+      {
+        "value": "item_quantity",
+        "weight": 1
+      },
+      {
+        "value": "item_rarity",
+        "weight": 1
+      },
+      {
+        "value": "knockback_resistance",
+        "weight": 1
+      },
+      {
+        "value": "lucky_hit_chance",
+        "weight": 1
+      },
+      {
+        "value": "mana_flat",
+        "weight": 1
+      },
+      {
+        "value": "mana_regeneration",
+        "weight": 1
+      },
+      {
+        "value": "mining_speed_flat",
+        "weight": 1
+      },
+      {
+        "value": "resistance",
+        "weight": 1
+      },
+      {
+        "value": "soul_chance",
+        "weight": 1
+      },
+      {
+        "value": "thorns_flat",
+        "weight": 1
+      },
+      {
+        "value": "trap_disarm",
+        "weight": 1
+      },
+      {
+        "value": "mana_additive_percentile",
+        "weight": 1
+      },
+      {
+        "value": "damage_increase",
+        "weight": 1
+      },
+      {
+        "value": "ability_power_percent",
+        "weight": 1
+      },
+      {
+        "value": "armor_percent",
+        "weight": 1
+      },
+      {
+        "value": "area_of_effect",
+        "weight": 1
+      },
+      {
+        "value": "movement_speed",
+        "weight": 1
+      },
+      {
+        "value": "copiously",
+        "weight": 1
+      }
+    ],
+    "deluxe_stat": [
+      {
+        "value": "deluxe_attack_damage",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_health_percentile",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_apflat",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_attack_speed",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_cooldown_reduction",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_crit_hit_resistance",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_healing_effectiveness",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_item_quantity",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_item_rarity",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_knockback_resistance",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_lucky_hit_chance",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_mana_flat",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_mana_regeneration",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_mining_speed_flat",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_resistance",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_soul_chance",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_thorns_flat",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_trap_disarm",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_mana_additive_percentile",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_damage_increase",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_ability_power_percent",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_armor_percent",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_area_of_effect",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_movement_speed",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_copiously",
+        "weight": 1
+      }
+    ],
+    "deluxe_knack": [
+      {
+        "value": "haste",
+        "weight": 3
+      },
+      {
+        "value": "speed_talent",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_strength",
+        "weight": 4
+      },
+      {
+        "value": "deluxe_purist",
+        "weight": 6
+      },
+      {
+        "value": "lucky_hit_fatal",
+        "weight": 4
+      },
+      {
+        "value": "lucky_hit_mana",
+        "weight": 4
+      },
+      {
+        "value": "life_leech",
+        "weight": 4
+      },
+      {
+        "value": "cleave_talent",
+        "weight": 4
+      },
+      {
+        "value": "deluxe_bountiful_harvest",
+        "weight": 6
+      },
+      {
+        "value": "deluxe_treasure_seeker",
+        "weight": 6
+      },
+      {
+        "value": "deluxe_daze",
+        "weight": 6
+      },
+      {
+        "value": "deluxe_nucleus",
+        "weight": 6
+      },
+      {
+        "value": "deluxe_hunters_instinct",
+        "weight": 6
+      },
+      {
+        "value": "deluxe_javelin_throw_power",
+        "weight": 3
+      },
+      {
+        "value": "deluxe_javelin_damage",
+        "weight": 3
+      },
+      {
+        "value": "deluxe_javelin_frugal",
+        "weight": 3
+      },
+      {
+        "value": "deluxe_last_stand",
+        "weight": 6
+      },
+      {
+        "value": "deluxe_berserking",
+        "weight": 6
+      },
+      {
+        "value": "deluxe_sorcery",
+        "weight": 6
+      }
+    ],
+    "knack": [
+      {
+        "value": "intelligence",
+        "weight": 6
+      },
+      {
+        "value": "strength",
+        "weight": 6
+      },
+      {
+        "value": "purist",
+        "weight": 3
+      },
+      {
+        "value": "stone_skin",
+        "weight": 6
+      },
+      {
+        "value": "dungeon_mastery",
+        "weight": 4
+      },
+      {
+        "value": "horde_mastery",
+        "weight": 4
+      },
+      {
+        "value": "assassin_mastery",
+        "weight": 4
+      },
+      {
+        "value": "dweller_mastery",
+        "weight": 3
+      },
+      {
+        "value": "champion_mastery",
+        "weight": 2
+      },
+      {
+        "value": "tank_mastery",
+        "weight": 4
+      },
+      {
+        "value": "last_stand",
+        "weight": 6
+      },
+      {
+        "value": "berserking",
+        "weight": 6
+      },
+      {
+        "value": "sorcery",
+        "weight": 6
+      },
+      {
+        "value": "prime_amplification",
+        "weight": 6
+      },
+      {
+        "value": "bountiful_harvest",
+        "weight": 6
+      },
+      {
+        "value": "lightning_damage",
+        "weight": 4
+      },
+      {
+        "value": "lightning_stun",
+        "weight": 4
+      },
+      {
+        "value": "treasure_seeker",
+        "weight": 6
+      },
+      {
+        "value": "witchery",
+        "weight": 5
+      },
+      {
+        "value": "methodical",
+        "weight": 4
+      },
+      {
+        "value": "depleted",
+        "weight": 4
+      },
+      {
+        "value": "prudent",
+        "weight": 4
+      },
+      {
+        "value": "alchemist",
+        "weight": 4
+      },
+      {
+        "value": "frozen_impact",
+        "weight": 4
+      },
+      {
+        "value": "frostbite",
+        "weight": 4
+      },
+      {
+        "value": "daze",
+        "weight": 6
+      },
+      {
+        "value": "nucleus",
+        "weight": 4
+      },
+      {
+        "value": "blight",
+        "weight": 4
+      },
+      {
+        "value": "hunters_instinct",
+        "weight": 3
+      },
+      {
+        "value": "arcana",
+        "weight": 3
+      },
+      {
+        "value": "blazing",
+        "weight": 3
+      },
+      {
+        "value": "lucky_momentum",
+        "weight": 3
+      },
+      {
+        "value": "frenzy",
+        "weight": 3
+      },
+      {
+        "value": "toxic_reaction",
+        "weight": 3
+      },
+      {
+        "value": "javelin_throw_power",
+        "weight": 6
+      },
+      {
+        "value": "javelin_damage",
+        "weight": 4
+      },
+      {
+        "value": "javelin_frugal",
+        "weight": 4
+      }
+    ],
+    "arcane": [
+      {
+        "value": "ghost_walk",
+        "weight": 1
+      },
+      {
+        "value": "heal",
+        "weight": 1
+      },
+      {
+        "value": "dash",
+        "weight": 1
+      },
+      {
+        "value": "nova",
+        "weight": 1
+      },
+      {
+        "value": "mega_jump",
+        "weight": 1
+      },
+      {
+        "value": "rampage",
+        "weight": 1
+      },
+      {
+        "value": "smite",
+        "weight": 1
+      },
+      {
+        "value": "empower",
+        "weight": 1
+      },
+      {
+        "value": "hunter",
+        "weight": 1
+      },
+      {
+        "value": "mana_shield_implode",
+        "weight": 1
+      },
+      {
+        "value": "taunt",
+        "weight": 1
+      },
+      {
+        "value": "stonefall",
+        "weight": 1
+      },
+      {
+        "value": "totem",
+        "weight": 1
+      },
+      {
+        "value": "javelin",
+        "weight": 1
+      },
+      {
+        "value": "fireball",
+        "weight": 1
+      },
+      {
+        "value": "blizzard",
+        "weight": 1
+      },
+      {
+        "value": "thunderstorm",
+        "weight": 1
+      },
+      {
+        "value": "battle_cry",
+        "weight": 1
+      },
+      {
+        "value": "ice_bolt",
+        "weight": 1
+      },
+      {
+        "value": "shell",
+        "weight": 1
+      },
+      {
+        "value": "arcane",
+        "weight": 1
+      },
+      {
+        "value": "retribution",
+        "weight": 1
+      },
+      {
+        "value": "earthquake",
+        "weight": 1
+      },
+      {
+        "value": "chain_lightning",
+        "weight": 1
+      },
+      {
+        "value": "chaos_cube",
+        "weight": 1
+      },
+      {
+        "value": "mana_barrier",
+        "weight": 1
+      },
+      {
+        "value": "expunge",
+        "weight": 1
+      }
+    ],
+    "temporal": [
+      {
+        "value": "temporal_charm",
+        "weight": 1
+      },
+      {
+        "value": "temporal_coin",
+        "weight": 1
+      },
+      {
+        "value": "temporal_hunter",
+        "weight": 1
+      },
+      {
+        "value": "temporal_nuke",
+        "weight": 1
+      },
+      {
+        "value": "temporal_totem",
+        "weight": 1
+      },
+      {
+        "value": "temporal_lootgoblin",
+        "weight": 1
+      },
+      {
+        "value": "temporal_door",
+        "weight": 1
+      },
+      {
+        "value": "temporal_overpower",
+        "weight": 1
+      }
+    ],
+    "deluxe_temporal": [
+      {
+        "value": "deluxe_temporal_charm",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_temporal_coin",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_temporal_hunter",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_temporal_nuke",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_temporal_totem",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_temporal_lootgoblin",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_temporal_door",
+        "weight": 1
+      },
+      {
+        "value": "deluxe_temporal_overpower",
+        "weight": 1
+      }
+    ],
+    "deluxe_resource": [
+      {
+        "value": "resource_inscription_piece",
+        "weight": 6
+      },
+      {
+        "value": "resource_augment_piece",
+        "weight": 8
+      },
+      {
+        "value": "resource_gem_echo",
+        "weight": 1
+      },
+      {
+        "value": "resource_gold",
+        "weight": 24
+      },
+      {
+        "value": "resource_focus_fundamental",
+        "weight": 3
+      },
+      {
+        "value": "resource_mod_box",
+        "weight": 12
+      },
+      {
+        "value": "resource_gem_box",
+        "weight": 12
+      },
+      {
+        "value": "resource_supply_box",
+        "weight": 12
+      },
+      {
+        "value": "resource_soul_ichor",
+        "weight": 6
+      },
+      {
+        "value": "resource_catalyst_fragment",
+        "weight": 12
+      },
+      {
+        "value": "resource_faceted_focus",
+        "weight": 8
+      },
+      {
+        "value": "resource_focus_waning",
+        "weight": 6
+      },
+      {
+        "value": "resource_focus_waxing",
+        "weight": 6
+      },
+      {
+        "value": "resource_mango",
+        "weight": 4
+      },
+      {
+        "value": "resource_orange",
+        "weight": 3
+      }
+    ],
+    "resource": [
+      {
+        "value": "resource_gem_larimar",
+        "weight": 60
+      },
+      {
+        "value": "resource_gem_benitoite",
+        "weight": 60
+      },
+      {
+        "value": "resource_gem_alexandrite",
+        "weight": 45
+      },
+      {
+        "value": "resource_gem_painite",
+        "weight": 30
+      },
+      {
+        "value": "resource_gem_iskallium",
+        "weight": 9
+      },
+      {
+        "value": "resource_gem_gorginite",
+        "weight": 9
+      },
+      {
+        "value": "resource_gem_sparkletine",
+        "weight": 9
+      },
+      {
+        "value": "resource_gem_ashium",
+        "weight": 9
+      },
+      {
+        "value": "resource_gem_upaline",
+        "weight": 9
+      },
+      {
+        "value": "resource_gem_tubium",
+        "weight": 9
+      },
+      {
+        "value": "resource_gem_bomignite",
+        "weight": 9
+      },
+      {
+        "value": "resource_gem_petzanite",
+        "weight": 9
+      },
+      {
+        "value": "resource_gem_xeenium",
+        "weight": 9
+      },
+      {
+        "value": "resource_bronze",
+        "weight": 64
+      },
+      {
+        "value": "resource_focus_chaotic",
+        "weight": 18
+      },
+      {
+        "value": "resource_vault_diamond",
+        "weight": 42
+      },
+      {
+        "value": "resource_chromatic_iron_ingot",
+        "weight": 66
+      },
+      {
+        "value": "resource_carbon",
+        "weight": 66
+      },
+      {
+        "value": "resource_mystery_egg",
+        "weight": 12
+      },
+      {
+        "value": "resource_plating",
+        "weight": 66
+      },
+      {
+        "value": "resource_grapes",
+        "weight": 12
+      },
+      {
+        "value": "resource_lemon",
+        "weight": 5
+      }
+    ],
+    "scaling": [
+      {
+        "value": "amp_attack_damage",
+        "weight": 1
+      },
+      {
+        "value": "amp_apflat",
+        "weight": 1
+      },
+      {
+        "value": "amp_attack_speed",
+        "weight": 1
+      },
+      {
+        "value": "amp_cooldown_reduction",
+        "weight": 1
+      },
+      {
+        "value": "amp_crit_hit_resistance",
+        "weight": 1
+      },
+      {
+        "value": "amp_healing_effectiveness",
+        "weight": 1
+      },
+      {
+        "value": "amp_item_quantity",
+        "weight": 1
+      },
+      {
+        "value": "amp_item_rarity",
+        "weight": 1
+      },
+      {
+        "value": "amp_knockback_resistance",
+        "weight": 1
+      },
+      {
+        "value": "amp_lucky_hit_chance",
+        "weight": 1
+      },
+      {
+        "value": "amp_mana_flat",
+        "weight": 1
+      },
+      {
+        "value": "amp_mana_regeneration",
+        "weight": 1
+      },
+      {
+        "value": "amp_mining_speed_flat",
+        "weight": 1
+      },
+      {
+        "value": "amp_resistance",
+        "weight": 1
+      },
+      {
+        "value": "amp_soul_chance",
+        "weight": 1
+      },
+      {
+        "value": "amp_thorns_flat",
+        "weight": 1
+      },
+      {
+        "value": "amp_trap_disarm",
+        "weight": 1
+      },
+      {
+        "value": "amp_mana_additive_percentile",
+        "weight": 1
+      },
+      {
+        "value": "amp_damage_increase",
+        "weight": 1
+      },
+      {
+        "value": "amp_ability_power_percent",
+        "weight": 1
+      },
+      {
+        "value": "amp_armor_percent",
+        "weight": 1
+      },
+      {
+        "value": "amp_health_percentile",
+        "weight": 1
+      },
+      {
+        "value": "amp_area_of_effect",
+        "weight": 1
+      },
+      {
+        "value": "amp_movement_speed",
+        "weight": 1
+      },
+      {
+        "value": "amp_copiously",
+        "weight": 1
+      }
+    ],
+    "wild": [
+      {
+        "value": "wild_base",
+        "weight": 5
+      },
+      {
+        "value": "wild_blue_yellow_red",
+        "weight": 5
+      },
+      {
+        "value": "wild_blue_yellow_green",
+        "weight": 5
+      },
+      {
+        "value": "wild_red_yellow_green",
+        "weight": 5
+      },
+      {
+        "value": "wild_blue_green_red",
+        "weight": 5
+      }
+    ]
+  }
+}

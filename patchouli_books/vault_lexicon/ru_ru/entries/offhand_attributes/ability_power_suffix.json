@@ -1,0 +1,11 @@
+{
+  "name": "Сила способностей (суффикс)",
+  "icon": "occultism:spirit_fire",
+  "category": "patchouli:offhand_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Сила способностей используется во многих умениях, таких как Fireball и Nova, для расчета урона.$(br2)Этот суффикс Offhand встречается только в качестве модификатора Unusual."
+    }
+  ]
+}

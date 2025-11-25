@@ -1,0 +1,12 @@
+{
+  "name": "Количество предметов (неявное)",
+  "icon": "the_vault:wooden_chunk",
+  "category": "patchouli:void_stone_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:void_stone",
+      "text": "Item Quantity увеличивает количество предметов в сундуках Vault Chests."
+    }
+  ]
+}

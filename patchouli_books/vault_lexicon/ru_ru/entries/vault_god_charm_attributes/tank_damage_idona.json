@@ -1,0 +1,11 @@
+{
+  "name": "Урон от танков (Идона)",
+  "icon": "pneumaticcraft:pneumatic_chestplate",
+  "category": "patchouli:vault_god_charm_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Можно найти только на чарах бога хранилища Идоны.$(br2)Враги, появляющиеся в хранилищах, делятся на разные категории.$(br2)Tank Damage наносит бонусный урон врагам класса \"Танк\", к которым относятся мумии, свинорылые и др."
+    }
+  ]
+}

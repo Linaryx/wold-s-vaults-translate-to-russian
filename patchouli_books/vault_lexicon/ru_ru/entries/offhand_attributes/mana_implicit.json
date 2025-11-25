@@ -1,0 +1,12 @@
+{
+  "name": "Мана (неявная)",
+  "icon": "botania:lens_speed",
+  "category": "patchouli:offhand_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:focus",
+      "text": "Находится как Offhand Implicit только в Vault Focus.$(br2)Мана увеличивает ваш максимальный запас маны."
+    }
+  ]
+}

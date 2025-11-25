@@ -1,0 +1,11 @@
+{
+  "name": "Шанс уклонения (суффикс)",
+  "icon": "minecraft:slime_block",
+  "category": "patchouli:offhand_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Шанс уклонения - это шанс, что вы полностью избежите одного повреждения.$(br2)Этот суффикс Offhand встречается только в качестве модификатора Unusual."
+    }
+  ]
+}

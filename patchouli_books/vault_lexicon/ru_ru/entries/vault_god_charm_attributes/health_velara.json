@@ -1,0 +1,12 @@
+{
+  "name": "Здоровье (Велара)",
+  "icon": "the_vault:hearty_apple",
+  "category": "patchouli:vault_god_charm_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:vault_god_charm",
+      "text": "Можно найти только на амулетах бога хранилища Велары.$(br2)Здоровье увеличивает ваше максимальное здоровье."
+    }
+  ]
+}

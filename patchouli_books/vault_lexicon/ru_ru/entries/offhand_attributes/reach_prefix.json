@@ -1,0 +1,11 @@
+{
+  "name": "Достичь (префикс)",
+  "icon": "create:brass_hand",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Дальность действия увеличивает расстояние, с которого ваше оружие может поражать врагов."
+    }
+  ]
+}

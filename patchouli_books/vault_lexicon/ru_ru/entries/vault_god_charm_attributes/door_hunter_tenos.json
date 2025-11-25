@@ -1,0 +1,12 @@
+{
+  "name": "Охотник за дверьми (Tenos)",
+  "icon": "scannable:vault_vendoors_module",
+  "category": "patchouli:vault_god_charm_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:vault_god_charm",
+      "text": "Встречается только на амулетах бога хранилища Tenos.$(br2)Это временная способность, которая активируется случайным образом во время нахождения в хранилище и длится только указанное время.$(br2)Открывает все двери внутри хранилища."
+    }
+  ]
+}

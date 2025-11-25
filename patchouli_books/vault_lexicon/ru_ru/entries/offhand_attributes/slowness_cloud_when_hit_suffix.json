@@ -1,0 +1,11 @@
+{
+  "name": "Облако медлительности при попадании (суффикс)",
+  "icon": "minecraft:soul_sand",
+  "category": "patchouli:offhand_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Суффиксы Cloud When Hit имеют шанс активироваться при попадании, покрывая область вокруг вас облаком.$(br2)Slowness Cloud заставляет всех врагов, находящихся внутри него, двигаться медленнее."
+    }
+  ]
+}

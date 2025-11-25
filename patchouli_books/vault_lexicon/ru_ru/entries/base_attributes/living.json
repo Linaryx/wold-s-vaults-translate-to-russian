@@ -1,0 +1,11 @@
+{
+  "name": "Жизнь",
+  "icon": "twigs:bamboo_leaves",
+  "category": "patchouli:base_attributes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Vault Gear with Living будет повышать уровень, когда вы это сделаете, пока он экипирован или находится у вас в руках.$(br2)Повышение уровня равно вашему текущему уровню."
+    }
+  ]
+}

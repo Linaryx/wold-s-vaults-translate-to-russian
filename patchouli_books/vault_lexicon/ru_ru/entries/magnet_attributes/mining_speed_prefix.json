@@ -1,0 +1,12 @@
+{
+  "name": "Скорость добычи (префикс)",
+  "icon": "minecraft:netherite_pickaxe",
+  "category": "patchouli:magnet_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "грот:магнит",
+      "text": "Скорость добычи увеличивает скорость разрушения блоков."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Урон от торнов (неявный)",
+  "icon": "supplementaries:bamboo_spikes",
+  "category": "patchouli:offhand_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:shield",
+      "text": "Находится как Offhand Implicit только на щитах хранилища.$(br2)Thorns Damage - это ответный урон, наносимый противнику, когда он бьет вас."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Мана (префикс)",
+  "icon": "botania:lens_speed",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мана увеличивает ваш максимальный запас маны.$(br2)Этот префикс оружия встречается только в качестве необычного модификатора."
+    }
+  ]
+}

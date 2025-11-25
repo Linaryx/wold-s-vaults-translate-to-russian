@@ -1,0 +1,12 @@
+{
+  "name": "Редкость предмета (Тенос)",
+  "icon": "the_vault:vault_diamond",
+  "category": "patchouli:vault_god_charm_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:vault_god_charm",
+      "text": "Можно найти только на чарах бога хранилища Теноса.$(br2)Редкость предметов увеличивает шанс того, что каждый предмет в сундуке хранилища будет более редким."
+    }
+  ]
+}

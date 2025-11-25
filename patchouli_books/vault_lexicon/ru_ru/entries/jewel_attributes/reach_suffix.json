@@ -1,0 +1,12 @@
+{
+  "name": "Достижение (суффикс)",
+  "icon": "create:brass_hand",
+  "category": "patchouli:jewel_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:jewel",
+      "text": "Дальность действия увеличивает расстояние, с которого ваше оружие может поражать врагов."
+    }
+  ]
+}

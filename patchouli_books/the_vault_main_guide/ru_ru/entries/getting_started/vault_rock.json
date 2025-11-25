@@ -1,0 +1,17 @@
+{
+  "sortnum": 3,
+  "name": "Свод Рока",
+  "icon": "the_vault:vault_rock",
+  "category": "patchouli:getting_started_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "После нахождения необходимого количества хроматического железа можно найти скопления камня свода $(l)ниже Y: -5$().$(br2)При добыче камня свода есть 10% шанс, что из него выпадет $(l)Обломок камня свода$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "the_vault:vault_rock",
+      "text": "Сочетание $(l)Chipped Vault Rocks$() с $(l)Chromatic Iron$() в ремесленном столе приводит к $(l)Vault Rock$()."
+    }
+  ]
+}

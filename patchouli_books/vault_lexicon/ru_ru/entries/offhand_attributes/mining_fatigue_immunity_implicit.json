@@ -1,0 +1,12 @@
+{
+  "name": "Невосприимчивость к усталости при добыче (неявная)",
+  "icon": "minecraft:iron_pickaxe",
+  "category": "patchouli:offhand_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:plushie",
+      "text": "Встречается в виде Offhand Implicit только на Vault Plushies.$(br2)Невосприимчивость к усталости от горного дела прекращает действие дебаффа \"Усталость от горного дела\", который замедляет скорость добычи/взлома."
+    }
+  ]
+}

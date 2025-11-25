@@ -1,0 +1,12 @@
+{
+  "name": "Сопротивление ударам (суффикс)",
+  "icon": "minecraft:slime_ball",
+  "category": "patchouli:magnet_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "грот:магнит",
+      "text": "Knockback Resist снижает количество ударов, наносимых вам вражескими атаками.$(br2)Этот магнитный суффикс встречается только в качестве модификатора Unusual."
+    }
+  ]
+}

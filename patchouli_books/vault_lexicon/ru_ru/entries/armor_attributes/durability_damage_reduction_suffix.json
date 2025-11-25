@@ -1,0 +1,11 @@
+{
+  "name": "Снижение урона прочности (суффикс)",
+  "icon": "minecraft:netherite_chestplate",
+  "category": "patchouli:armor_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Снижение урона от прочности уменьшит урон от прочности Vault Gear.$(br2)Этот суффикс брони встречается только в качестве необычного модификатора."
+    }
+  ]
+}

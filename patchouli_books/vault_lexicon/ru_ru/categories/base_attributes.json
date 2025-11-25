@@ -1,0 +1,6 @@
+{
+  "name": "Базовые атрибуты",
+  "description": "Эти атрибуты присутствуют почти на всех предметах Vault Gear.",
+  "sortnum": 0,
+  "icon": "the_vault:chromatic_iron_ingot"
+}

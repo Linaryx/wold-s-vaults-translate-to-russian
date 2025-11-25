@@ -1,0 +1,12 @@
+{
+  "name": "Количество предметов (суффикс)",
+  "icon": "the_vault:wooden_chunk",
+  "category": "patchouli:jewel_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:jewel",
+      "text": "Количество предметов увеличивает количество предметов в сундуках Vault Chests."
+    }
+  ]
+}

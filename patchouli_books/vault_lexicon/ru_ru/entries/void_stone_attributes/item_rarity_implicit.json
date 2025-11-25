@@ -1,0 +1,12 @@
+{
+  "name": "Редкость предмета (неявная)",
+  "icon": "the_vault:vault_diamond",
+  "category": "patchouli:void_stone_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:void_stone",
+      "text": "Редкость предметов увеличивает шанс того, что каждый предмет в сундуке будет более редким."
+    }
+  ]
+}

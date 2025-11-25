@@ -1,0 +1,12 @@
+{
+  "name": "Копительно (суффикс)",
+  "icon": "the_vault:gem_echo",
+  "category": "patchouli:magnet_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "грот:магнит",
+      "text": "Копилка - это шанс получить несколько драгоценных камней при добыче руды хранилища."
+    }
+  ]
+}

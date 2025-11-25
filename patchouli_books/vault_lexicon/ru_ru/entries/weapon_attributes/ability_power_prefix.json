@@ -1,0 +1,11 @@
+{
+  "name": "Сила способностей (префикс)",
+  "icon": "occultism:spirit_fire",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Сила способностей используется во многих умениях, таких как Fireball и Nova, для расчета урона."
+    }
+  ]
+}

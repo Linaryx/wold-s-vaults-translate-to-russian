@@ -1,0 +1,18 @@
+{
+  "name": "Чародей хранилища",
+  "icon": "the_vault:vault_enchanter",
+  "category": "patchouli:game_mechanics_category",
+  "read_by_default": "правда",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Vault Enchanter представляет $(l)более простой$() и $(l)менее трудоемкий$() способ $(l)зачарования$() $(l:vault_gear/identification)$(t:Vault Gear) Vault Gear$() и $(l:vault_tools/variants)$(t:Vault Tools) Vault Tools$().$(br2)Вместо использования Таблицы зачарований или Деревенских жителей, он представляет способ $(l)выбирать$() и $(l)заменять$() зачарования из $(l)одного пользовательского интерфейса$().$(br2)Все зачарования в Vault Enchanter имеют $(l)максимальный$() уровень для данного зачарования."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "the_vault:vault_enchanter",
+      "title": "Чародей хранилища",
+      "text": "$(l)После ввода Vault Gear или Vault Tool на выбор можно выбрать зачарование, стоимость которого составляет $(l)5 изумрудов$() и $(l)1 уровень опыта$()."
+    }
+  ]
+}

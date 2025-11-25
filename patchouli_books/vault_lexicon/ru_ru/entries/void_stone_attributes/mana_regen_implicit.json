@@ -1,0 +1,12 @@
+{
+  "name": "Регенерация маны (неявно)",
+  "icon": "botania:mana_bottle",
+  "category": "patchouli:void_stone_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:void_stone",
+      "text": "Реген маны увеличивает скорость восстановления маны."
+    }
+  ]
+}

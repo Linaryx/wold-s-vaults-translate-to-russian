@@ -1,0 +1,11 @@
+{
+  "name": "Снижение урона прочности (суффикс)",
+  "icon": "minecraft:netherite_chestplate",
+  "category": "patchouli:weapon_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Durability Damage Reduction уменьшит урон прочности Vault Gear.$(br2)Этот суффикс оружия встречается только в качестве модификатора Unusual."
+    }
+  ]
+}

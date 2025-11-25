@@ -1,0 +1,11 @@
+{
+  "name": "Мана (префикс)",
+  "icon": "botania:lens_speed",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мана увеличивает ваш максимальный запас маны.$(br2)Этот префикс Offhand встречается только как модификатор Unusual."
+    }
+  ]
+}

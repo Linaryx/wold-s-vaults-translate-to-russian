@@ -1,0 +1,11 @@
+{
+  "name": "Hexing Chance (Suffix)",
+  "icon": "grimoireofgaia:cursed_metal_sword",
+  "category": "patchouli:weapon_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Hexing Chance имеет шанс активироваться при каждой атаке, накладывая на цель случайные дебаффы.$(br2)Этот суффикс оружия встречается только в качестве модификатора Unusual."
+    }
+  ]
+}

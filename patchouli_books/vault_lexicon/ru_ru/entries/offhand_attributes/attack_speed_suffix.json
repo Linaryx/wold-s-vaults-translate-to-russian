@@ -1,0 +1,12 @@
+{
+  "name": "Скорость атаки (суффикс)",
+  "icon": "minecraft:leather_boots",
+  "category": "patchouli:offhand_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:plushie",
+      "text": "Встречается как суффикс Offhand только у Vault Plushies.$(br2)Скорость атаки - это скорость, с которой вы можете атаковать оружием."
+    }
+  ]
+}

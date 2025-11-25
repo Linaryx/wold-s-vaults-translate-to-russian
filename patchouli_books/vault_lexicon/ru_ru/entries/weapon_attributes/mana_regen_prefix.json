@@ -1,0 +1,11 @@
+{
+  "name": "Регенерация маны (префикс)",
+  "icon": "botania:mana_bottle",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Mana Regen увеличивает скорость регенерации маны.$(br2)Этот Weapon Prefix встречается только в качестве необычного модификатора."
+    }
+  ]
+}

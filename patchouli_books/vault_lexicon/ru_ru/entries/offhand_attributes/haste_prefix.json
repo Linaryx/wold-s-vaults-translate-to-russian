@@ -1,0 +1,12 @@
+{
+  "name": "Спешка (префикс)",
+  "icon": "minecraft:redstone",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:loot_sack",
+      "text": "Находится в качестве префикса Offhand только на мешках с лутом в хранилище.$(br2)Haste увеличивает скорость добычи и атаки."
+    }
+  ]
+}

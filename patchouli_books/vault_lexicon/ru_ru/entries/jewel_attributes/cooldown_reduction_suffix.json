@@ -1,0 +1,12 @@
+{
+  "name": "Снижение кулдауна (суффикс)",
+  "icon": "modularrouters:speed_upgrade",
+  "category": "patchouli:jewel_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:jewel",
+      "text": "Снижение кулдауна уменьшает время, необходимое для перезарядки и повторного использования способностей."
+    }
+  ]
+}

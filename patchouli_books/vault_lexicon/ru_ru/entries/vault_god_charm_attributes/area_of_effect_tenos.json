@@ -1,0 +1,12 @@
+{
+  "name": "Зона действия (Тенос)",
+  "icon": "controlengineering:empty_tape",
+  "category": "patchouli:vault_god_charm_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:vault_god_charm",
+      "text": "Находится только на чарах бога свода Tenos.$(br2)Область действия увеличивает область действия атак и эффектов, основанных на AoE, например, эффектов облака."
+    }
+  ]
+}

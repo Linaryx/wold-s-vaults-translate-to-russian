@@ -1,0 +1,11 @@
+{
+  "name": "Повреждение членистоногими (префикс)",
+  "icon": "minecraft:spider_eye",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Враги, появляющиеся в хранилищах, делятся на разные категории.$(br2)Arthropod Damage наносит бонусный урон врагам класса Arthropod, к которым относятся пауки и т. д.$(br2)Этот префикс можно получить только с помощью модификатора Workbench."
+    }
+  ]
+}

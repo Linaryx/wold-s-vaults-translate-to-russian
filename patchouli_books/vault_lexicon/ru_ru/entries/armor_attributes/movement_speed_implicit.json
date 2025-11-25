@@ -1,0 +1,11 @@
+{
+  "name": "Скорость передвижения (неявная)",
+  "icon": "pneumaticcraft:pneumatic_boots",
+  "category": "patchouli:armor_implicits",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Скорость передвижения увеличивает скорость вашего передвижения."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Echoing Chance (Suffix)",
+  "icon": "botania:mana_mirror",
+  "category": "patchouli:weapon_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Echoing Chance имеет шанс активироваться при каждой атаке, вызывая повторную атаку.$(br2)Эта повторная атака имеет тот же шанс активировать другие эффекты, такие как Clouds."
+    }
+  ]
+}

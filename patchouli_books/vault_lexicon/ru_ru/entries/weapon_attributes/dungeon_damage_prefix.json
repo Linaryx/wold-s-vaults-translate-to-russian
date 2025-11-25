@@ -1,0 +1,11 @@
+{
+  "name": "Повреждение подземелья (префикс)",
+  "icon": "minecraft:iron_bars",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Враги, появляющиеся в подземельях, делятся на разные категории.$(br2)Dungeon Damage применяет бонусный урон ко всем мобам, появляющимся в подземельях."
+    }
+  ]
+}

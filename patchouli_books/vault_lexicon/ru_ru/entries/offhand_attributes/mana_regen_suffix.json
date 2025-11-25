@@ -1,0 +1,11 @@
+{
+  "name": "Регенерация маны (суффикс)",
+  "icon": "botania:mana_bottle",
+  "category": "patchouli:offhand_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Реген маны увеличивает скорость восстановления маны."
+    }
+  ]
+}

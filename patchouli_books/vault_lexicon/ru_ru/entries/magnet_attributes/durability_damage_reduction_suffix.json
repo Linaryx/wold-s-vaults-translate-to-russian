@@ -1,0 +1,12 @@
+{
+  "name": "Снижение урона прочности (суффикс)",
+  "icon": "minecraft:netherite_chestplate",
+  "category": "patchouli:magnet_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "грот:магнит",
+      "text": "Снижение урона от прочности уменьшает урон прочности Vault Gear.$(br2)Этот магнитный суффикс встречается только в качестве необычного модификатора."
+    }
+  ]
+}

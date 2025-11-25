@@ -1,0 +1,11 @@
+{
+  "name": "Божественный",
+  "icon": "woldsvaults:god_offering",
+  "category": "patchouli:base_attributes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Divine предотвращает порчу предмета Vault Gear (делая его немодифицируемым, кроме как повторным прокачкой).$(br2)Когда порча предотвращена, есть 50% шанс потерять атрибут Divine."
+    }
+  ]
+}

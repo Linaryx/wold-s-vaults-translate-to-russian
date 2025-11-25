@@ -1,0 +1,31 @@
+{
+  "sortnum": 4,
+  "name": "Модификация",
+  "icon": "the_vault:modifier_workbench",
+  "category": "patchouli:vault_gear_category",
+  "read_by_default": "правда",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "После $(l)нахождения$() или $(l:vault_gear/crafting)$(l) создания$() Vault Gear, его можно модифицировать.$(br2)Модификация Gear может варьироваться от корректировки $(t:Implicits, Prefixes & Suffixes)$(l) аффиксов$() до изменения количества $(l:vault_gear/variants#affixes_and_repairs)$(t:Repair Slots) $(l) слотов для ремонта$().$(br2)Модификаторы могут быть изменены в $(l)Vault Artisan Station$() и $(l)Modifier Workbench$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "the_vault:vault_artisan_station",
+      "title": "Станция ремесленников Vault",
+      "text": "На станции ремесленников в хранилище $(l)Фокусы$() могут быть применены к Vault Gear для его модификации, используя $(l)Vault Plating$() и $(l)Vault Bronze$().$(br2)Каждый Фокус имеет свой слот для хранения."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "the_vault:modifier_workbench",
+      "title": "Верстак модификаторов",
+      "text": "$(l)Modifier Workbench$() позволяет игроку $(l)создать$() определенный префикс или суффикс на предмете снаряжения.$(br2)$(l) Оружие$(), $(l)броня$() и $(l)утилиты$() могут содержать $(l)один$() модификатор, созданный на них."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:modifier_discovery",
+      "title": "Архив модификаторов",
+      "text": "$(l)Не$() все доступные модификаторы могут быть созданы на Vault Gear.$(br2)Некоторые модификаторы закрыты за уровнем игрока $(l)$()$(br2)Другим можно научиться, найдя $(l)Архив модификаторов$() внутри $(l:the_vault/layout#dungeons)$(t:Dungeons) подземелья$() в хранилищах выше $(l)уровня 60$()."
+    }
+  ]
+}

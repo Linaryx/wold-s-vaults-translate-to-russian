@@ -1,0 +1,12 @@
+{
+  "name": "Урон от терний (префикс)",
+  "icon": "supplementaries:bamboo_spikes",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:shield",
+      "text": "Встречается в качестве префикса Offhand только на щитах хранилища.$(br2)Thorns Damage - это ответный урон, наносимый противнику при ударе."
+    }
+  ]
+}

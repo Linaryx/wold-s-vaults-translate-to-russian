@@ -1,0 +1,16 @@
+{
+  "sortnum": 3,
+  "name": "Коробка Vaultar",
+  "icon": "woldsvaults:vaultar_box",
+  "category": "patchouli:new_items",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Vaultar Boxes - это новый предмет, похожий на Mystery Box, который содержит случайные ингредиенты, необходимые для Vaultar. "
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Их можно найти только в хранилищах ресурсов, в сундуках Hardened и Enigma!"
+    }
+  ]
+}

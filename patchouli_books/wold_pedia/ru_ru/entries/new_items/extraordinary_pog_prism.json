@@ -1,0 +1,17 @@
+{
+  "sortnum": 3,
+  "name": "Необыкновенная призма Пога",
+  "icon": "woldsvaults:extraordinary_pog_prism",
+  "category": "patchouli:new_items",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Экстраординарная призма Пога - это шаг вперед по сравнению с $(l)Призмой Пога$(), использующей дорогие рецепты крафтинга для получения мощных и полезных предметов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "woldsvaults:extraordinary_pog_prism",
+      "text": "Необыкновенная призма Пога - довольно дорогая вещь в отделе эхолокации!"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "sortnum": 2,
+  "name": "Команды геймерула",
+  "icon": "minecraft:clock",
+  "category": "patchouli:useful_commands_category",
+  "read_by_default": "правда",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Было введено несколько пользовательских правил игры, чтобы $(l)скорректировать$() опыт охотников за хранилищами $(l).$(br2)На многопользовательских серверах эти правила применяются ко $(l)всем$() игрокам.$(br2)Большинство этих правил игры нарушают $(l)баланс$() игры. Поэтому $(l)рекомендуется$() оставить большинство игровых правил на их $(l)настройках по умолчанию$()."
+    },
+    {
+      "anchor": "vaultmode",
+      "type": "patchouli:text",
+      "title": "Команды геймерула",
+      "text": "$(li)$(8)$(l)/gamerule$(br)vaultMode$(br)<mode> $()$(li2)Меняет то, что происходит, когда игрок $(l:game_mechanics/spirits)выбывает из игры в Vault$()$()$(br2)Возможные аргументы:$(li)$(c:/gamerule vaultMode CASUAL)$(t:Click to execute the command)Casual$()$(li2)Keep items on Vault death$()$(li)$(c:/gamerule vaultMode NORMAL) $(t:Click to execute the command) Normal$(/c)$(/t) $(8) (Default)$()$(li2)Spirit on Vault death$()$(li)$(c:/gamerule vaultMode HARDCORE) $(t:Click to execute the command) Hardcore$()$(li2)No spirit on Vault death$()"
+    },
+    {
+      "anchor": "vaultloot",
+      "type": "patchouli:text",
+      "title": "Команды геймерула",
+      "text": "$(li)$(8)$(l)/gamerule$(br)vaultLoot$(br)<loot> $()$(li2)Изменяет количество $(l:the_vault/loot)лута$(), находящегося во всех сундуках в Vault$()$()$(br2)Возможные аргументы:$(li)$(c:/gamerule vaultLoot NORMAL) $(t:Click to execute the command) Normal$(/c)$(/t) $(8) (Default)$()$(li2)1x Vault loot$()$(li)$(c:/gamerule vaultLoot PLENTY) $(t:Click to execute the command) Plenty$()$(li2)2x Vault loot$()$(li)$(c:/gamerule vaultLoot EXTREME) $(t:Click to execute the command) Extreme$()$(li2)3x Vault loot$()"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Команды геймерула",
+      "text": "$(li)$(8)$(l)/gamerule$(br)vaultCrystalMode$(br)<crystalMode> $()$(li2)Изменяет затраты на алтарь хранилища$()$()$(br2)Возможные аргументы:$(li)$(c:/gamerule vaultCrystalMode INFINITY)$(t:Click to execute the command)Infinity$()$(li2)$(t:The Vault Altar still needs to be\nactivated through a Redstone signal) Нет масштабирования алтаря хранилища$()$(li)$(c:/gamerule vaultCrystalMode NORMAL) $(t:Click to execute the command) Normal$(/c)$(/t) $(8) (Default)$()$(li2)1x масштабирование алтаря хранилища$()$(li)$(c:/gamerule vaultCrystalMode EXTREME) $(t:Click to execute the command) Extreme$()$(li2)2x масштабирование алтаря хранилища$()$(li)$(c:/gamerule vaultCrystalMode GRINDY) $(t:Click to execute the command) Grindy$()$(li2)3x масштабирование алтаря хранилища$()"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Команды геймерула",
+      "text": "$(li)$(8)$(l)/gamerule$(br)vaultAllowWaypoints$(br) &lt;true/false&gt;$()$(li2)Изменяет, разрешены ли Waypoints в Vault$()$()$(br2)Возможные аргументы:$(li)$(c:/gamerule vaultAllowWaypoints true) $(t:Click to execute the command) True$()$(li2)Разрешает waypoints в Vaults$()$(li)$(c:/gamerule vaultAllowWaypoints false) $(t:Click to execute the command) False$(/c)$(/t) $(8) (Default)$()$(li2)No waypoints in Vaults$()"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Команды геймерула",
+      "text": "$(li)$(8)$(l)/gamerule$(br)vaultJoinRequireParty$(br) &lt;true/false&gt;$()$(li2)Изменяет, должны ли игроки состоять в партии, чтобы $(l:the_vault/cooperative_vaults)сотрудничать$() в Vault$()$()$(br2)Возможные аргументы:$(li)$(c:/gamerule vaultAllowWaypoints true)$(t:Click to execute the command)True$()$(li2)Партии обязательны$()$(li)$(c:/gamerule vaultAllowWaypoints false) $(t:Click to execute the command) False$(/c)$(/t) $(8) (Default)$()$(li2)Партии не обязательны$()"
+    }
+  ]
+}

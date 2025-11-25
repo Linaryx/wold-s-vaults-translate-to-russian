@@ -1,0 +1,12 @@
+{
+  "name": "Сила способностей (неявная)",
+  "icon": "occultism:spirit_fire",
+  "category": "patchouli:void_stone_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:void_stone",
+      "text": "Сила способностей используется во многих умениях, таких как Fireball и Nova, для расчета урона."
+    }
+  ]
+}

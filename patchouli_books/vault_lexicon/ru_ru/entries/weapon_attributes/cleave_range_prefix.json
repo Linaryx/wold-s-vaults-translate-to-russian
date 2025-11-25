@@ -1,0 +1,12 @@
+{
+  "name": "Дальность клива (префикс)",
+  "icon": "minecraft:netherite_axe",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:axe",
+      "text": "Находится как префикс оружия только на топорах Vault.$(br2)Топоры бьют по небольшой области перед вами, когда вы атакуете, что называется Cleave, а Cleave Range увеличивает расстояние, которое может достичь Cleave."
+    }
+  ]
+}

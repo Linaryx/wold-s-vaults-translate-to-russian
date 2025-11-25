@@ -1,0 +1,12 @@
+{
+  "name": "Избегание эффектов (Велара)",
+  "icon": "the_vault:scavenger_zombie_blood_vial",
+  "category": "patchouli:vault_god_charm_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:vault_god_charm",
+      "text": "Находится только на чарах бога свода Велары.$(br2)Избегание эффекта - это шанс отменить урон или эффект от таких вещей, как вражеские ядовитые облака.$(br2)Шанс равен каждому тику эффекта."
+    }
+  ]
+}

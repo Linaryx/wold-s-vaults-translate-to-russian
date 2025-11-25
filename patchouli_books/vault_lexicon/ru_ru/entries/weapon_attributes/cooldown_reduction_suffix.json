@@ -1,0 +1,11 @@
+{
+  "name": "Снижение кулдауна (суффикс)",
+  "icon": "modularrouters:speed_upgrade",
+  "category": "patchouli:weapon_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Снижение кулдауна уменьшает время, необходимое для перезарядки и повторного использования способностей."
+    }
+  ]
+}

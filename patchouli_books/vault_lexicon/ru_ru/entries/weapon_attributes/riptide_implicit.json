@@ -1,0 +1,12 @@
+{
+  "name": "Riptide (Implicit)",
+  "icon": "archers_paradox:prismarine_arrow",
+  "category": "patchouli:weapon_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:trident",
+      "text": "Находится как оружие, подразумеваемое только на трезубцах хранилища.$(br2)Заменяет метание трезубца на бросок вперед.$(br2)Для активации требуется находиться в воде."
+    }
+  ]
+}

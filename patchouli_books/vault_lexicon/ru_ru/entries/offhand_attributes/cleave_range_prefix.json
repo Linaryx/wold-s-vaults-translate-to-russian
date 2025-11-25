@@ -1,0 +1,11 @@
+{
+  "name": "Дальность клива (префикс)",
+  "icon": "minecraft:netherite_axe",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Оружие, такое как топор, при атаке бьет по небольшой области перед собой, что называется Cleave, а Cleave Range увеличивает дальность поражения Cleave.$(br2)Этот префикс Offhand встречается только в качестве модификатора Unusual."
+    }
+  ]
+}

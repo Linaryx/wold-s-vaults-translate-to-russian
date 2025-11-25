@@ -1,0 +1,11 @@
+{
+  "name": "Количество душ (префикс)",
+  "icon": "the_vault:soul_shard",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Побеждая врагов, вы получаете Осколки души, которые можно использовать на Черном рынке."
+    }
+  ]
+}

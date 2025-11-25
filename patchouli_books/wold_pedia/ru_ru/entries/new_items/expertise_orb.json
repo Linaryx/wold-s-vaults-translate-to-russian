@@ -1,0 +1,27 @@
+{
+  "sortnum": 3,
+  "name": "Сфера экспертизы",
+  "icon": "woldsvaults:expertise_orb",
+  "category": "patchouli:new_items",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Expertise Orb - это новый мощный предмет, позволяющий получать очки опыта даже после достижения 100-го уровня. "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "woldsvaults:arcane_shard",
+      "text": "Как только вы достигнете 100-го уровня, в ваших ящиках для завершения работ начнут появляться эссенции Arcane Essence, которые вам нужно будет объединить в Arcane Shards!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "woldsvaults:orb_frame",
+      "text": "Чтобы изготовить сферу, вам также понадобится дорогостоящая рамка Orb Frame."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "woldsvaults:expertise_orb",
+      "text": "Когда у вас все будет готово, вы сможете собрать все это в сферу экспертизы, которую можно использовать только после достижения 100-го уровня."
+    }
+  ]
+}

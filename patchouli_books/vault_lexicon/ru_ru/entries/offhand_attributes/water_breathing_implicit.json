@@ -1,0 +1,12 @@
+{
+  "name": "Водное дыхание (неявное)",
+  "icon": "minecraft:water_bucket",
+  "category": "patchouli:offhand_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:plushie",
+      "text": "Находится как Offhand Implicit только на Vault Plushies.$(br2)Water Breathing позволяет дышать, находясь под водой или другой жидкостью."
+    }
+  ]
+}

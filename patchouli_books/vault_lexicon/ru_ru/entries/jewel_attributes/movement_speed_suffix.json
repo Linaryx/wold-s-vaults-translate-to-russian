@@ -1,0 +1,12 @@
+{
+  "name": "Скорость передвижения (суффикс)",
+  "icon": "pneumaticcraft:pneumatic_boots",
+  "category": "patchouli:jewel_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:jewel",
+      "text": "Скорость передвижения увеличивает скорость вашего передвижения."
+    }
+  ]
+}

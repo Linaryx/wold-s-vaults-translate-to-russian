@@ -1,0 +1,11 @@
+{
+  "name": "Долговечность (суффикс)",
+  "icon": "minecraft:shield",
+  "category": "patchouli:offhand_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Суффикс Durability добавляет дополнительную максимальную прочность к Vault Gear."
+    }
+  ]
+}

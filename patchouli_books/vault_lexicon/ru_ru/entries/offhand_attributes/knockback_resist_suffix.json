@@ -1,0 +1,11 @@
+{
+  "name": "Сопротивление ударам (суффикс)",
+  "icon": "minecraft:slime_ball",
+  "category": "patchouli:offhand_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Knockback Resist снижает количество ударов, отбрасывающих вас назад от вражеских атак."
+    }
+  ]
+}

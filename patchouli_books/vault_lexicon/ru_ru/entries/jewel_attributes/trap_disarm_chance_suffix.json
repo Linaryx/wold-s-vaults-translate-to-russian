@@ -1,0 +1,12 @@
+{
+  "name": "Шанс обезвреживания ловушки (суффикс)",
+  "icon": "minecraft:tripwire_hook",
+  "category": "patchouli:jewel_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:jewel",
+      "text": "Сундуки в хранилищах имеют шанс попасть в ловушку. Шанс обезвреживания ловушки - это шанс отменить срабатывание ловушки."
+    }
+  ]
+}

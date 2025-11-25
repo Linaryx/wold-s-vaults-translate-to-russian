@@ -1,0 +1,11 @@
+{
+  "name": "Увеличение способностей (неявное)",
+  "icon": "the_vault:vorpal_focus",
+  "category": "patchouli:magnet_implicits",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Полученный как модификатор Corrupted, +Ability может быть любой способностью, включая специализацию.$(br2)Чтобы использовать +Ability, у вас должно быть хотя бы одно очко способности и ее специализации."
+    }
+  ]
+}

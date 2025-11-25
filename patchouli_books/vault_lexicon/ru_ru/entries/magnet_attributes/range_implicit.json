@@ -1,0 +1,12 @@
+{
+  "name": "Диапазон (неявный)",
+  "icon": "neoncraft2:wallneon_arrow_right_orange",
+  "category": "patchouli:magnet_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "грот:магнит",
+      "text": "Дальность действия - это расстояние, на котором магнит может \"захватить\" предметы, чтобы притянуть их к себе."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Многократный прыжок (неявный)",
+  "icon": "minecraft:slime_block",
+  "category": "patchouli:armor_implicits",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Находится только на сапогах Vault Boots.$(br2)Multi-Jump добавляет дополнительные прыжки, которые вы можете сделать подряд, прежде чем приземлиться на землю."
+    }
+  ]
+}

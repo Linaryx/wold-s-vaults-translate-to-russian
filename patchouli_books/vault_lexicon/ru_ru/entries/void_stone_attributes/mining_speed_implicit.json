@@ -1,0 +1,12 @@
+{
+  "name": "Скорость добычи (неявная)",
+  "icon": "minecraft:netherite_pickaxe",
+  "category": "patchouli:void_stone_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:void_stone",
+      "text": "Скорость добычи увеличивает скорость добычи и разрушения блоков."
+    }
+  ]
+}

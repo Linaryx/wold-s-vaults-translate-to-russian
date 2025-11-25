@@ -1,0 +1,18 @@
+{
+  "name": "Реликвии",
+  "icon": "the_vault:vault_relic{VaultModelId:\"the_vault:relic/elemental/statue\"}",
+  "category": "patchouli:game_mechanics_category",
+  "read_by_default": "правда",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Реликвии - это древности богов хранилищ.$(br2)Каждый $(l)уникально$() заполненный набор реликвий дает $(l)30 дополнительных секунд$() $(l)времени$() во всех хранилищах.$(br2)Фрагменты реликвий можно получить как из $(l)Relic Booster Packs$(), так и из $(l)Unidentified Relic Fragments$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "гробница:реликтовый пьедестал",
+      "title": "Реликтовый пьедестал",
+      "text": "Когда $(l)все$() фрагменты Реликвий будут $(l)собраны$(), их можно будет собрать в $(l)Реликвию$().$(br2)Это делается в Пьедестале Реликвий, $(l)выбирая$() нужную Реликвию."
+    }
+  ]
+}

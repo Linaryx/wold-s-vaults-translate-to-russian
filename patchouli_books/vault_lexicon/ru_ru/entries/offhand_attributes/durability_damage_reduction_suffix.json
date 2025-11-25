@@ -1,0 +1,11 @@
+{
+  "name": "Снижение урона прочности (суффикс)",
+  "icon": "minecraft:netherite_chestplate",
+  "category": "patchouli:offhand_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Снижение урона от прочности уменьшает урон прочности Vault Gear.$(br2)Этот суффикс Offhand встречается только в качестве модификатора Unusual."
+    }
+  ]
+}

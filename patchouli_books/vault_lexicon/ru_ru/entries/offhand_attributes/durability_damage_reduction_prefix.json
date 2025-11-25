@@ -1,0 +1,12 @@
+{
+  "name": "Снижение урона прочности (префикс)",
+  "icon": "minecraft:netherite_chestplate",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "гробница: щит",
+      "text": "Находится как Offhand Prefix только на Vault Shields.$(br2)Durability Damage Reduction уменьшает урон прочности на Vault Gear."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Урон от нежити (префикс)",
+  "icon": "minecraft:zombie_head",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Враги, появляющиеся в хранилищах, делятся на разные категории.$(br2)Undead Damage наносит бонусный урон врагам класса Undead, к которым относятся зомби, скелеты и т. д.$(br2)Этот префикс можно получить только с помощью Modifier Workbench."
+    }
+  ]
+}

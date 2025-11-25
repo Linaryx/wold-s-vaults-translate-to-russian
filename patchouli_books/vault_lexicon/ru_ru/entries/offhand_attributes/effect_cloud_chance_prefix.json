@@ -1,0 +1,11 @@
+{
+  "name": "Эффект Облачный шанс (префикс)",
+  "icon": "mysticalagriculture:fertilized_essence",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Эффект Cloud Chance увеличивает шанс активации модификаторов Cloud.$(br2)Этот префикс Offhand встречается только как модификатор Unusual."
+    }
+  ]
+}

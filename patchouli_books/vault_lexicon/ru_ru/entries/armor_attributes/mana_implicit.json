@@ -1,0 +1,11 @@
+{
+  "name": "Мана (неявная)",
+  "icon": "botania:lens_speed",
+  "category": "patchouli:armor_implicits",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мана увеличивает ваш максимальный запас маны."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Скорость (неявная)",
+  "icon": "neoncraft2:wallneon_arrow_up_orange",
+  "category": "patchouli:void_stone_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:void_stone",
+      "text": "Скорость - это то, как быстро магнит будет притягивать предметы."
+    }
+  ]
+}

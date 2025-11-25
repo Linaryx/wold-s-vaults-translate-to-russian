@@ -1,0 +1,11 @@
+{
+  "name": "Достичь (префикс)",
+  "icon": "create:brass_hand",
+  "category": "patchouli:weapon_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Reach увеличивает расстояние, с которого ваше оружие может поражать врагов.$(br2)Этот префикс оружия встречается только в качестве модификатора Unusual."
+    }
+  ]
+}

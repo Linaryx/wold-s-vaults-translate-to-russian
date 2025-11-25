@@ -1,0 +1,6 @@
+{
+  "name": "Префиксы брони",
+  "description": "Эти префиксы могут появляться на броне.",
+  "sortnum": 5,
+  "icon": "the_vault:chestplate"
+}

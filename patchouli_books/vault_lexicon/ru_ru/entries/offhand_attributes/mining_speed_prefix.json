@@ -1,0 +1,12 @@
+{
+  "name": "Скорость добычи (префикс)",
+  "icon": "minecraft:netherite_pickaxe",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "гробница: мешок с добычей",
+      "text": "Встречается в качестве префикса Offhand только на мешках с лутом в хранилище.$(br2)Скорость добычи увеличивает скорость добычи и разрушения блоков."
+    }
+  ]
+}

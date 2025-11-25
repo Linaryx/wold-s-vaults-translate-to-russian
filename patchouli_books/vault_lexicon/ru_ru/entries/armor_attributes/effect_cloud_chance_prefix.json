@@ -1,0 +1,11 @@
+{
+  "name": "Эффект Облачный шанс (префикс)",
+  "icon": "mysticalagriculture:fertilized_essence",
+  "category": "patchouli:armor_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Эффект Cloud Chance увеличивает шанс активации модификаторов Cloud."
+    }
+  ]
+}

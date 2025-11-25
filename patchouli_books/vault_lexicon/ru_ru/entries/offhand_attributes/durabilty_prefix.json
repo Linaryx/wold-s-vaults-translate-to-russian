@@ -1,0 +1,12 @@
+{
+  "name": "Долговечность (префикс)",
+  "icon": "minecraft:shield",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:loot_sack",
+      "text": "Встречается только на мешках с лутом из хранилища.$(br2)Префикс Durability добавляет дополнительную максимальную прочность к предметам из хранилища."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Регенерация маны (Тенос)",
+  "icon": "botania:mana_bottle",
+  "category": "patchouli:vault_god_charm_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:vault_god_charm",
+      "text": "Встречается только у Tenos, сродни Vault God Charms.$(br2)Mana Regen увеличивает скорость восстановления маны.$(br2)Этот префикс Offhand встречается только в качестве модификатора Unusual."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Повреждение подземелья (префикс)",
+  "icon": "minecraft:iron_bars",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:plushie",
+      "text": "Встречается в качестве префикса Offhand только на плюшках Vault Plushies.$(br2)Враги, появляющиеся в хранилищах, делятся на разные категрии.$(br2)Dungeon Damage наносит бонусный урон всем мобам, появляющимся в подземельях."
+    }
+  ]
+}

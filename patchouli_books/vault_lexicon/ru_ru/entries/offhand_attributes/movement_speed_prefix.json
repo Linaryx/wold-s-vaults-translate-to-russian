@@ -1,0 +1,11 @@
+{
+  "name": "Скорость передвижения (префикс)",
+  "icon": "pneumaticcraft:pneumatic_boots",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Скорость передвижения увеличивает скорость вашего передвижения."
+    }
+  ]
+}

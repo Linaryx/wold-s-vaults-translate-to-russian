@@ -1,0 +1,12 @@
+{
+  "name": "Невосприимчивость к яду (неявная)",
+  "icon": "minecraft:poisonous_potato",
+  "category": "patchouli:offhand_implicits",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:plushie",
+      "text": "Встречается только на Vault Plushies.$(br2)Невосприимчивость к яду предотвращает урон от яда, например, от сундуков или слизи."
+    }
+  ]
+}

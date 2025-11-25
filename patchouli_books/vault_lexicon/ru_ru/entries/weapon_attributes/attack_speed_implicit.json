@@ -1,0 +1,11 @@
+{
+  "name": "Скорость атаки (неявная)",
+  "icon": "minecraft:leather_boots",
+  "category": "patchouli:weapon_implicits",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Все оружие хранилища имеет скорость атаки.$(br2)Скорость атаки - это скорость, с которой вы можете атаковать оружием."
+    }
+  ]
+}

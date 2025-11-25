@@ -1,0 +1,12 @@
+{
+  "name": "Количество предметов (тенос)",
+  "icon": "the_vault:wooden_chunk",
+  "category": "patchouli:vault_god_charm_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:vault_god_charm",
+      "text": "Можно найти только на чарах бога хранилища Tenos.$(br2)Item Quantity увеличивает количество предметов в сундуках хранилища."
+    }
+  ]
+}

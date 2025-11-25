@@ -1,0 +1,12 @@
+{
+  "name": "Шанс уклонения (суффикс)",
+  "icon": "minecraft:slime_block",
+  "category": "patchouli:magnet_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "грот:магнит",
+      "text": "Шанс уклонения - это шанс того, что вы полностью избежите одного повреждения.$(br2)Суффикс Магнит встречается только в качестве модификатора Unusual."
+    }
+  ]
+}

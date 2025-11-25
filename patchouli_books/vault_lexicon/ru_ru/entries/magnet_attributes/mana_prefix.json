@@ -1,0 +1,12 @@
+{
+  "name": "Мана (префикс)",
+  "icon": "botania:lens_speed",
+  "category": "patchouli:magnet_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "грот:магнит",
+      "text": "Мана увеличивает ваш максимальный запас маны.$(br2)Этот магнитный префикс встречается только в качестве необычного модификатора."
+    }
+  ]
+}

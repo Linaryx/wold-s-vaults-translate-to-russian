@@ -1,0 +1,12 @@
+{
+  "name": "Soulbound (Suffix)",
+  "icon": "minecraft:soul_campfire",
+  "category": "patchouli:jewel_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:jewel",
+      "text": "Vault Gear и Soulbound будут возрождаться вместе с вами, если вы умрете.$(br2)Если вы находитесь в казуальном режиме или не достигли 20-го уровня, то при смерти в хранилище Soulbound вместо этого остановит урон, наносимый Durability."
+    }
+  ]
+}

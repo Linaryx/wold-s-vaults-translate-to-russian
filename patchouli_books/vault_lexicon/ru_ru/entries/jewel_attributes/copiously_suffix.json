@@ -1,0 +1,12 @@
+{
+  "name": "Копительно (суффикс)",
+  "icon": "the_vault:gem_echo",
+  "category": "patchouli:jewel_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "the_vault:jewel",
+      "text": "Копилка - это шанс получить несколько драгоценных камней при добыче руд хранилища."
+    }
+  ]
+}

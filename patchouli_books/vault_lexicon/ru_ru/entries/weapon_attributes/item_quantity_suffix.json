@@ -1,0 +1,11 @@
+{
+  "name": "Количество предметов (суффикс)",
+  "icon": "the_vault:wooden_chunk",
+  "category": "patchouli:weapon_suffixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Item Quantity увеличивает количество предметов в сундуках хранилища.$(br2)Этот суффикс оружия встречается только в качестве модификатора Unusual."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Сопротивление (префикс)",
+  "icon": "minecraft:obsidian",
+  "category": "patchouli:offhand_prefixes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Сопротивление уменьшает количество получаемого урона (после расчета снижения брони)."
+    }
+  ]
+}

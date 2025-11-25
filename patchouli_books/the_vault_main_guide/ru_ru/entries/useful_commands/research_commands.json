@@ -1,0 +1,27 @@
+{
+  "sortnum": 4,
+  "name": "Команды исследования",
+  "icon": "the_vault:mod_box",
+  "category": "patchouli:useful_commands_category",
+  "read_by_default": "правда",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Команды исследователей могут быть созданы для постепенного разблокирования всех $(l:game_mechanics/researches)$(l) исследований$() вместе с $(l)другими$().$(br2)Совместная работа над открытием исследований добавляет небольшое $(l)увеличение$() к стоимости исследований.$(br2)Исследования, разблокированные $(l)до вступления в$() команду исследователей, $(l)не$() разблокируются $(l)задним числом$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Команды исследования",
+      "text": "$(li)$(8)$(l)/the_vault research_team invite <player>$()$(li2)Приглашает игрока$()$(br)$(li) $(8) $(l) /the_vault research_team accept_invite <player>$()$(li2)Принимает приглашение игрока в свою исследовательскую команду$()$(br)$(li) $(c:/the_vault research_team list) $(t:Click to execute this command) $(l) /the_vault research_team list$()$(li2)Перечисляет всех участников$()"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Команды исследования",
+      "text": "$(li)$(c:/the_vault research_team leave)$(t:Click to execute this command)$(l)/the_vault research_team leave$()$(li2)Покидает исследовательскую команду$()"
+    },
+    {
+      "type": "patchouli:text",
+      "text": ""
+    }
+  ]
+}

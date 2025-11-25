@@ -1,0 +1,4856 @@
+{
+  "LEVELS": [
+    {
+      "level": 0,
+      "skillPresets": [
+        {
+          "value": {
+            "name": "Ядро",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Nova_Base",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Taunt_Base",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Smite_Base",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Разведка",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Last_Stand",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Методические",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Ядро",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Lightning_Stun",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Stoneskin",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Эта нагрузка лучше всего работает в паре с ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "шанс оглушения",
+                  "color": "$stun"
+                },
+                {
+                  "text": " поскольку он использует ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Ядро",
+                  "color": "$name"
+                },
+                {
+                  "text": " талант к цепи ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Nova",
+                  "color": "$name"
+                },
+                {
+                  "text": " удары по мобам. ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Smite",
+                  "color": "$name"
+                },
+                {
+                  "text": " может передавать оглушение и получает дополнительный шанс оглушения от ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Ловкость молнии",
+                  "color": "$name"
+                },
+                {
+                  "text": ". Наконец ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Насмешка",
+                  "color": "$name"
+                },
+                {
+                  "text": " можно использовать для объединения мобов в группы и увеличения наносимого ими урона.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Arcane",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcane_Base",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Разведка",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Haste",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Пылающий",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Благодаря точному прицеливанию и высокой концентрации на ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$экспертиза"
+                },
+                {
+                  "text": " а также инвестиции в ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "регенерация маны",
+                  "color": "$manaCost"
+                },
+                {
+                  "text": ", ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Arcane",
+                  "color": "$name"
+                },
+                {
+                  "text": " может очень быстро расплавить большинство мобов, пока вы пробираетесь через хранилище.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Нова Архон",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Nova_Base",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Smite_Archon",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Разведка",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Last_Stand",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Методические",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Daze",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Lightning_Stun",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Stoneskin",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Зарядив себя энергией ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Архон",
+                  "color": "$name"
+                },
+                {
+                  "text": " вы будете иметь дело с быстрым ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "повреждение молнией",
+                  "color": "$электрический"
+                },
+                {
+                  "text": " на мобов, находящихся рядом с вами. ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Daze",
+                  "color": "$name"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Ловкость молнии",
+                  "color": "$name"
+                },
+                {
+                  "text": " синергирует ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "stunning",
+                  "color": "$stun"
+                },
+                {
+                  "text": " и увеличить урон, наносимый мобам, и ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Nova",
+                  "color": "$name"
+                },
+                {
+                  "text": " можно использовать, чтобы уничтожить оставшихся врагов после того, как вы промчитесь сквозь них.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Замерзающий рельс",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcane_Rail",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Сила_небрежности_ауры",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Nova_Slow",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Разведка",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Haste",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Blizzard",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Использование сайта ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Железная дорога",
+                  "color": "$name"
+                },
+                {
+                  "text": " в качестве основной атаки, которая переносит удары на удары, и хорошо взаимодействует с ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Замороженное воздействие",
+                  "color": "$name"
+                },
+                {
+                  "text": "в результате чего большие группы мобов оказываются полностью замороженными. ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Фрост Нова",
+                  "color": "$name"
+                },
+                {
+                  "text": " в сложных ситуациях можно наводить вручную. Фокусировка на высоких ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$экспертиза"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Охлаждение",
+                  "color": "чиллинг"
+                },
+                {
+                  "text": " источники делают эту загрузку очень увлекательной.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Наслаждающийся морозом",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Nova_Slow",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Storm_Arrow_Blizzard",
+                "level": {
+                  "min": 2,
+                  "max": 6,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Ледяной_болт_взрыв",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Stonefall_Cold",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Blizzard",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Пылающий",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "В этом снаряжении все направлено на борьбу с толпой, используя ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Стрела метели",
+                  "color": "$name"
+                },
+                {
+                  "text": ", ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Ледниковый взрыв",
+                  "color": "$name"
+                },
+                {
+                  "text": ", ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Фрост Нова",
+                  "color": "$name"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Coldsnap",
+                  "color": "$name"
+                },
+                {
+                  "text": " дает вам большой набор для замораживания мобов по отдельности и в больших группах, как ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Замороженное воздействие",
+                  "color": "$name"
+                },
+                {
+                  "text": " будет переходить от одного ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "chilled",
+                  "color": "чиллинг"
+                },
+                {
+                  "text": " толпы к другой.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Ледник",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Nova_Slow",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Лед_болт_база",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Storm_Arrow_Blizzard",
+                "level": {
+                  "min": 2,
+                  "max": 6,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Stonefall_Cold",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Frostbite",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Cleave",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Stoneskin",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Применить ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "chilling",
+                  "color": "чиллинг"
+                },
+                {
+                  "text": " на толпу, открывая огонь на поражение ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Ледяные болты",
+                  "color": "$name"
+                },
+                {
+                  "text": ", расставлять приоритеты ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Счастливый случай",
+                  "color": "$luckyHit"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "chilling",
+                  "color": "чиллинг"
+                },
+                {
+                  "text": " источники, чтобы вызвать ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Frostbite",
+                  "color": "$name"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Cleave",
+                  "color": "$name"
+                },
+                {
+                  "text": ", используйте ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Стрела метели",
+                  "color": "$name"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Coldsnap",
+                  "color": "$name"
+                },
+                {
+                  "text": " для больших групп ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Ледниковое заточение",
+                  "color": "чиллинг"
+                },
+                {
+                  "text": " мобов и расстреливайте их своими атаками.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Имплозия",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Mana_Shield_Implode",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Mana_Steal",
+                "level": {
+                  "min": 2,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Обедненный",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Ваш основной источник урона - это ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Имплозия",
+                  "color": "$name"
+                },
+                {
+                  "text": "высасывает всю вашу ману и наносит урон в виде большой сферы вокруг вас. Эта атака сокрушит хранилища, если вы отдадите предпочтение высоким ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Броски маны",
+                  "color": "$manaCost"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Счастливый случай",
+                  "color": "$luckyHit"
+                },
+                {
+                  "text": "как ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "счастливые удары",
+                  "color": "$luckyHit"
+                },
+                {
+                  "text": " will ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Кража маны",
+                  "color": "$name"
+                },
+                {
+                  "text": " после вашего ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Имплозия",
+                  "color": "$name"
+                },
+                {
+                  "text": " наносит большую часть урона.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Дробовик",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Javelin_Scatter",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Mana_Steal",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Урон от копья",
+                "level": {
+                  "min": 2,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Javelin_Frugal",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 3,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Lucky_Momentum",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Разбросать копья",
+                  "color": "$name"
+                },
+                {
+                  "text": " может быстро, при правильном прицеливании, убить как большую группу мобов, так и одиночные цели. Приоритет ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Счастливый случай",
+                  "color": "$luckyHit"
+                },
+                {
+                  "text": " проводить ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Кража маны",
+                  "color": "$name"
+                },
+                {
+                  "text": " на удары, чтобы восстановить ману. Также сосредоточьтесь на ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Повышенный урон от атак",
+                  "color": "$name"
+                },
+                {
+                  "text": " чтобы одолеть ваши копья!",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Fireballer",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Fireball_Base",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Nova_Base",
+                "level": {
+                  "min": 2,
+                  "max": 6,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Разведка",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Методические",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 1,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Литье ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Огненные шары",
+                  "color": "$name"
+                },
+                {
+                  "text": " с высоким ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Область воздействия",
+                  "color": "$areaOfEffect"
+                },
+                {
+                  "text": " повреждение и использование ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Nova",
+                  "color": "$name"
+                },
+                {
+                  "text": " для мобов ближнего боя. Сосредоточьтесь на ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$экспертиза"
+                },
+                {
+                  "text": " и определить приоритеты ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Палочка",
+                  "color": "$name"
+                },
+                {
+                  "text": " чтобы максимизировать свой урон с помощью этой классической маскировки.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Выстрел ядерной бомбы",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Fireball_Fireshot",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Nova_Base",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Разведка",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Ядро",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 1,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "В этом снаряжении используется ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Огнестрельное оружие",
+                  "color": "$name"
+                },
+                {
+                  "text": "скорострельная способность с низким уроном и тем, что она переносит эффекты при попадании, создавая большие ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Nova",
+                  "color": "$name"
+                },
+                {
+                  "text": " взрывы ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Ядро",
+                  "color": "$name"
+                },
+                {
+                  "text": ". Расставьте приоритеты ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$экспертиза"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Шанс оглушения",
+                  "color": "$stun"
+                },
+                {
+                  "text": " чтобы сделать эту сборку фантастически красивой в хранилище.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Icelance",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Javelin_Piercing",
+                "level": {
+                  "min": 2,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Nova_Slow",
+                "level": {
+                  "min": 3,
+                  "max": 6,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Frostbite",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Сила метания копья",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Javelin_Conduct",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Javelin_Frugal",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Ледниковое заточение",
+                  "color": "чиллинг"
+                },
+                {
+                  "text": " мобы с ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Frostbite",
+                  "color": "$name"
+                },
+                {
+                  "text": " при применении ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "chilling",
+                  "color": "чиллинг"
+                },
+                {
+                  "text": " к ним, либо используя ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Фрост Нова",
+                  "color": "$name"
+                },
+                {
+                  "text": ", или найдя ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Леденящее облако",
+                  "color": "чиллинг"
+                },
+                {
+                  "text": " оружие, и используя свой ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "пронзительные проводящие копья",
+                  "color": "$name"
+                },
+                {
+                  "text": " чтобы применить эффекты при попадании. Сосредоточьтесь на ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Урон от атаки",
+                  "color": "ущерб"
+                },
+                {
+                  "text": " и рассмотреть ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Цепочка",
+                  "color": "$chaining"
+                },
+                {
+                  "text": " чтобы еще больше увеличить количество ударов копьями!",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Убой",
+            "abilities": [
+              {
+                "id": "Dash_Damage",
+                "level": {
+                  "min": 4,
+                  "max": 7,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Rampage_Base",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Totem_Player_Damage",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Cleave",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Fatal_Strike",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Life_Steal",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Обедненный",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Пуля",
+                  "color": "$name"
+                },
+                {
+                  "text": " наносит урон мобам, через которых вы пробираетесь по большой площади, и ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Rampage",
+                  "color": "$name"
+                },
+                {
+                  "text": " это фантастическое усиление для нанесения урона по одной цели. При достаточном ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Счастливый случай",
+                  "color": "$luckyHit"
+                },
+                {
+                  "text": " focus ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Cleave",
+                  "color": "$name"
+                },
+                {
+                  "text": " разберется с останками. Сосредоточьтесь на высоком ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Урон от атаки",
+                  "color": "ущерб"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Счастливый случай",
+                  "color": "$luckyHit"
+                },
+                {
+                  "text": " чтобы заставить его летать.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Резервуар",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Totem_Base",
+                "level": {
+                  "min": 1,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Сила_небрежности_ауры",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Shell_Base",
+                "level": {
+                  "min": 1,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Stonefall_Base",
+                "level": {
+                  "min": 2,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Last_Stand",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Методические",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Stoneskin",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Daze",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "С ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Энтропийная связь",
+                  "color": "$name"
+                },
+                {
+                  "text": " чтобы замедлить мобов, ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Ракушка",
+                  "color": "$name"
+                },
+                {
+                  "text": " чтобы оглушить мобов, которые попадают в вас, и ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Тотемы омоложения",
+                  "color": "$name"
+                },
+                {
+                  "text": " чтобы восполнить здоровье, этот боекомплект является танковым. ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Daze",
+                  "color": "$name"
+                },
+                {
+                  "text": " увеличит урон по оглушенным мобам, поэтому отдавайте предпочтение ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Шанс оглушения",
+                  "color": "$stun"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Регенерация маны",
+                  "color": "$manaCost"
+                },
+                {
+                  "text": ".",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Проведение Пирса",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Javelin_Piercing",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Javelin_Conduct",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Javelin_Frugal",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Урон от копья",
+                "level": {
+                  "min": 2,
+                  "max": 6,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Сила метания копья",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Обедненный",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Проведение пронзающих копьев",
+                  "color": "$name"
+                },
+                {
+                  "text": " будет передавать эффекты при попадании, что делает такие вещи, как ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Цепочка",
+                  "color": "$name"
+                },
+                {
+                  "text": " в сочетании с высоким ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Урон",
+                  "color": "ущерб"
+                },
+                {
+                  "text": " очень хорошо сочетаются с этим снаряжением. Сосредоточьтесь на ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Повышенный урон",
+                  "color": "$incdmg"
+                },
+                {
+                  "text": " на броню, чтобы заставить мобов плавиться от ваших копьев, пронзающих цепи.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Супер Марио",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Stonefall_Snow",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Mega_Jump_Base",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Разведка",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Last_Stand",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Stoneskin",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Привал героев",
+                  "color": "$name"
+                },
+                {
+                  "text": " это очень веселый и мощный ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$экспертиза"
+                },
+                {
+                  "text": " способность, основанная на умении, позволяет топтать мобов с высоты, сочетая ее с ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Призматическое перо",
+                  "color": "$name"
+                },
+                {
+                  "text": " or ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Мега прыжок",
+                  "color": "$name"
+                },
+                {
+                  "text": ". В центре внимания ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Область воздействия",
+                  "color": "$areaOfEffect"
+                },
+                {
+                  "text": " чтобы сделать его больше, и убедитесь, что ваш ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$экспертиза"
+                },
+                {
+                  "text": " высок.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Токсичные",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Nova_Dot",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Тотем_Маны_Регена ",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Разведка",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 1,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Токсичная_реакция",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Токсическая реакция",
+                  "color": "$name"
+                },
+                {
+                  "text": " это очень сильный талант, который автоматически вызывает ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Яд Нова",
+                  "color": "$name"
+                },
+                {
+                  "text": " когда ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "poisoned",
+                  "color": "$яд"
+                },
+                {
+                  "text": " толпа погибает. Сочетайте это с высоким ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$экспертиза"
+                },
+                {
+                  "text": " и оружие с ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Цепочка",
+                  "color": "$name"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Ядовитое облако",
+                  "color": "$яд"
+                },
+                {
+                  "text": " и вы в мгновение ока расплавите все хранилище.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Блайт",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 5,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Nova_Dot",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Разведка",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Блайт",
+                "level": {
+                  "min": 3,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Блайт",
+                  "color": "$name"
+                },
+                {
+                  "text": " это талант, который делает вас очень танкоустойчивым против ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "poisoned",
+                  "color": "$яд"
+                },
+                {
+                  "text": " мобов, позволяя вам сосредоточиться на ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$экспертиза"
+                },
+                {
+                  "text": " передача. Отдайте предпочтение ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Палочка",
+                  "color": "$name"
+                },
+                {
+                  "text": " и использовать ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Яд Нова",
+                  "color": "$name"
+                },
+                {
+                  "text": " в качестве основной способности, позволяющей зачищать большие группы мобов, сохраняя здоровье.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Пацифист",
+            "abilities": [
+              {
+                "id": "Dash_Warp",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Empower_Base",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Stonefall_Base",
+                "level": {
+                  "min": 2,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Hunter_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Ghost_Walk_Base",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Лед_болт_база",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Stoneskin",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 2,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "A ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Пацифист",
+                  "color": "$name"
+                },
+                {
+                  "text": " не зависит от убийства мобов, достаточно просто выжить и обогнать их. В этом снаряжении используются ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Расширение возможностей",
+                  "color": "$name"
+                },
+                {
+                  "text": " летать по комнатам, ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Хантер",
+                  "color": "$name"
+                },
+                {
+                  "text": " для определения местоположения точек интереса и ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Warp",
+                  "color": "$name"
+                },
+                {
+                  "text": " чтобы быстро путешествовать. ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Ледяные болты",
+                  "color": "$name"
+                },
+                {
+                  "text": " можно спамить, чтобы мобы замедлялись вокруг вас, пока вы грабите.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Dazer",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Shell_Base",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Totem_Player_Damage",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Mana_Shield_Base",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Daze",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Cleave",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Fatal_Strike",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Mana_Steal",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "В этом снаряжении используется ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Ракушка",
+                  "color": "$name"
+                },
+                {
+                  "text": " в качестве бонуса к ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Электрошокер",
+                  "color": "$stun"
+                },
+                {
+                  "text": " мобов, которые попадают в вас, в то время как ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Daze",
+                  "color": "$name"
+                },
+                {
+                  "text": " увеличивает ваш ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Урон от атаки",
+                  "color": "ущерб"
+                },
+                {
+                  "text": " очень много для них. ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Тотем гнева",
+                  "color": "$name"
+                },
+                {
+                  "text": " умножает, что ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "damage",
+                  "color": "ущерб"
+                },
+                {
+                  "text": " еще больше, и с достаточным ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Счастливый случай",
+                  "color": "$luckyHit"
+                },
+                {
+                  "text": " ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Cleave",
+                  "color": "$name"
+                },
+                {
+                  "text": " позаботится о больших группах.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Возмездие",
+            "abilities": [
+              {
+                "id": "Dash_Damage",
+                "level": {
+                  "min": 4,
+                  "max": 7,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Мана_Щит_Возврата",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Totem_Base",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Battle_Cry_Base",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Smite_Base",
+                "level": {
+                  "min": 2,
+                  "max": 6,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Last_Stand",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "В этом снаряжении используются два больших источника урона в ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Возмездие",
+                  "color": "$name"
+                },
+                {
+                  "text": ", и ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Тире-пуля. ",
+                  "color": "$name"
+                },
+                {
+                  "text": "Повреждения от шипов",
+                  "color": "$thornsDamage"
+                },
+                {
+                  "text": "поскольку основным источником урона является очень мощный ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Возмездие",
+                  "color": "$name"
+                },
+                {
+                  "text": " способность, которая наносит огромный урон по комнате после попадания в нее, пока она активна. С помощью ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$экспертиза"
+                },
+                {
+                  "text": ", ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Smite",
+                  "color": "$name"
+                },
+                {
+                  "text": " может справиться и с более крупными мобами.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Архон",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Smite_Archon",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Тотем_Маны_Регена",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Разведка",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Daze",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Lightning_Stun",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Архон",
+                  "color": "$name"
+                },
+                {
+                  "text": " будет иметь дело ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "lightning",
+                  "color": "$электрический"
+                },
+                {
+                  "text": " наносит урон мобам, которых вы касаетесь. ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Prime Amplification",
+                  "color": "$name"
+                },
+                {
+                  "text": " увеличит расстояние между этими болтами, и ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Ловкость молнии",
+                  "color": "$name"
+                },
+                {
+                  "text": " will ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "stun",
+                  "color": "$stun"
+                },
+                {
+                  "text": " что очень ценно, так как ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Daze",
+                  "color": "$name"
+                },
+                {
+                  "text": " может удвоить ваш урон против ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "stunned",
+                  "color": "$stun"
+                },
+                {
+                  "text": " мафии. Сосредоточьтесь на ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Регенерация маны",
+                  "color": "$manaCost"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$экспертиза"
+                },
+                {
+                  "text": " чтобы сделать этот инвентарь, поместите мобов в блендер.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Пурист",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Javelin_Base",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Пурист",
+                "level": {
+                  "min": 4,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Frenzy",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Haste",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Lucky_Momentum",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Cleave",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Fatal_Strike",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Урон от копья",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Это странное снаряжение, в нем есть преимущества ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Scrappy Gear",
+                  "color": "$name"
+                },
+                {
+                  "text": " через ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Пацифист",
+                  "color": "$name"
+                },
+                {
+                  "text": " talent. ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Javelin",
+                  "color": "$name"
+                },
+                {
+                  "text": " это ваша главная способность, а ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Frenzy",
+                  "color": "$name"
+                },
+                {
+                  "text": " значительно увеличит скорость вашей атаки. Сосредоточьтесь на ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Счастливый случай",
+                  "color": "$luckyHit"
+                },
+                {
+                  "text": " for ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Cleave",
+                  "color": "$name"
+                },
+                {
+                  "text": " для запуска, а также ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Повышенный урон",
+                  "color": "$incdmg"
+                },
+                {
+                  "text": " наматывает на себя снаряжение.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Клирик",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Исцеление_группы",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Приманка_Очарование",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Hunter_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Stonefall_Base",
+                "level": {
+                  "min": 2,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Методические",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Last_Stand",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "В этом снаряжении вы получите ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Групповое исцеление",
+                  "color": "$name"
+                },
+                {
+                  "text": "исцеляйте себя и своих близких. Он использует ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Очарование",
+                  "color": "$name"
+                },
+                {
+                  "text": " как ваша главная атакующая способность, которая превращает моба в вашего союзника на некоторое время, атакуя других мобов с увеличением ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Урон от атаки",
+                  "color": "ущерб"
+                },
+                {
+                  "text": ". В центре внимания ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Эффективность исцеления",
+                  "color": "исцеление"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Урон от атаки",
+                  "color": "ущерб"
+                },
+                {
+                  "text": ".",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Ravager",
+            "abilities": [
+              {
+                "id": "Dash_Damage",
+                "level": {
+                  "min": 6,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Rampage_Base",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Battle_Cry_Lucky_Strike",
+                "level": {
+                  "min": 4,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Fatal_Strike",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Обедненный",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Этот комплект снаряжения легко справляется с большими группами мобов, используя ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Пуля",
+                  "color": "$name"
+                },
+                {
+                  "text": "он прорывается через группы мафиози и наносит высокие удары ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Урон от атаки",
+                  "color": "ущерб"
+                },
+                {
+                  "text": " всем мобам вокруг вас. ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Prime Amplification",
+                  "color": "$name"
+                },
+                {
+                  "text": " увеличивает площадь поражения. ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Счастливый плач",
+                  "color": "$name"
+                },
+                {
+                  "text": " можно использовать для запуска ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Смертельный удар",
+                  "color": "$name"
+                },
+                {
+                  "text": " для более тяжелых танков. Сосредоточьтесь на ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Регенерация маны",
+                  "color": "$manaCost"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Броня",
+                  "color": "броня"
+                },
+                {
+                  "text": "/",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сопротивление",
+                  "color": "$ сопротивление"
+                },
+                {
+                  "text": " чтобы остаться в живых!",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Lucky",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Battle_Cry_Lucky_Strike",
+                "level": {
+                  "min": 4,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Fatal_Strike",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Cleave",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Life_Steal",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 4,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Пылающий",
+                "level": {
+                  "min": 3,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Lucky_Momentum",
+                "level": {
+                  "min": 3,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Frenzy",
+                "level": {
+                  "min": 3,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "В этом снаряжении главное - сражаться с мобами в ближнем бою и вызывать ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Счастливые хиты",
+                  "color": "$luckyHit"
+                },
+                {
+                  "text": " with ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Счастливый плач",
+                  "color": "$name"
+                },
+                {
+                  "text": " to ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Cleave",
+                  "color": "$name"
+                },
+                {
+                  "text": " большие группы, ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Смертельный удар",
+                  "color": "$name"
+                },
+                {
+                  "text": " тяжелые цели и ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Пиявка жизни",
+                  "color": "$name"
+                },
+                {
+                  "text": " чтобы оставаться здоровым. ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Пиявка жизни",
+                  "color": "$name"
+                },
+                {
+                  "text": " шкалы, основанные на ваших ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "максимальное здоровье",
+                  "color": "здоровье"
+                },
+                {
+                  "text": "поэтому сосредоточьтесь на ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Здоровье",
+                  "color": "здоровье"
+                },
+                {
+                  "text": ", ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Счастливый случай",
+                  "color": "$luckyHit"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Урон от атаки",
+                  "color": "ущерб"
+                },
+                {
+                  "text": "/",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Повышенный урон от атак",
+                  "color": "$incdmg"
+                },
+                {
+                  "text": "и делайте выстрелы, чтобы ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Frenzy",
+                  "color": "$name"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Счастливый момент",
+                  "color": "$name"
+                },
+                {
+                  "text": " взлететь!",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Торнбаш",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Shield_Bash",
+                "level": {
+                  "min": 6,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Shell_Base",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Totem_Base",
+                "level": {
+                  "min": 2,
+                  "max": 6,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Daze",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 4,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Берсеркинг",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "В этом снаряжении используется ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Shield Bash",
+                  "color": "$name"
+                },
+                {
+                  "text": " как источник урона с близкого расстояния по области действия. The ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Ракушка",
+                  "color": "$name"
+                },
+                {
+                  "text": " включение помогает ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "stun",
+                  "color": "$stun"
+                },
+                {
+                  "text": " мобы, которые бьют вас, и ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Daze",
+                  "color": "$name"
+                },
+                {
+                  "text": " умножает весь наносимый урон. Очень важно найти щит с ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Повреждения от шипов",
+                  "color": "$thornsDamage"
+                },
+                {
+                  "text": "как ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Shield Bash",
+                  "color": "$name"
+                },
+                {
+                  "text": " чешуя ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Повреждения от шипов",
+                  "color": "$thornsDamage"
+                },
+                {
+                  "text": ". В центре внимания ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Повышенный урон от атак",
+                  "color": "$incdmg"
+                },
+                {
+                  "text": " на броню, а оружие с ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Шанс оглушения",
+                  "color": "$stun"
+                },
+                {
+                  "text": " чтобы максимизировать свой урон!",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Beamcaller",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Totem_Mob_Damage",
+                "level": {
+                  "min": 6,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcane_Base",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Daze",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Разведка",
+                "level": {
+                  "min": 4,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 2,
+                  "max": 6,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Тотем ненависти",
+                  "color": "$name"
+                },
+                {
+                  "text": "если положить его на землю, он нанесет небольшое количество ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$экспертиза"
+                },
+                {
+                  "text": " наносит урон неограниченному количеству мобов в большом радиусе, а также накладывает эффекты на хиты. Мы комбинируем это с ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Daze",
+                  "color": "$name"
+                },
+                {
+                  "text": " и сосредоточиться на получении ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Шанс оглушения",
+                  "color": "$stun"
+                },
+                {
+                  "text": " оружие, желательно также с ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Цепочка",
+                  "color": "$chaining"
+                },
+                {
+                  "text": " для максимального урона и контроля толпы. С бродячими мобами можно справиться с помощью мощного ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Arcane",
+                  "color": "$name"
+                },
+                {
+                  "text": " ability.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Связанные кровью",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Rampage_Leech",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Implode_Life_Tap",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Life_Steal",
+                "level": {
+                  "min": 2,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Методические",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Last_Stand",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 2,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Жизнь впритык",
+                  "color": "$name"
+                },
+                {
+                  "text": " это очень сильная и немного рискованная способность. Истощая свой собственный ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "health",
+                  "color": "здоровье"
+                },
+                {
+                  "text": "он наносит огромное количество урона в большом ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "radius",
+                  "color": "$radius"
+                },
+                {
+                  "text": " вокруг вас. Сочетание ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Кража жизни",
+                  "color": "$name"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Вампирический",
+                  "color": "$name"
+                },
+                {
+                  "text": "который может пополнить ваши ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "health",
+                  "color": "здоровье"
+                },
+                {
+                  "text": "они очень важны, но не забудьте сосредоточиться на ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Счастливый случай",
+                  "color": "$luckyHit"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Здоровье",
+                  "color": "здоровье"
+                },
+                {
+                  "text": " рулоны, чтобы сделать оба варианта жизнеспособными, а также ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Эффективность исцеления",
+                  "color": "исцеление"
+                },
+                {
+                  "text": " чтобы исцелять больше из каждого источника исцеления!",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Штурмовик",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Chain_Lightning_Base",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Lightning_Damage",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Разведка",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 2,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Удар молнии",
+                  "color": "$name"
+                },
+                {
+                  "text": " это быстрая и сильная способность, позволяющая наколдовать волшебную стрелу-молнию, которая поражает мобов с большого расстояния. Она наносит урон в зависимости от вашего ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$ability_power"
+                },
+                {
+                  "text": ", и мы используем ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Мастерство молнии",
+                  "color": "$name"
+                },
+                {
+                  "text": " чтобы увеличить минимальный радиус поражения. Сосредоточьтесь на ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$ability_power"
+                },
+                {
+                  "text": " и получить ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Палочка",
+                  "color": "$item"
+                },
+                {
+                  "text": " для максимального веселья!",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Baller",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Цепь_молний",
+                "level": {
+                  "min": 6,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Smite_Base",
+                "level": {
+                  "min": 4,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Lightning_Damage",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Разведка",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Колдовство",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Шаровая молния",
+                  "color": "$name"
+                },
+                {
+                  "text": " выпускает искрящийся шар-молнию, который преследует ваше перекрестие и наносит ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$ability_power"
+                },
+                {
+                  "text": " наносит урон, основанный на уроне, всему, во что попадает. В паре с ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Smite",
+                  "color": "$name"
+                },
+                {
+                  "text": " и используя ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Мастерство молнии",
+                  "color": "$name"
+                },
+                {
+                  "text": " чтобы сгладить диапазон урона и обеспечить более стабильные попадания. Сосредоточьтесь на ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Сила способностей",
+                  "color": "$ability_power"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Уменьшение колдауна",
+                  "color": "$cooldown"
+                },
+                {
+                  "text": " чтобы иметь возможность наносить высокий урон с малым интервалом!",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Квакер",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Землетрясение_база",
+                "level": {
+                  "min": 6,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Stonefall_Base",
+                "level": {
+                  "min": 2,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Battle_Cry_Base",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Frenzy",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Землетрясение",
+                  "color": "$name"
+                },
+                {
+                  "text": " создает мощный взрыв через несколько секунд после его произнесения, способный зачистить огромные группы мобов в инстансе. Важно подобрать оружие с высоким ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Урон от атаки",
+                  "color": "ущерб"
+                },
+                {
+                  "text": " так как это базовый урон для него, и соедините его с ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Повышенный урон",
+                  "color": "$incdmg"
+                },
+                {
+                  "text": " на вашем снаряжении, чтобы оно летало. ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Боевой клич",
+                  "color": "$name"
+                },
+                {
+                  "text": " можно использовать для успешной борьбы с бездомными животными.",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "name": "Гренадер",
+            "abilities": [
+              {
+                "id": "Dash_Base",
+                "level": {
+                  "min": 1,
+                  "max": 3,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Vein_Miner_Base",
+                "level": {
+                  "min": 1,
+                  "max": 1,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Гранат_база",
+                "level": {
+                  "min": 6,
+                  "max": 8,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Battle_Cry_Base",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "talents": [
+              {
+                "id": "Прочность",
+                "level": {
+                  "min": 2,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Frenzy",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Скорость",
+                "level": {
+                  "min": 1,
+                  "max": 2,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Прайм_увеличение",
+                "level": {
+                  "min": 3,
+                  "max": 6,
+                  "type": "uniform"
+                }
+              },
+              {
+                "id": "Arcana",
+                "level": {
+                  "min": 1,
+                  "max": 4,
+                  "type": "uniform"
+                }
+              }
+            ],
+            "description": {
+              "description": [
+                {
+                  "text": "Куб Хаоса",
+                  "color": "$name"
+                },
+                {
+                  "text": " может быть чрезвычайно мощным, если его правильно использовать для зачистки больших групп мобов. ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Боевой клич",
+                  "color": "$name"
+                },
+                {
+                  "text": " может легко справиться с танками и чемпионами. ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Arcana",
+                  "color": "$name"
+                },
+                {
+                  "text": " поможет вам сохранить ману, сосредоточьтесь на высоких ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Урон от атаки",
+                  "color": "ущерб"
+                },
+                {
+                  "text": " and ",
+                  "color": "$ светло-серый"
+                },
+                {
+                  "text": "Повышенный урон",
+                  "color": "$incdmg"
+                },
+                {
+                  "text": " бросайте и направляйте кубы Хаоса правильно, чтобы получить доминирующее снаряжение!",
+                  "color": "$ светло-серый"
+                }
+              ]
+            }
+          },
+          "weight": 1
+        }
+      ],
+      "blueTrinketPresets": [
+        {
+          "value": "the_vault:aether",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:cat_in_a_jar",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:carapace",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:chromatic_feather",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:centipede_feet",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:elven_socks",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:ender_anchor",
+          "weight": 0
+        },
+        {
+          "value": "the_vault:gluttony_pendant",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:high_heels",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:night_vision_goggles",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:shadow_cloak",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:slimey",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:stone_of_jordan",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:the_dice",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:velaras_petal",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:wendarrs_hourglass",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:wings",
+          "weight": 1
+        }
+      ],
+      "redTrinketPresets": [
+        {
+          "value": "the_vault:giants_heart",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:chromatic_powder",
+          "weight": 0
+        },
+        {
+          "value": "the_vault:cufflinks",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:golden_burger",
+          "weight": 0
+        },
+        {
+          "value": "the_vault:healing_salve",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:clover",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:crystal_ball",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:idonas_blade",
+          "weight": 0
+        },
+        {
+          "value": "the_vault:lucky_goose",
+          "weight": 0
+        },
+        {
+          "value": "the_vault:phylactery",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:spellbook",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:tenos_charm",
+          "weight": 0
+        }
+      ]
+    }
+  ],
+  "skillPresetSize": 3,
+  "blueTrinketPresetSize": 3,
+  "redTrinketPresetSize": 3
+}
